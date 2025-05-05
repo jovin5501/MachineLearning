@@ -1,0 +1,5001 @@
+Activity,DietPreference,SleepHours,Age,RecommendedDiet
+High,Vegan,6.6,24,High Protein
+Low,Veg,5.0,43,Balanced
+High,Vegan,4.8,32,High Protein
+High,Veg,4.1,66,Balanced
+Low,Vegan,7.9,59,Balanced
+Low,Vegan,10.0,40,Balanced
+High,Veg,7.7,69,Balanced
+Medium,Vegan,9.5,55,Balanced
+High,Non-Veg,8.7,58,Balanced
+High,Veg,6.2,32,Balanced
+High,Non-Veg,8.9,65,Balanced
+High,Veg,6.3,57,Balanced
+Low,Vegan,6.3,33,Balanced
+High,Vegan,6.7,49,High Protein
+Medium,Vegan,6.8,54,Balanced
+Low,Veg,8.0,35,Balanced
+Medium,Non-Veg,6.0,37,Mediterranean
+Medium,Non-Veg,8.3,63,Mediterranean
+Medium,Veg,8.3,19,Balanced
+Medium,Veg,7.5,40,Balanced
+Low,Non-Veg,9.9,47,Low Carb
+Low,Non-Veg,8.9,20,Low Carb
+Medium,Non-Veg,8.6,63,Mediterranean
+Medium,Non-Veg,7.1,56,Mediterranean
+Low,Veg,7.5,64,Balanced
+Low,Veg,7.8,66,Balanced
+Low,Vegan,7.0,18,Balanced
+High,Non-Veg,6.4,58,Balanced
+High,Vegan,4.0,39,High Protein
+High,Veg,8.1,46,Balanced
+Medium,Veg,8.6,31,Balanced
+High,Vegan,5.3,65,High Protein
+Medium,Non-Veg,7.9,45,Mediterranean
+Medium,Non-Veg,6.1,38,Mediterranean
+High,Non-Veg,6.5,62,Balanced
+Medium,Non-Veg,9.0,49,Mediterranean
+High,Vegan,5.5,23,High Protein
+High,Vegan,5.5,18,High Protein
+Low,Veg,9.7,38,Balanced
+High,Non-Veg,6.8,21,Balanced
+Low,Non-Veg,8.9,20,Low Carb
+High,Non-Veg,4.6,66,Balanced
+High,Vegan,4.7,47,High Protein
+Low,Non-Veg,5.6,48,Low Carb
+Low,Vegan,6.3,51,Balanced
+High,Non-Veg,4.9,36,Balanced
+Medium,Non-Veg,7.6,37,Mediterranean
+Low,Veg,7.7,40,Balanced
+Medium,Non-Veg,5.7,57,Mediterranean
+Medium,Non-Veg,5.8,42,Mediterranean
+Medium,Veg,6.0,32,Balanced
+Low,Vegan,5.3,55,Balanced
+Medium,Vegan,4.0,40,Balanced
+Low,Non-Veg,6.9,69,Low Carb
+Medium,Vegan,6.4,19,Balanced
+High,Non-Veg,6.5,32,Balanced
+High,Veg,5.5,69,Balanced
+Low,Veg,8.2,61,Balanced
+High,Non-Veg,10.0,52,Balanced
+High,Veg,5.7,27,Balanced
+Medium,Veg,9.1,31,Balanced
+Low,Non-Veg,7.5,44,Low Carb
+Medium,Non-Veg,7.1,31,Mediterranean
+Medium,Veg,6.5,52,Balanced
+Medium,Vegan,6.9,50,Balanced
+Medium,Vegan,8.7,69,Balanced
+Medium,Non-Veg,5.3,18,Mediterranean
+Medium,Non-Veg,6.6,51,Mediterranean
+Medium,Vegan,8.9,36,Balanced
+Low,Veg,8.5,41,Balanced
+High,Vegan,5.3,59,High Protein
+Medium,Vegan,6.7,21,Balanced
+Medium,Vegan,8.1,53,Balanced
+Medium,Vegan,8.0,30,Balanced
+Medium,Non-Veg,8.5,49,Mediterranean
+Medium,Non-Veg,7.6,26,Mediterranean
+Medium,Veg,7.8,56,Balanced
+High,Veg,7.5,33,Balanced
+High,Veg,9.4,67,Balanced
+Medium,Veg,6.4,20,Balanced
+High,Vegan,7.1,69,High Protein
+Low,Non-Veg,5.5,37,Low Carb
+Medium,Non-Veg,5.2,27,Mediterranean
+Low,Veg,7.5,39,Balanced
+Low,Veg,5.9,65,Balanced
+Medium,Vegan,6.9,20,Balanced
+High,Vegan,9.4,28,High Protein
+Low,Veg,9.3,42,Balanced
+Medium,Non-Veg,10.0,59,Mediterranean
+Low,Non-Veg,9.5,65,Low Carb
+Low,Non-Veg,10.0,25,Low Carb
+Low,Veg,7.7,26,Balanced
+Low,Non-Veg,5.6,32,Low Carb
+High,Vegan,5.5,49,High Protein
+Low,Vegan,9.1,20,Balanced
+Low,Veg,7.1,21,Balanced
+Low,Vegan,7.2,47,Balanced
+High,Veg,6.2,30,Balanced
+Low,Non-Veg,6.4,61,Low Carb
+Low,Non-Veg,7.6,38,Low Carb
+High,Non-Veg,5.4,58,Balanced
+High,Vegan,7.4,63,High Protein
+High,Veg,9.3,36,Balanced
+Low,Non-Veg,4.0,56,Low Carb
+High,Veg,4.7,65,Balanced
+High,Non-Veg,8.0,39,Balanced
+Low,Vegan,9.0,37,Balanced
+High,Vegan,6.3,54,High Protein
+Low,Veg,4.0,48,Balanced
+Medium,Vegan,9.1,27,Balanced
+High,Vegan,5.8,35,High Protein
+Medium,Veg,6.5,60,Balanced
+Low,Non-Veg,7.5,56,Low Carb
+High,Vegan,6.0,63,High Protein
+Low,Veg,5.7,37,Balanced
+Medium,Vegan,5.7,35,Balanced
+Low,Vegan,9.8,28,Balanced
+High,Vegan,8.7,39,High Protein
+High,Vegan,7.9,61,High Protein
+Medium,Veg,4.0,35,Balanced
+Low,Veg,7.9,51,Balanced
+High,Veg,7.8,40,Balanced
+Medium,Vegan,5.1,18,Balanced
+High,Vegan,7.4,27,High Protein
+High,Vegan,8.6,18,High Protein
+Low,Veg,7.9,55,Balanced
+High,Vegan,6.0,56,High Protein
+Low,Non-Veg,7.0,66,Low Carb
+High,Vegan,8.1,26,High Protein
+Medium,Non-Veg,7.1,48,Mediterranean
+High,Vegan,8.9,24,High Protein
+Low,Veg,7.6,34,Balanced
+Low,Vegan,8.1,52,Balanced
+Medium,Non-Veg,8.2,65,Mediterranean
+High,Non-Veg,5.4,54,Balanced
+High,Vegan,7.1,69,High Protein
+Medium,Non-Veg,6.5,35,Mediterranean
+High,Non-Veg,8.6,50,Balanced
+High,Veg,7.7,21,Balanced
+Low,Vegan,6.7,40,Balanced
+High,Vegan,5.1,28,High Protein
+High,Vegan,4.6,69,High Protein
+Medium,Non-Veg,7.5,26,Mediterranean
+Medium,Vegan,5.9,47,Balanced
+Low,Vegan,8.0,25,Balanced
+High,Veg,4.5,57,Balanced
+High,Veg,9.4,22,Balanced
+High,Veg,8.0,29,Balanced
+Low,Non-Veg,7.1,18,Low Carb
+Low,Vegan,9.5,32,Balanced
+Medium,Veg,8.4,42,Balanced
+Low,Veg,6.3,35,Balanced
+High,Veg,7.1,55,Balanced
+High,Vegan,4.1,59,High Protein
+Low,Vegan,8.6,63,Balanced
+High,Vegan,6.6,43,High Protein
+High,Non-Veg,4.0,57,Balanced
+Low,Non-Veg,5.2,20,Low Carb
+Low,Veg,8.3,39,Balanced
+High,Vegan,9.4,43,High Protein
+High,Veg,7.0,36,Balanced
+High,Vegan,5.5,61,High Protein
+Medium,Vegan,4.9,61,Balanced
+Medium,Vegan,9.1,64,Balanced
+Medium,Non-Veg,7.7,56,Mediterranean
+Low,Non-Veg,6.5,53,Low Carb
+Medium,Vegan,6.1,38,Balanced
+Low,Veg,8.0,58,Balanced
+Low,Vegan,8.0,65,Balanced
+Medium,Vegan,5.7,43,Balanced
+Medium,Veg,5.3,30,Balanced
+Medium,Vegan,5.4,53,Balanced
+High,Veg,6.3,41,Balanced
+Medium,Non-Veg,6.0,58,Mediterranean
+High,Non-Veg,9.4,43,Balanced
+Low,Veg,6.2,38,Balanced
+High,Non-Veg,5.1,35,Balanced
+Medium,Non-Veg,5.2,32,Mediterranean
+Low,Veg,6.7,32,Balanced
+Low,Non-Veg,4.3,23,Low Carb
+Low,Vegan,6.9,60,Balanced
+High,Vegan,5.0,48,High Protein
+Medium,Veg,8.7,45,Balanced
+Low,Non-Veg,7.2,25,Low Carb
+Low,Vegan,10.0,46,Balanced
+Low,Vegan,6.7,38,Balanced
+High,Non-Veg,4.0,34,Balanced
+High,Non-Veg,9.2,66,Balanced
+Medium,Vegan,7.8,41,Balanced
+High,Vegan,8.0,67,High Protein
+Low,Veg,5.5,53,Balanced
+Medium,Veg,6.9,48,Balanced
+Low,Vegan,7.3,64,Balanced
+Low,Veg,6.6,51,Balanced
+High,Vegan,4.4,19,High Protein
+Medium,Vegan,10.0,59,Balanced
+High,Veg,8.3,20,Balanced
+High,Veg,7.6,47,Balanced
+Medium,Non-Veg,9.0,25,Mediterranean
+Low,Non-Veg,8.0,69,Low Carb
+Low,Non-Veg,6.0,24,Low Carb
+Medium,Vegan,8.9,29,Balanced
+Low,Veg,8.3,36,Balanced
+Medium,Vegan,6.0,43,Balanced
+Medium,Veg,8.2,45,Balanced
+High,Vegan,6.6,32,High Protein
+Medium,Non-Veg,7.3,31,Mediterranean
+High,Non-Veg,7.9,65,Balanced
+Low,Non-Veg,9.1,31,Low Carb
+Low,Vegan,6.0,20,Balanced
+Low,Veg,7.5,67,Balanced
+Low,Veg,10.0,46,Balanced
+High,Non-Veg,6.7,23,Balanced
+Low,Non-Veg,7.3,66,Low Carb
+Medium,Non-Veg,10.0,40,Mediterranean
+Medium,Non-Veg,8.0,45,Mediterranean
+Medium,Veg,4.8,31,Balanced
+High,Vegan,5.8,31,High Protein
+Low,Vegan,8.0,37,Balanced
+Low,Vegan,7.6,30,Balanced
+Low,Vegan,7.2,44,Balanced
+High,Non-Veg,10.0,52,Balanced
+Medium,Non-Veg,6.1,62,Mediterranean
+Medium,Non-Veg,6.9,19,Mediterranean
+Low,Vegan,4.1,58,Balanced
+Medium,Non-Veg,8.7,62,Mediterranean
+Medium,Non-Veg,5.8,57,Mediterranean
+High,Veg,8.6,65,Balanced
+High,Veg,8.4,41,Balanced
+High,Non-Veg,10.0,46,Balanced
+High,Veg,8.0,20,Balanced
+Low,Veg,6.5,62,Balanced
+High,Non-Veg,7.7,21,Balanced
+Medium,Non-Veg,5.9,67,Mediterranean
+Low,Non-Veg,7.5,19,Low Carb
+Medium,Non-Veg,6.7,37,Mediterranean
+Medium,Vegan,6.9,32,Balanced
+Medium,Vegan,5.7,66,Balanced
+High,Non-Veg,7.5,49,Balanced
+High,Veg,8.2,59,Balanced
+Low,Non-Veg,4.5,18,Low Carb
+Low,Non-Veg,6.0,55,Low Carb
+High,Veg,7.3,52,Balanced
+Medium,Vegan,4.0,68,Balanced
+Low,Non-Veg,9.6,24,Low Carb
+High,Non-Veg,5.9,62,Balanced
+High,Vegan,5.6,30,High Protein
+High,Vegan,6.7,66,High Protein
+Medium,Veg,7.2,18,Balanced
+High,Vegan,5.9,31,High Protein
+High,Vegan,8.5,46,High Protein
+High,Vegan,7.6,20,High Protein
+High,Veg,5.7,63,Balanced
+Low,Vegan,6.2,41,Balanced
+Low,Vegan,4.7,18,Balanced
+High,Veg,5.1,65,Balanced
+Medium,Vegan,7.6,27,Balanced
+Low,Vegan,5.8,30,Balanced
+High,Veg,9.7,53,Balanced
+Low,Non-Veg,7.1,26,Low Carb
+Low,Veg,5.0,31,Balanced
+Medium,Vegan,5.3,53,Balanced
+High,Vegan,8.6,27,High Protein
+High,Vegan,6.9,57,High Protein
+Medium,Veg,8.5,40,Balanced
+Medium,Vegan,6.5,52,Balanced
+High,Vegan,6.2,24,High Protein
+High,Veg,8.7,59,Balanced
+Medium,Non-Veg,5.7,52,Mediterranean
+Low,Non-Veg,7.7,19,Low Carb
+Low,Vegan,6.7,32,Balanced
+Medium,Veg,8.3,26,Balanced
+Low,Vegan,9.7,64,Balanced
+Medium,Veg,6.4,34,Balanced
+Low,Veg,6.2,56,Balanced
+Low,Non-Veg,8.0,69,Low Carb
+High,Non-Veg,5.4,35,Balanced
+High,Veg,9.4,32,Balanced
+Low,Vegan,9.2,35,Balanced
+Low,Non-Veg,5.5,41,Low Carb
+High,Vegan,4.6,40,High Protein
+High,Non-Veg,5.3,29,Balanced
+High,Non-Veg,5.3,40,Balanced
+Medium,Vegan,8.2,38,Balanced
+Low,Non-Veg,9.3,43,Low Carb
+High,Non-Veg,8.2,25,Balanced
+Low,Vegan,6.6,47,Balanced
+Medium,Non-Veg,7.5,51,Mediterranean
+Medium,Non-Veg,5.7,19,Mediterranean
+High,Non-Veg,8.6,22,Balanced
+Medium,Vegan,7.6,48,Balanced
+Low,Veg,8.2,50,Balanced
+High,Vegan,5.9,21,High Protein
+Low,Veg,6.7,23,Balanced
+Low,Non-Veg,8.1,40,Low Carb
+Medium,Veg,9.2,62,Balanced
+Medium,Vegan,6.1,36,Balanced
+Medium,Vegan,8.2,60,Balanced
+Medium,Non-Veg,5.9,62,Mediterranean
+Medium,Veg,10.0,25,Balanced
+High,Non-Veg,6.4,56,Balanced
+Low,Non-Veg,8.0,30,Low Carb
+Low,Vegan,7.2,18,Balanced
+Low,Veg,10.0,23,Balanced
+Low,Veg,7.3,24,Balanced
+Medium,Veg,6.2,65,Balanced
+Low,Veg,8.0,44,Balanced
+High,Non-Veg,7.9,32,Balanced
+High,Non-Veg,6.8,69,Balanced
+Low,Vegan,5.4,51,Balanced
+Low,Non-Veg,6.2,40,Low Carb
+High,Non-Veg,8.3,65,Balanced
+High,Vegan,4.4,66,High Protein
+Medium,Vegan,6.6,41,Balanced
+High,Vegan,8.5,32,High Protein
+Medium,Non-Veg,6.9,52,Mediterranean
+Medium,Non-Veg,10.0,21,Mediterranean
+Medium,Vegan,4.4,61,Balanced
+Medium,Vegan,5.6,54,Balanced
+Medium,Vegan,4.0,34,Balanced
+Low,Non-Veg,10.0,48,Low Carb
+High,Non-Veg,5.6,55,Balanced
+Medium,Veg,4.0,27,Balanced
+High,Non-Veg,6.1,67,Balanced
+High,Non-Veg,4.9,44,Balanced
+Medium,Non-Veg,6.1,59,Mediterranean
+Low,Vegan,7.1,23,Balanced
+Medium,Non-Veg,8.2,23,Mediterranean
+Low,Vegan,6.7,69,Balanced
+High,Veg,7.0,32,Balanced
+Low,Veg,6.1,21,Balanced
+Low,Vegan,4.7,65,Balanced
+Low,Vegan,4.2,57,Balanced
+High,Vegan,6.5,24,High Protein
+High,Non-Veg,7.1,68,Balanced
+Low,Veg,6.3,66,Balanced
+Low,Vegan,4.3,62,Balanced
+Medium,Non-Veg,7.3,64,Mediterranean
+Low,Veg,9.4,43,Balanced
+Medium,Non-Veg,6.8,48,Mediterranean
+Low,Veg,6.1,19,Balanced
+Medium,Non-Veg,6.9,45,Mediterranean
+High,Veg,5.3,59,Balanced
+Low,Veg,5.2,30,Balanced
+Low,Non-Veg,7.7,35,Low Carb
+Low,Vegan,8.5,47,Balanced
+Low,Veg,6.8,28,Balanced
+Medium,Vegan,4.0,30,Balanced
+Low,Non-Veg,7.5,68,Low Carb
+High,Vegan,10.0,41,High Protein
+High,Vegan,6.6,46,High Protein
+Low,Vegan,6.7,22,Balanced
+High,Vegan,5.7,52,High Protein
+Low,Vegan,7.7,36,Balanced
+Low,Veg,6.0,30,Balanced
+High,Veg,8.5,22,Balanced
+Low,Veg,6.0,61,Balanced
+High,Non-Veg,7.5,31,Balanced
+Medium,Vegan,6.9,55,Balanced
+Low,Veg,9.3,39,Balanced
+Medium,Non-Veg,7.6,26,Mediterranean
+High,Veg,9.1,66,Balanced
+Medium,Veg,7.2,57,Balanced
+Medium,Vegan,6.7,43,Balanced
+High,Non-Veg,6.9,62,Balanced
+Medium,Vegan,5.8,22,Balanced
+Medium,Vegan,7.8,46,Balanced
+High,Veg,6.0,39,Balanced
+Medium,Vegan,7.2,66,Balanced
+High,Non-Veg,8.3,20,Balanced
+Medium,Vegan,9.4,45,Balanced
+High,Vegan,7.2,55,High Protein
+High,Vegan,8.3,31,High Protein
+Medium,Veg,8.1,64,Balanced
+Medium,Non-Veg,6.4,31,Mediterranean
+Medium,Veg,10.0,60,Balanced
+Low,Veg,6.1,28,Balanced
+Low,Veg,7.1,26,Balanced
+Low,Veg,9.2,55,Balanced
+High,Veg,9.1,64,Balanced
+Medium,Non-Veg,7.0,61,Mediterranean
+High,Vegan,8.5,23,High Protein
+Low,Veg,6.7,18,Balanced
+Medium,Veg,6.3,42,Balanced
+High,Non-Veg,5.2,33,Balanced
+Medium,Non-Veg,8.1,69,Mediterranean
+High,Vegan,8.2,32,High Protein
+Medium,Non-Veg,6.1,51,Mediterranean
+Low,Vegan,7.4,34,Balanced
+Low,Veg,10.0,20,Balanced
+Medium,Veg,8.7,20,Balanced
+High,Vegan,5.6,54,High Protein
+Low,Non-Veg,8.5,34,Low Carb
+Low,Vegan,5.7,66,Balanced
+Low,Non-Veg,4.0,69,Low Carb
+Medium,Veg,7.0,55,Balanced
+Medium,Non-Veg,9.3,18,Mediterranean
+High,Vegan,9.1,24,High Protein
+High,Vegan,7.6,43,High Protein
+High,Veg,6.2,64,Balanced
+Medium,Non-Veg,7.7,56,Mediterranean
+Medium,Non-Veg,6.6,36,Mediterranean
+High,Non-Veg,6.2,69,Balanced
+High,Veg,8.6,47,Balanced
+Medium,Non-Veg,6.2,60,Mediterranean
+High,Vegan,8.7,31,High Protein
+Low,Non-Veg,6.1,30,Low Carb
+Medium,Veg,10.0,37,Balanced
+High,Non-Veg,4.5,43,Balanced
+Medium,Non-Veg,5.6,44,Mediterranean
+Low,Vegan,6.8,42,Balanced
+Medium,Non-Veg,4.0,26,Mediterranean
+Medium,Vegan,4.0,58,Balanced
+Medium,Vegan,4.0,65,Balanced
+Medium,Veg,6.6,29,Balanced
+Low,Vegan,6.6,27,Balanced
+Medium,Vegan,7.5,23,Balanced
+Medium,Veg,6.7,67,Balanced
+High,Vegan,7.4,51,High Protein
+Medium,Veg,6.3,69,Balanced
+High,Non-Veg,8.1,58,Balanced
+Low,Veg,7.9,36,Balanced
+Low,Vegan,6.5,23,Balanced
+Low,Veg,7.8,19,Balanced
+Low,Vegan,6.7,32,Balanced
+High,Non-Veg,4.7,34,Balanced
+Medium,Veg,8.4,33,Balanced
+Low,Non-Veg,5.6,45,Low Carb
+Medium,Vegan,8.3,38,Balanced
+High,Vegan,7.5,25,High Protein
+High,Non-Veg,6.9,27,Balanced
+High,Veg,4.2,27,Balanced
+Low,Veg,9.3,67,Balanced
+Medium,Vegan,6.5,27,Balanced
+Medium,Non-Veg,8.0,26,Mediterranean
+Medium,Non-Veg,6.8,45,Mediterranean
+High,Veg,6.6,41,Balanced
+Low,Veg,7.3,36,Balanced
+High,Veg,7.0,50,Balanced
+High,Non-Veg,6.6,21,Balanced
+Medium,Veg,6.9,20,Balanced
+High,Veg,7.6,59,Balanced
+Medium,Vegan,7.7,29,Balanced
+Low,Veg,7.1,35,Balanced
+Medium,Veg,7.9,40,Balanced
+Low,Non-Veg,6.4,37,Low Carb
+Medium,Non-Veg,10.0,23,Mediterranean
+High,Vegan,9.2,51,High Protein
+High,Veg,8.1,59,Balanced
+Low,Vegan,4.1,19,Balanced
+Low,Non-Veg,7.9,47,Low Carb
+Low,Vegan,6.5,26,Balanced
+Medium,Non-Veg,5.5,44,Mediterranean
+Medium,Vegan,6.5,59,Balanced
+Low,Vegan,5.7,51,Balanced
+High,Veg,7.8,57,Balanced
+Medium,Vegan,9.4,41,Balanced
+Medium,Veg,8.2,66,Balanced
+Medium,Veg,10.0,34,Balanced
+Low,Veg,4.7,46,Balanced
+Low,Veg,6.2,53,Balanced
+Low,Vegan,5.6,67,Balanced
+Low,Non-Veg,8.8,29,Low Carb
+Low,Non-Veg,6.7,48,Low Carb
+High,Non-Veg,7.3,66,Balanced
+High,Vegan,8.0,26,High Protein
+Low,Veg,4.8,36,Balanced
+Medium,Non-Veg,6.1,63,Mediterranean
+Low,Vegan,8.5,63,Balanced
+High,Veg,6.2,34,Balanced
+High,Non-Veg,4.4,19,Balanced
+Medium,Veg,5.6,57,Balanced
+High,Non-Veg,6.6,22,Balanced
+Low,Non-Veg,7.3,56,Low Carb
+Medium,Non-Veg,6.9,65,Mediterranean
+Low,Veg,6.1,33,Balanced
+Low,Vegan,8.4,34,Balanced
+Medium,Veg,6.8,44,Balanced
+Low,Non-Veg,7.3,24,Low Carb
+High,Veg,6.2,69,Balanced
+Low,Vegan,9.3,25,Balanced
+Medium,Veg,6.4,25,Balanced
+Medium,Vegan,7.1,40,Balanced
+Medium,Vegan,8.6,49,Balanced
+Low,Veg,7.4,60,Balanced
+Medium,Non-Veg,7.4,64,Mediterranean
+Medium,Vegan,4.0,35,Balanced
+Low,Veg,8.0,55,Balanced
+High,Vegan,7.1,29,High Protein
+Low,Non-Veg,7.8,32,Low Carb
+Medium,Veg,7.3,45,Balanced
+Medium,Veg,6.2,55,Balanced
+Low,Veg,8.3,67,Balanced
+High,Non-Veg,7.3,48,Balanced
+Medium,Vegan,5.1,69,Balanced
+Medium,Veg,9.0,26,Balanced
+Medium,Vegan,4.9,25,Balanced
+Low,Vegan,8.4,63,Balanced
+Medium,Non-Veg,9.2,36,Mediterranean
+High,Veg,5.3,68,Balanced
+Medium,Vegan,6.8,25,Balanced
+Medium,Veg,6.7,51,Balanced
+High,Veg,6.7,21,Balanced
+Medium,Non-Veg,9.7,48,Mediterranean
+Low,Veg,5.4,55,Balanced
+Low,Veg,6.5,20,Balanced
+Low,Vegan,9.3,52,Balanced
+High,Non-Veg,6.5,36,Balanced
+Medium,Veg,5.6,60,Balanced
+Low,Vegan,7.4,46,Balanced
+High,Non-Veg,8.2,27,Balanced
+Medium,Non-Veg,6.4,29,Mediterranean
+High,Vegan,7.8,63,High Protein
+Low,Vegan,4.9,47,Balanced
+Low,Vegan,5.0,47,Balanced
+Low,Vegan,6.3,35,Balanced
+High,Vegan,7.9,41,High Protein
+High,Veg,8.1,49,Balanced
+Low,Veg,5.2,26,Balanced
+High,Non-Veg,8.1,64,Balanced
+Low,Veg,7.2,41,Balanced
+Low,Veg,5.7,43,Balanced
+Medium,Veg,5.0,20,Balanced
+High,Vegan,7.3,40,High Protein
+Low,Non-Veg,8.9,28,Low Carb
+Low,Non-Veg,7.1,27,Low Carb
+High,Non-Veg,5.6,67,Balanced
+Medium,Non-Veg,4.2,53,Mediterranean
+Medium,Veg,9.3,30,Balanced
+Low,Veg,8.6,46,Balanced
+High,Vegan,7.5,55,High Protein
+Medium,Non-Veg,9.2,30,Mediterranean
+High,Veg,7.3,43,Balanced
+High,Veg,6.2,37,Balanced
+Low,Vegan,7.8,22,Balanced
+Medium,Vegan,5.8,37,Balanced
+Low,Vegan,5.5,31,Balanced
+Medium,Veg,8.2,62,Balanced
+Medium,Veg,8.3,31,Balanced
+Medium,Vegan,5.1,25,Balanced
+Medium,Non-Veg,5.1,65,Mediterranean
+Medium,Vegan,6.3,30,Balanced
+High,Vegan,5.9,41,High Protein
+Low,Vegan,7.7,32,Balanced
+High,Vegan,7.1,68,High Protein
+Medium,Veg,8.7,18,Balanced
+Low,Non-Veg,7.5,39,Low Carb
+Medium,Vegan,6.0,51,Balanced
+Low,Non-Veg,4.2,67,Low Carb
+High,Non-Veg,7.3,68,Balanced
+Low,Non-Veg,4.4,57,Low Carb
+Low,Vegan,6.0,20,Balanced
+Low,Veg,5.9,43,Balanced
+Low,Vegan,6.2,31,Balanced
+Low,Non-Veg,5.0,58,Low Carb
+Medium,Non-Veg,5.9,25,Mediterranean
+Low,Veg,8.7,66,Balanced
+Low,Vegan,8.7,33,Balanced
+High,Non-Veg,9.3,59,Balanced
+Low,Veg,7.0,38,Balanced
+High,Non-Veg,7.4,27,Balanced
+Medium,Veg,8.7,42,Balanced
+Low,Veg,4.8,55,Balanced
+High,Vegan,8.2,39,High Protein
+High,Non-Veg,9.0,66,Balanced
+Medium,Vegan,5.7,65,Balanced
+Low,Non-Veg,9.1,64,Low Carb
+Low,Vegan,10.0,63,Balanced
+High,Non-Veg,8.2,21,Balanced
+Low,Vegan,7.9,21,Balanced
+High,Veg,5.3,47,Balanced
+Low,Non-Veg,8.6,19,Low Carb
+High,Non-Veg,5.5,46,Balanced
+Low,Veg,7.6,60,Balanced
+Medium,Vegan,7.7,53,Balanced
+Low,Non-Veg,4.0,38,Low Carb
+Low,Non-Veg,7.6,38,Low Carb
+Medium,Vegan,10.0,65,Balanced
+Low,Veg,4.0,38,Balanced
+Medium,Vegan,6.9,21,Balanced
+Low,Vegan,4.1,18,Balanced
+High,Vegan,5.7,43,High Protein
+High,Non-Veg,4.1,68,Balanced
+Low,Veg,7.2,19,Balanced
+Low,Veg,8.2,26,Balanced
+Low,Vegan,7.6,62,Balanced
+High,Non-Veg,5.6,35,Balanced
+Low,Vegan,6.1,65,Balanced
+High,Non-Veg,7.4,65,Balanced
+Medium,Non-Veg,5.7,59,Mediterranean
+High,Non-Veg,5.0,58,Balanced
+High,Non-Veg,6.6,28,Balanced
+Medium,Veg,5.6,42,Balanced
+High,Non-Veg,7.6,43,Balanced
+Low,Non-Veg,8.9,53,Low Carb
+Low,Vegan,10.0,59,Balanced
+High,Vegan,7.5,52,High Protein
+Low,Veg,8.0,55,Balanced
+High,Vegan,6.1,20,High Protein
+Low,Non-Veg,6.2,58,Low Carb
+Low,Vegan,8.9,52,Balanced
+High,Veg,6.6,67,Balanced
+Low,Vegan,7.1,57,Balanced
+High,Vegan,8.8,39,High Protein
+Low,Veg,6.6,25,Balanced
+Low,Veg,9.3,32,Balanced
+Medium,Non-Veg,7.9,62,Mediterranean
+Medium,Vegan,7.7,24,Balanced
+High,Non-Veg,6.0,36,Balanced
+Medium,Vegan,7.8,57,Balanced
+High,Vegan,6.4,59,High Protein
+Medium,Non-Veg,7.7,34,Mediterranean
+Low,Vegan,6.8,18,Balanced
+High,Vegan,8.5,62,High Protein
+High,Vegan,7.0,46,High Protein
+Low,Veg,10.0,30,Balanced
+High,Non-Veg,6.6,65,Balanced
+High,Veg,6.2,46,Balanced
+Medium,Non-Veg,7.5,58,Mediterranean
+High,Non-Veg,8.6,59,Balanced
+Low,Vegan,8.6,23,Balanced
+Medium,Non-Veg,7.3,22,Mediterranean
+Medium,Veg,7.5,51,Balanced
+Low,Veg,7.5,28,Balanced
+Low,Veg,5.4,26,Balanced
+Medium,Non-Veg,8.5,55,Mediterranean
+High,Veg,5.1,57,Balanced
+Medium,Non-Veg,5.4,58,Mediterranean
+Low,Veg,7.1,26,Balanced
+Medium,Veg,6.5,25,Balanced
+Low,Non-Veg,8.2,61,Low Carb
+Medium,Veg,7.7,57,Balanced
+High,Vegan,7.2,20,High Protein
+Medium,Non-Veg,5.3,30,Mediterranean
+Medium,Non-Veg,7.0,36,Mediterranean
+Low,Non-Veg,6.9,51,Low Carb
+Low,Vegan,7.3,49,Balanced
+Low,Non-Veg,6.4,66,Low Carb
+Medium,Veg,7.8,33,Balanced
+High,Veg,6.5,53,Balanced
+Low,Veg,7.6,35,Balanced
+Low,Non-Veg,8.2,31,Low Carb
+Medium,Veg,6.2,47,Balanced
+Low,Non-Veg,5.8,19,Low Carb
+High,Veg,7.7,30,Balanced
+High,Vegan,5.0,44,High Protein
+Low,Vegan,8.7,69,Balanced
+Low,Vegan,7.0,34,Balanced
+Medium,Vegan,6.8,48,Balanced
+High,Non-Veg,7.8,32,Balanced
+High,Veg,7.7,37,Balanced
+Low,Vegan,7.0,22,Balanced
+Medium,Non-Veg,8.3,24,Mediterranean
+High,Vegan,6.0,35,High Protein
+High,Vegan,8.1,28,High Protein
+Medium,Non-Veg,5.4,49,Mediterranean
+Medium,Non-Veg,7.8,67,Mediterranean
+High,Veg,6.5,44,Balanced
+High,Veg,5.0,43,Balanced
+Medium,Vegan,7.4,54,Balanced
+High,Vegan,6.9,62,High Protein
+Low,Veg,4.7,45,Balanced
+Low,Veg,4.0,67,Balanced
+Medium,Non-Veg,6.8,19,Mediterranean
+Medium,Veg,9.4,37,Balanced
+Medium,Veg,7.5,21,Balanced
+Low,Vegan,6.0,30,Balanced
+High,Veg,8.6,41,Balanced
+Low,Vegan,8.4,65,Balanced
+High,Veg,8.9,55,Balanced
+Low,Non-Veg,8.0,57,Low Carb
+High,Veg,8.3,65,Balanced
+Low,Veg,8.1,62,Balanced
+Medium,Veg,6.3,46,Balanced
+Low,Vegan,4.5,53,Balanced
+High,Non-Veg,6.2,19,Balanced
+Low,Veg,8.7,58,Balanced
+Low,Vegan,6.4,35,Balanced
+Low,Non-Veg,6.8,66,Low Carb
+Medium,Vegan,5.3,25,Balanced
+Low,Vegan,6.2,32,Balanced
+Medium,Non-Veg,7.0,58,Mediterranean
+Medium,Veg,7.7,34,Balanced
+Low,Vegan,6.3,40,Balanced
+Low,Vegan,6.2,19,Balanced
+Low,Veg,8.3,23,Balanced
+High,Veg,7.5,46,Balanced
+Low,Non-Veg,7.7,44,Low Carb
+Medium,Non-Veg,9.3,54,Mediterranean
+Low,Non-Veg,6.2,66,Low Carb
+High,Veg,6.9,51,Balanced
+Low,Vegan,7.8,35,Balanced
+High,Vegan,5.7,59,High Protein
+High,Non-Veg,7.3,27,Balanced
+Low,Veg,7.0,55,Balanced
+Medium,Vegan,10.0,61,Balanced
+High,Non-Veg,7.1,34,Balanced
+Low,Vegan,8.7,30,Balanced
+Low,Vegan,8.2,69,Balanced
+Medium,Veg,5.3,65,Balanced
+High,Veg,4.7,59,Balanced
+High,Vegan,7.4,44,High Protein
+Low,Non-Veg,8.9,19,Low Carb
+Low,Veg,7.4,51,Balanced
+Medium,Vegan,7.1,48,Balanced
+Medium,Veg,6.6,40,Balanced
+High,Veg,5.0,24,Balanced
+High,Veg,5.6,55,Balanced
+Low,Vegan,4.6,50,Balanced
+High,Non-Veg,5.3,29,Balanced
+Medium,Non-Veg,6.2,62,Mediterranean
+Medium,Non-Veg,8.2,29,Mediterranean
+Low,Veg,6.3,36,Balanced
+Medium,Vegan,7.4,26,Balanced
+Medium,Veg,7.2,27,Balanced
+Medium,Non-Veg,7.7,34,Mediterranean
+Medium,Non-Veg,5.4,67,Mediterranean
+Low,Vegan,8.6,57,Balanced
+Low,Veg,4.9,56,Balanced
+High,Non-Veg,6.3,58,Balanced
+Medium,Vegan,7.0,27,Balanced
+High,Veg,8.1,29,Balanced
+Low,Veg,9.1,32,Balanced
+Low,Non-Veg,8.2,48,Low Carb
+Low,Non-Veg,9.1,32,Low Carb
+Low,Veg,5.8,45,Balanced
+Low,Veg,8.8,21,Balanced
+Low,Non-Veg,8.5,53,Low Carb
+Low,Veg,4.0,18,Balanced
+Medium,Non-Veg,6.7,61,Mediterranean
+High,Veg,7.9,51,Balanced
+Low,Non-Veg,6.2,64,Low Carb
+Medium,Vegan,5.4,34,Balanced
+Medium,Non-Veg,10.0,56,Mediterranean
+High,Non-Veg,7.2,55,Balanced
+Low,Vegan,7.2,61,Balanced
+High,Veg,5.0,68,Balanced
+Low,Vegan,6.1,50,Balanced
+Medium,Non-Veg,5.7,38,Mediterranean
+Medium,Veg,8.6,43,Balanced
+Medium,Vegan,7.8,63,Balanced
+Medium,Veg,6.1,53,Balanced
+High,Veg,7.8,22,Balanced
+Low,Vegan,6.6,50,Balanced
+Low,Veg,7.4,18,Balanced
+High,Vegan,7.3,23,High Protein
+Low,Non-Veg,7.6,54,Low Carb
+Medium,Veg,7.4,19,Balanced
+Low,Non-Veg,7.6,22,Low Carb
+Medium,Non-Veg,8.9,43,Mediterranean
+High,Veg,8.0,58,Balanced
+Low,Vegan,6.5,68,Balanced
+High,Veg,6.9,64,Balanced
+Low,Non-Veg,8.8,30,Low Carb
+Medium,Non-Veg,7.2,29,Mediterranean
+High,Vegan,6.4,22,High Protein
+Low,Veg,6.1,19,Balanced
+Medium,Non-Veg,7.4,21,Mediterranean
+High,Non-Veg,5.7,44,Balanced
+High,Non-Veg,8.9,67,Balanced
+Low,Vegan,5.4,27,Balanced
+Low,Non-Veg,9.2,30,Low Carb
+Low,Non-Veg,6.6,61,Low Carb
+Medium,Veg,5.4,19,Balanced
+Low,Veg,7.3,43,Balanced
+High,Non-Veg,5.6,32,Balanced
+High,Non-Veg,7.1,63,Balanced
+Low,Veg,6.1,27,Balanced
+Low,Vegan,8.4,39,Balanced
+High,Vegan,7.2,57,High Protein
+Medium,Vegan,5.2,42,Balanced
+Low,Vegan,6.1,32,Balanced
+Low,Vegan,8.1,30,Balanced
+High,Vegan,8.9,25,High Protein
+Low,Vegan,6.9,38,Balanced
+Medium,Vegan,5.4,38,Balanced
+High,Veg,8.6,39,Balanced
+Low,Vegan,8.1,63,Balanced
+High,Vegan,9.0,50,High Protein
+Low,Vegan,7.4,62,Balanced
+Low,Non-Veg,6.2,44,Low Carb
+Low,Veg,7.8,57,Balanced
+Medium,Veg,7.5,67,Balanced
+Medium,Veg,6.1,39,Balanced
+High,Vegan,7.3,47,High Protein
+Low,Vegan,6.7,26,Balanced
+Low,Non-Veg,8.1,62,Low Carb
+Medium,Veg,7.7,52,Balanced
+Low,Vegan,5.4,35,Balanced
+Medium,Veg,5.3,59,Balanced
+Low,Non-Veg,6.9,22,Low Carb
+High,Non-Veg,7.0,44,Balanced
+Low,Non-Veg,8.1,23,Low Carb
+Low,Veg,7.8,49,Balanced
+Medium,Vegan,9.2,25,Balanced
+Low,Vegan,6.3,56,Balanced
+Low,Non-Veg,6.2,38,Low Carb
+Medium,Vegan,5.6,35,Balanced
+High,Non-Veg,8.1,31,Balanced
+High,Veg,7.0,32,Balanced
+Medium,Non-Veg,4.2,59,Mediterranean
+Medium,Veg,7.3,43,Balanced
+Medium,Non-Veg,7.4,61,Mediterranean
+Medium,Vegan,6.8,49,Balanced
+Medium,Vegan,7.4,56,Balanced
+High,Non-Veg,5.2,45,Balanced
+High,Vegan,9.5,56,High Protein
+Medium,Vegan,7.6,60,Balanced
+Low,Vegan,4.3,49,Balanced
+Medium,Veg,7.0,30,Balanced
+Low,Vegan,7.6,32,Balanced
+Medium,Veg,5.3,35,Balanced
+Medium,Non-Veg,7.8,56,Mediterranean
+High,Vegan,9.5,23,High Protein
+Low,Vegan,6.0,28,Balanced
+Low,Vegan,7.6,49,Balanced
+High,Non-Veg,7.3,57,Balanced
+High,Veg,8.5,37,Balanced
+High,Veg,6.8,50,Balanced
+High,Vegan,5.4,57,High Protein
+Low,Non-Veg,8.4,25,Low Carb
+Low,Non-Veg,5.5,68,Low Carb
+Medium,Non-Veg,9.7,52,Mediterranean
+Medium,Non-Veg,7.8,22,Mediterranean
+High,Non-Veg,6.1,52,Balanced
+High,Veg,8.7,64,Balanced
+High,Veg,7.0,31,Balanced
+Medium,Veg,6.7,38,Balanced
+Medium,Vegan,6.0,64,Balanced
+Medium,Non-Veg,4.2,41,Mediterranean
+Medium,Vegan,7.9,34,Balanced
+Medium,Non-Veg,4.6,35,Mediterranean
+Medium,Veg,5.8,51,Balanced
+Medium,Vegan,7.6,29,Balanced
+High,Veg,6.2,33,Balanced
+High,Non-Veg,7.2,21,Balanced
+High,Non-Veg,5.2,42,Balanced
+High,Non-Veg,6.5,51,Balanced
+Medium,Veg,7.2,45,Balanced
+Low,Non-Veg,5.6,63,Low Carb
+Medium,Veg,9.5,28,Balanced
+Low,Vegan,6.0,30,Balanced
+High,Non-Veg,9.1,48,Balanced
+Medium,Non-Veg,6.7,42,Mediterranean
+High,Non-Veg,4.6,56,Balanced
+Medium,Vegan,5.3,27,Balanced
+High,Non-Veg,7.3,41,Balanced
+Low,Veg,8.5,18,Balanced
+Low,Veg,9.7,42,Balanced
+Low,Non-Veg,7.2,45,Low Carb
+Medium,Non-Veg,5.2,53,Mediterranean
+Low,Vegan,7.4,35,Balanced
+Medium,Vegan,5.8,23,Balanced
+Low,Vegan,7.6,19,Balanced
+Low,Non-Veg,5.6,20,Low Carb
+Medium,Vegan,4.0,63,Balanced
+Medium,Vegan,9.0,25,Balanced
+Low,Veg,6.7,48,Balanced
+Medium,Vegan,7.1,65,Balanced
+Low,Veg,8.5,36,Balanced
+Medium,Veg,9.8,67,Balanced
+High,Vegan,8.1,23,High Protein
+High,Veg,7.2,31,Balanced
+High,Non-Veg,7.7,20,Balanced
+High,Non-Veg,6.6,65,Balanced
+High,Vegan,7.1,18,High Protein
+Low,Non-Veg,7.2,61,Low Carb
+High,Veg,5.8,47,Balanced
+High,Non-Veg,7.0,63,Balanced
+High,Vegan,7.6,36,High Protein
+High,Vegan,7.8,36,High Protein
+Medium,Veg,7.7,26,Balanced
+Low,Vegan,5.0,24,Balanced
+High,Non-Veg,8.8,63,Balanced
+High,Vegan,8.7,54,High Protein
+High,Veg,6.9,67,Balanced
+Low,Vegan,7.7,58,Balanced
+Medium,Non-Veg,6.7,24,Mediterranean
+Low,Veg,8.1,26,Balanced
+Medium,Non-Veg,5.8,21,Mediterranean
+High,Veg,9.0,42,Balanced
+High,Vegan,8.1,66,High Protein
+Low,Veg,8.1,29,Balanced
+Low,Veg,6.8,23,Balanced
+Medium,Vegan,4.9,35,Balanced
+Medium,Non-Veg,8.3,57,Mediterranean
+Low,Vegan,4.9,38,Balanced
+Medium,Veg,8.3,32,Balanced
+Low,Vegan,5.8,20,Balanced
+Medium,Veg,4.6,19,Balanced
+Low,Vegan,7.0,58,Balanced
+Low,Vegan,8.8,57,Balanced
+Low,Non-Veg,5.6,21,Low Carb
+Medium,Veg,9.4,49,Balanced
+Medium,Non-Veg,8.0,19,Mediterranean
+Medium,Veg,7.2,63,Balanced
+Low,Vegan,6.3,46,Balanced
+Medium,Veg,6.5,19,Balanced
+Medium,Non-Veg,7.6,51,Mediterranean
+Low,Non-Veg,8.3,44,Low Carb
+High,Non-Veg,6.1,56,Balanced
+Low,Veg,5.8,61,Balanced
+Medium,Non-Veg,6.7,55,Mediterranean
+Low,Non-Veg,9.1,35,Low Carb
+High,Non-Veg,5.2,53,Balanced
+Low,Vegan,8.7,36,Balanced
+Medium,Vegan,7.1,44,Balanced
+High,Veg,4.5,62,Balanced
+Medium,Veg,6.3,37,Balanced
+High,Non-Veg,7.9,38,Balanced
+High,Vegan,9.7,40,High Protein
+Low,Non-Veg,5.0,47,Low Carb
+Low,Non-Veg,4.0,42,Low Carb
+Medium,Vegan,5.0,48,Balanced
+Low,Vegan,8.7,44,Balanced
+Low,Vegan,4.3,51,Balanced
+High,Veg,9.2,25,Balanced
+Low,Veg,8.8,36,Balanced
+High,Non-Veg,7.3,58,Balanced
+High,Veg,6.1,43,Balanced
+High,Vegan,7.1,45,High Protein
+Medium,Vegan,7.9,21,Balanced
+Medium,Veg,7.7,48,Balanced
+Medium,Non-Veg,9.6,33,Mediterranean
+High,Non-Veg,6.6,68,Balanced
+Medium,Veg,5.0,27,Balanced
+Medium,Non-Veg,4.8,55,Mediterranean
+Low,Non-Veg,4.5,65,Low Carb
+Medium,Non-Veg,7.3,27,Mediterranean
+Medium,Vegan,6.6,62,Balanced
+High,Vegan,7.0,26,High Protein
+High,Veg,6.2,56,Balanced
+High,Vegan,5.3,53,High Protein
+High,Non-Veg,7.9,68,Balanced
+High,Vegan,4.0,53,High Protein
+High,Veg,5.8,36,Balanced
+Medium,Vegan,8.2,36,Balanced
+High,Non-Veg,5.6,29,Balanced
+High,Non-Veg,7.6,30,Balanced
+Low,Veg,5.8,42,Balanced
+Medium,Vegan,6.3,53,Balanced
+Medium,Vegan,7.9,42,Balanced
+Medium,Vegan,5.1,45,Balanced
+High,Non-Veg,8.1,59,Balanced
+High,Veg,7.1,56,Balanced
+High,Vegan,8.9,47,High Protein
+Low,Non-Veg,7.3,22,Low Carb
+High,Non-Veg,5.4,34,Balanced
+Low,Non-Veg,9.6,35,Low Carb
+Medium,Vegan,5.5,60,Balanced
+High,Vegan,6.7,64,High Protein
+Low,Vegan,8.4,38,Balanced
+Low,Vegan,4.2,39,Balanced
+High,Vegan,9.2,56,High Protein
+Medium,Vegan,5.3,67,Balanced
+Medium,Vegan,6.3,23,Balanced
+Medium,Vegan,7.4,67,Balanced
+Low,Vegan,6.9,33,Balanced
+Low,Non-Veg,8.2,19,Low Carb
+Low,Vegan,4.6,68,Balanced
+Low,Veg,8.1,18,Balanced
+Medium,Non-Veg,8.2,47,Mediterranean
+High,Vegan,8.5,60,High Protein
+Low,Veg,4.6,69,Balanced
+Low,Vegan,4.8,54,Balanced
+Medium,Veg,6.5,65,Balanced
+High,Veg,5.0,40,Balanced
+High,Veg,4.3,18,Balanced
+Medium,Veg,6.4,36,Balanced
+Medium,Non-Veg,7.4,63,Mediterranean
+High,Non-Veg,10.0,20,Balanced
+Low,Veg,7.8,19,Balanced
+High,Vegan,9.6,54,High Protein
+Medium,Veg,6.9,34,Balanced
+Low,Non-Veg,7.8,45,Low Carb
+Low,Vegan,6.8,35,Balanced
+Medium,Non-Veg,10.0,50,Mediterranean
+Medium,Non-Veg,6.0,32,Mediterranean
+Medium,Vegan,6.2,39,Balanced
+High,Veg,8.2,58,Balanced
+High,Veg,7.3,44,Balanced
+Low,Veg,6.4,54,Balanced
+Medium,Veg,8.4,49,Balanced
+Low,Vegan,6.9,62,Balanced
+Low,Vegan,6.9,36,Balanced
+Low,Vegan,7.3,45,Balanced
+Low,Non-Veg,4.4,45,Low Carb
+Medium,Vegan,4.6,27,Balanced
+Low,Veg,8.6,37,Balanced
+Medium,Non-Veg,6.0,42,Mediterranean
+Medium,Veg,6.8,38,Balanced
+High,Veg,9.4,31,Balanced
+Medium,Vegan,6.9,39,Balanced
+High,Vegan,6.7,43,High Protein
+Medium,Veg,8.3,61,Balanced
+Medium,Veg,6.1,28,Balanced
+Medium,Non-Veg,8.8,24,Mediterranean
+High,Vegan,8.3,34,High Protein
+High,Non-Veg,9.7,35,Balanced
+Low,Non-Veg,6.0,24,Low Carb
+High,Non-Veg,9.1,37,Balanced
+High,Veg,7.8,55,Balanced
+High,Non-Veg,5.0,28,Balanced
+High,Non-Veg,4.0,61,Balanced
+Low,Veg,5.8,33,Balanced
+High,Vegan,7.4,68,High Protein
+Medium,Vegan,7.7,44,Balanced
+Medium,Non-Veg,6.9,68,Mediterranean
+High,Veg,6.9,28,Balanced
+High,Vegan,6.8,33,High Protein
+Medium,Non-Veg,8.5,40,Mediterranean
+Medium,Non-Veg,4.8,29,Mediterranean
+Low,Veg,7.4,57,Balanced
+Medium,Non-Veg,5.8,20,Mediterranean
+Medium,Vegan,5.6,19,Balanced
+High,Veg,8.8,55,Balanced
+Medium,Vegan,5.5,65,Balanced
+Low,Vegan,6.8,69,Balanced
+Medium,Vegan,9.9,41,Balanced
+High,Non-Veg,8.3,46,Balanced
+High,Non-Veg,6.3,64,Balanced
+Medium,Vegan,6.4,63,Balanced
+High,Vegan,5.2,51,High Protein
+Low,Veg,9.0,37,Balanced
+Low,Veg,8.5,35,Balanced
+Medium,Non-Veg,8.0,31,Mediterranean
+Medium,Non-Veg,8.2,35,Mediterranean
+Medium,Veg,5.8,19,Balanced
+High,Vegan,4.7,18,High Protein
+Low,Non-Veg,7.8,37,Low Carb
+Low,Vegan,8.3,51,Balanced
+High,Veg,9.4,58,Balanced
+Low,Non-Veg,6.7,58,Low Carb
+Medium,Non-Veg,6.5,65,Mediterranean
+Medium,Veg,6.6,28,Balanced
+Medium,Non-Veg,8.0,44,Mediterranean
+Low,Veg,6.6,40,Balanced
+Medium,Non-Veg,6.9,55,Mediterranean
+High,Veg,8.2,61,Balanced
+High,Non-Veg,6.1,20,Balanced
+Low,Vegan,9.1,29,Balanced
+High,Vegan,7.9,47,High Protein
+High,Vegan,4.2,48,High Protein
+Low,Non-Veg,6.2,40,Low Carb
+Medium,Non-Veg,4.0,18,Mediterranean
+Medium,Vegan,6.7,58,Balanced
+Medium,Vegan,6.3,37,Balanced
+Low,Veg,8.3,23,Balanced
+High,Veg,5.7,28,Balanced
+Medium,Veg,7.6,52,Balanced
+Medium,Vegan,7.9,21,Balanced
+Low,Vegan,7.4,46,Balanced
+Medium,Vegan,8.7,27,Balanced
+Low,Veg,10.0,68,Balanced
+High,Non-Veg,7.2,46,Balanced
+Low,Vegan,7.6,55,Balanced
+Low,Non-Veg,5.7,18,Low Carb
+Low,Non-Veg,5.5,57,Low Carb
+Low,Non-Veg,8.6,25,Low Carb
+High,Veg,8.4,55,Balanced
+High,Non-Veg,5.5,34,Balanced
+Medium,Vegan,5.0,36,Balanced
+High,Veg,6.0,50,Balanced
+High,Vegan,6.8,32,High Protein
+Medium,Vegan,6.4,62,Balanced
+High,Veg,7.2,48,Balanced
+Low,Vegan,8.4,38,Balanced
+Low,Vegan,7.7,20,Balanced
+Medium,Veg,7.8,19,Balanced
+Medium,Vegan,4.0,52,Balanced
+Medium,Non-Veg,4.6,58,Mediterranean
+Low,Vegan,5.8,33,Balanced
+High,Non-Veg,6.1,62,Balanced
+Low,Vegan,8.3,68,Balanced
+Medium,Veg,5.7,67,Balanced
+High,Veg,8.0,38,Balanced
+High,Vegan,5.8,29,High Protein
+Low,Veg,5.2,45,Balanced
+Medium,Vegan,5.3,29,Balanced
+Low,Veg,10.0,50,Balanced
+High,Non-Veg,5.8,37,Balanced
+Low,Vegan,8.0,57,Balanced
+Low,Non-Veg,4.7,66,Low Carb
+Medium,Non-Veg,9.1,38,Mediterranean
+Medium,Vegan,7.5,69,Balanced
+High,Non-Veg,7.4,56,Balanced
+Low,Vegan,7.6,58,Balanced
+Low,Non-Veg,7.8,66,Low Carb
+Low,Vegan,8.2,59,Balanced
+High,Vegan,6.1,53,High Protein
+High,Veg,6.0,39,Balanced
+Medium,Vegan,7.1,43,Balanced
+Medium,Vegan,8.0,24,Balanced
+Medium,Non-Veg,6.9,24,Mediterranean
+Low,Vegan,8.2,25,Balanced
+Low,Veg,7.9,43,Balanced
+Medium,Non-Veg,6.7,41,Mediterranean
+Low,Non-Veg,4.4,41,Low Carb
+Medium,Veg,6.2,57,Balanced
+High,Non-Veg,9.6,65,Balanced
+Medium,Non-Veg,7.5,29,Mediterranean
+High,Non-Veg,6.0,64,Balanced
+Low,Non-Veg,7.4,25,Low Carb
+Medium,Veg,8.0,26,Balanced
+Low,Veg,6.0,20,Balanced
+High,Non-Veg,8.9,38,Balanced
+High,Non-Veg,7.7,48,Balanced
+High,Veg,5.4,65,Balanced
+Low,Veg,8.3,64,Balanced
+Low,Veg,6.4,41,Balanced
+Low,Non-Veg,6.7,21,Low Carb
+Low,Non-Veg,5.5,37,Low Carb
+High,Vegan,7.9,33,High Protein
+High,Veg,6.8,27,Balanced
+Medium,Non-Veg,8.0,60,Mediterranean
+Medium,Veg,6.2,43,Balanced
+Low,Non-Veg,6.0,46,Low Carb
+High,Veg,5.9,22,Balanced
+High,Non-Veg,7.6,28,Balanced
+High,Vegan,6.0,46,High Protein
+Medium,Vegan,6.7,62,Balanced
+Medium,Veg,6.2,32,Balanced
+High,Non-Veg,7.7,23,Balanced
+High,Non-Veg,4.4,65,Balanced
+High,Veg,7.4,32,Balanced
+Medium,Non-Veg,9.6,60,Mediterranean
+High,Veg,8.9,37,Balanced
+High,Non-Veg,6.1,51,Balanced
+Low,Veg,7.7,19,Balanced
+Low,Non-Veg,7.5,61,Low Carb
+Medium,Veg,9.2,33,Balanced
+High,Non-Veg,4.0,36,Balanced
+High,Vegan,8.7,51,High Protein
+Low,Non-Veg,6.6,66,Low Carb
+Medium,Veg,5.9,31,Balanced
+Low,Vegan,5.8,41,Balanced
+Low,Non-Veg,5.1,45,Low Carb
+Low,Vegan,6.1,65,Balanced
+Low,Non-Veg,5.4,49,Low Carb
+High,Vegan,7.3,54,High Protein
+High,Veg,7.9,27,Balanced
+Low,Non-Veg,6.6,66,Low Carb
+Medium,Non-Veg,9.2,62,Mediterranean
+Medium,Veg,6.2,65,Balanced
+Medium,Vegan,6.5,26,Balanced
+Medium,Veg,6.3,41,Balanced
+Low,Veg,7.9,53,Balanced
+High,Vegan,8.0,46,High Protein
+Medium,Veg,7.7,46,Balanced
+Low,Non-Veg,6.8,65,Low Carb
+Medium,Non-Veg,5.0,40,Mediterranean
+Medium,Non-Veg,6.5,44,Mediterranean
+Low,Veg,9.2,48,Balanced
+High,Non-Veg,8.5,60,Balanced
+High,Non-Veg,7.4,24,Balanced
+Low,Non-Veg,6.4,66,Low Carb
+High,Non-Veg,7.0,62,Balanced
+Low,Non-Veg,6.4,21,Low Carb
+Low,Non-Veg,8.8,31,Low Carb
+Low,Veg,5.7,59,Balanced
+High,Non-Veg,8.4,59,Balanced
+Low,Non-Veg,6.2,27,Low Carb
+Medium,Vegan,9.0,61,Balanced
+High,Veg,7.6,51,Balanced
+High,Veg,5.9,43,Balanced
+High,Veg,6.5,40,Balanced
+High,Veg,8.1,26,Balanced
+Medium,Non-Veg,6.3,54,Mediterranean
+High,Non-Veg,7.0,25,Balanced
+High,Vegan,6.2,31,High Protein
+Low,Vegan,9.6,24,Balanced
+High,Veg,9.9,24,Balanced
+Medium,Vegan,9.2,26,Balanced
+Medium,Vegan,6.8,20,Balanced
+Medium,Veg,6.4,31,Balanced
+Medium,Veg,5.8,34,Balanced
+High,Vegan,9.3,67,High Protein
+High,Non-Veg,8.4,61,Balanced
+Medium,Vegan,8.5,39,Balanced
+Medium,Vegan,6.6,63,Balanced
+High,Non-Veg,4.4,43,Balanced
+Medium,Non-Veg,4.7,45,Mediterranean
+Low,Veg,7.1,62,Balanced
+Medium,Veg,6.2,31,Balanced
+Medium,Vegan,6.0,26,Balanced
+Low,Non-Veg,7.5,68,Low Carb
+Low,Veg,8.5,43,Balanced
+High,Vegan,5.9,19,High Protein
+High,Non-Veg,5.0,28,Balanced
+Low,Vegan,6.0,34,Balanced
+Low,Veg,5.4,51,Balanced
+High,Veg,7.9,36,Balanced
+Medium,Non-Veg,7.0,56,Mediterranean
+Low,Vegan,9.8,35,Balanced
+High,Non-Veg,8.1,30,Balanced
+Medium,Veg,9.7,22,Balanced
+Low,Veg,4.9,67,Balanced
+Medium,Vegan,4.0,40,Balanced
+High,Vegan,7.4,41,High Protein
+Low,Vegan,7.2,46,Balanced
+Medium,Non-Veg,6.8,65,Mediterranean
+Low,Vegan,7.1,64,Balanced
+Medium,Vegan,5.3,25,Balanced
+High,Veg,7.8,43,Balanced
+High,Veg,8.1,32,Balanced
+Low,Vegan,5.2,18,Balanced
+Medium,Vegan,6.5,45,Balanced
+Low,Veg,6.6,66,Balanced
+Low,Vegan,6.0,64,Balanced
+Medium,Non-Veg,5.3,63,Mediterranean
+Medium,Non-Veg,7.0,31,Mediterranean
+Medium,Non-Veg,7.4,59,Mediterranean
+High,Vegan,6.1,51,High Protein
+Low,Veg,5.4,48,Balanced
+Low,Vegan,7.6,23,Balanced
+High,Vegan,5.8,66,High Protein
+Medium,Veg,6.5,22,Balanced
+High,Veg,6.3,48,Balanced
+High,Veg,8.9,54,Balanced
+High,Non-Veg,5.9,32,Balanced
+Low,Vegan,9.6,32,Balanced
+High,Veg,8.1,69,Balanced
+Low,Vegan,9.7,60,Balanced
+Low,Non-Veg,8.0,22,Low Carb
+Low,Non-Veg,6.7,45,Low Carb
+Medium,Veg,5.6,50,Balanced
+Low,Veg,6.5,28,Balanced
+Low,Vegan,9.2,60,Balanced
+Medium,Veg,6.9,23,Balanced
+Low,Vegan,8.0,40,Balanced
+High,Veg,7.3,57,Balanced
+High,Vegan,7.4,19,High Protein
+Low,Vegan,7.4,32,Balanced
+Medium,Vegan,7.7,40,Balanced
+High,Vegan,5.8,39,High Protein
+Medium,Non-Veg,6.6,26,Mediterranean
+Medium,Vegan,7.5,64,Balanced
+High,Veg,7.2,57,Balanced
+Medium,Non-Veg,6.3,47,Mediterranean
+High,Non-Veg,7.6,33,Balanced
+Medium,Vegan,5.8,63,Balanced
+High,Non-Veg,5.2,64,Balanced
+Low,Vegan,7.4,69,Balanced
+High,Veg,5.2,47,Balanced
+High,Vegan,7.4,62,High Protein
+High,Non-Veg,4.1,26,Balanced
+High,Veg,5.9,18,Balanced
+Medium,Vegan,6.5,55,Balanced
+Low,Veg,4.6,25,Balanced
+High,Veg,6.4,69,Balanced
+Medium,Non-Veg,8.8,35,Mediterranean
+Low,Veg,5.1,44,Balanced
+Low,Non-Veg,6.5,35,Low Carb
+Low,Veg,9.6,49,Balanced
+Low,Vegan,5.4,66,Balanced
+High,Veg,9.1,49,Balanced
+High,Vegan,6.6,65,High Protein
+Medium,Vegan,7.2,62,Balanced
+Medium,Veg,8.9,53,Balanced
+Medium,Vegan,6.3,53,Balanced
+Low,Veg,7.9,38,Balanced
+Low,Veg,8.3,63,Balanced
+High,Vegan,6.0,49,High Protein
+Low,Vegan,5.9,48,Balanced
+Low,Non-Veg,6.7,54,Low Carb
+Low,Vegan,6.7,33,Balanced
+Medium,Non-Veg,5.4,63,Mediterranean
+Medium,Vegan,6.0,63,Balanced
+High,Veg,4.0,31,Balanced
+Low,Vegan,6.5,41,Balanced
+Low,Veg,8.3,42,Balanced
+High,Veg,4.5,63,Balanced
+Low,Veg,6.3,68,Balanced
+Low,Non-Veg,10.0,52,Low Carb
+Medium,Vegan,7.0,34,Balanced
+High,Veg,9.0,63,Balanced
+High,Veg,5.5,59,Balanced
+High,Non-Veg,7.7,62,Balanced
+High,Vegan,5.2,21,High Protein
+Medium,Vegan,7.6,28,Balanced
+Medium,Non-Veg,8.3,64,Mediterranean
+Low,Non-Veg,7.9,32,Low Carb
+Low,Vegan,6.5,47,Balanced
+Low,Non-Veg,7.4,41,Low Carb
+Low,Vegan,7.4,19,Balanced
+Medium,Vegan,8.0,60,Balanced
+High,Veg,6.8,51,Balanced
+Medium,Veg,8.4,40,Balanced
+Low,Vegan,9.2,48,Balanced
+Medium,Vegan,6.5,54,Balanced
+High,Vegan,7.1,30,High Protein
+High,Vegan,5.6,50,High Protein
+Medium,Vegan,7.5,24,Balanced
+Medium,Vegan,7.5,49,Balanced
+Medium,Non-Veg,7.1,24,Mediterranean
+Low,Vegan,7.2,59,Balanced
+Medium,Non-Veg,9.9,55,Mediterranean
+Medium,Non-Veg,4.0,69,Mediterranean
+Medium,Vegan,6.3,61,Balanced
+High,Vegan,6.5,30,High Protein
+High,Non-Veg,9.2,41,Balanced
+Low,Non-Veg,7.7,45,Low Carb
+Low,Vegan,7.7,49,Balanced
+High,Vegan,8.9,60,High Protein
+High,Non-Veg,6.7,35,Balanced
+High,Non-Veg,8.0,51,Balanced
+Medium,Non-Veg,6.2,65,Mediterranean
+Medium,Veg,5.4,51,Balanced
+High,Non-Veg,9.7,68,Balanced
+Medium,Veg,7.6,55,Balanced
+Medium,Vegan,8.0,18,Balanced
+Low,Vegan,5.4,60,Balanced
+High,Non-Veg,7.8,67,Balanced
+High,Vegan,9.7,59,High Protein
+Medium,Vegan,6.6,48,Balanced
+High,Vegan,5.1,67,High Protein
+Low,Vegan,7.3,18,Balanced
+Low,Veg,5.4,68,Balanced
+Low,Veg,4.7,33,Balanced
+High,Non-Veg,5.9,56,Balanced
+High,Non-Veg,6.3,32,Balanced
+High,Non-Veg,5.5,50,Balanced
+High,Vegan,9.0,40,High Protein
+High,Vegan,9.8,58,High Protein
+Low,Veg,7.9,51,Balanced
+Medium,Veg,7.6,34,Balanced
+Low,Non-Veg,6.8,42,Low Carb
+High,Veg,5.7,59,Balanced
+Low,Veg,9.4,23,Balanced
+High,Veg,6.9,48,Balanced
+High,Veg,6.3,22,Balanced
+Low,Veg,8.5,57,Balanced
+High,Non-Veg,6.9,57,Balanced
+Medium,Non-Veg,8.5,47,Mediterranean
+High,Veg,6.4,22,Balanced
+Medium,Non-Veg,8.5,29,Mediterranean
+Medium,Vegan,8.5,24,Balanced
+High,Veg,9.0,62,Balanced
+Low,Vegan,5.9,30,Balanced
+Medium,Non-Veg,6.9,66,Mediterranean
+Low,Non-Veg,9.9,21,Low Carb
+Medium,Vegan,6.6,67,Balanced
+High,Non-Veg,8.2,59,Balanced
+High,Veg,10.0,20,Balanced
+Medium,Vegan,4.2,29,Balanced
+High,Veg,6.6,18,Balanced
+Medium,Vegan,7.0,44,Balanced
+High,Non-Veg,4.3,60,Balanced
+Low,Vegan,6.3,67,Balanced
+High,Vegan,5.5,30,High Protein
+Low,Veg,8.3,34,Balanced
+High,Non-Veg,4.4,25,Balanced
+Low,Veg,9.8,49,Balanced
+High,Non-Veg,8.0,37,Balanced
+Low,Veg,5.4,68,Balanced
+Medium,Vegan,8.5,34,Balanced
+Medium,Veg,7.9,51,Balanced
+Low,Non-Veg,6.9,52,Low Carb
+High,Non-Veg,5.9,52,Balanced
+Low,Vegan,7.8,55,Balanced
+High,Non-Veg,7.2,59,Balanced
+Medium,Veg,6.0,41,Balanced
+High,Vegan,5.0,35,High Protein
+Medium,Non-Veg,5.7,67,Mediterranean
+High,Non-Veg,6.2,63,Balanced
+High,Veg,8.7,65,Balanced
+High,Veg,8.3,56,Balanced
+Low,Vegan,6.3,50,Balanced
+Low,Non-Veg,6.4,66,Low Carb
+Medium,Veg,8.5,40,Balanced
+Medium,Vegan,7.4,42,Balanced
+Low,Non-Veg,7.4,54,Low Carb
+Medium,Non-Veg,5.9,44,Mediterranean
+Low,Vegan,6.8,18,Balanced
+High,Vegan,7.0,38,High Protein
+Medium,Veg,6.9,66,Balanced
+Medium,Non-Veg,8.1,27,Mediterranean
+Low,Non-Veg,8.1,48,Low Carb
+Medium,Non-Veg,5.6,61,Mediterranean
+Medium,Vegan,6.2,42,Balanced
+High,Veg,6.0,37,Balanced
+Medium,Non-Veg,9.1,19,Mediterranean
+High,Vegan,10.0,65,High Protein
+Low,Non-Veg,6.3,32,Low Carb
+Medium,Veg,6.7,45,Balanced
+High,Non-Veg,8.3,30,Balanced
+Low,Veg,5.9,67,Balanced
+Medium,Veg,8.3,69,Balanced
+Low,Non-Veg,7.0,31,Low Carb
+Medium,Non-Veg,4.4,67,Mediterranean
+Low,Veg,5.0,19,Balanced
+Low,Vegan,6.5,51,Balanced
+High,Veg,8.8,52,Balanced
+Low,Non-Veg,5.7,54,Low Carb
+Medium,Non-Veg,6.2,42,Mediterranean
+Medium,Vegan,7.3,65,Balanced
+High,Veg,4.5,32,Balanced
+Medium,Veg,7.4,29,Balanced
+Medium,Veg,4.7,26,Balanced
+Medium,Non-Veg,7.9,48,Mediterranean
+Low,Veg,5.8,31,Balanced
+Low,Vegan,5.6,46,Balanced
+Medium,Non-Veg,7.4,65,Mediterranean
+High,Non-Veg,8.2,60,Balanced
+Low,Veg,7.6,55,Balanced
+High,Vegan,7.3,59,High Protein
+Medium,Non-Veg,7.3,25,Mediterranean
+Medium,Non-Veg,7.6,65,Mediterranean
+Low,Veg,7.7,20,Balanced
+Medium,Veg,6.4,19,Balanced
+Low,Vegan,8.0,33,Balanced
+Medium,Veg,5.8,36,Balanced
+Medium,Vegan,8.6,47,Balanced
+Low,Non-Veg,8.2,58,Low Carb
+Low,Vegan,10.0,33,Balanced
+Low,Vegan,7.8,48,Balanced
+Medium,Vegan,8.4,45,Balanced
+Medium,Non-Veg,4.7,21,Mediterranean
+High,Veg,8.4,27,Balanced
+Low,Non-Veg,8.8,68,Low Carb
+Medium,Veg,9.3,62,Balanced
+Medium,Vegan,7.2,35,Balanced
+Low,Vegan,6.5,64,Balanced
+High,Vegan,5.4,49,High Protein
+Low,Vegan,5.5,47,Balanced
+High,Vegan,7.0,53,High Protein
+Medium,Veg,4.4,26,Balanced
+High,Veg,5.8,53,Balanced
+Medium,Vegan,7.1,46,Balanced
+Low,Non-Veg,7.1,33,Low Carb
+Low,Non-Veg,5.5,45,Low Carb
+Low,Vegan,5.1,38,Balanced
+High,Veg,5.4,64,Balanced
+Medium,Non-Veg,6.7,19,Mediterranean
+Low,Non-Veg,10.0,63,Low Carb
+Low,Non-Veg,8.6,52,Low Carb
+Medium,Vegan,7.3,45,Balanced
+Low,Non-Veg,7.8,53,Low Carb
+Medium,Non-Veg,8.5,48,Mediterranean
+Medium,Non-Veg,8.0,50,Mediterranean
+Medium,Non-Veg,6.5,40,Mediterranean
+Medium,Veg,5.7,58,Balanced
+Medium,Vegan,6.8,34,Balanced
+High,Vegan,8.5,63,High Protein
+Low,Veg,6.6,66,Balanced
+High,Veg,5.3,18,Balanced
+Low,Vegan,4.4,59,Balanced
+High,Non-Veg,6.8,40,Balanced
+Medium,Non-Veg,5.5,65,Mediterranean
+Low,Vegan,6.3,44,Balanced
+Low,Non-Veg,9.2,42,Low Carb
+High,Veg,6.9,49,Balanced
+High,Non-Veg,5.9,36,Balanced
+Low,Non-Veg,7.5,41,Low Carb
+High,Non-Veg,9.9,20,Balanced
+High,Vegan,6.8,29,High Protein
+High,Veg,4.0,52,Balanced
+Medium,Non-Veg,8.0,32,Mediterranean
+Medium,Vegan,7.5,34,Balanced
+High,Non-Veg,7.1,67,Balanced
+High,Veg,6.7,49,Balanced
+Medium,Non-Veg,5.8,24,Mediterranean
+Medium,Veg,9.3,36,Balanced
+Low,Non-Veg,4.2,24,Low Carb
+Low,Veg,6.5,22,Balanced
+Medium,Non-Veg,6.5,57,Mediterranean
+High,Veg,8.3,38,Balanced
+High,Non-Veg,8.9,65,Balanced
+High,Non-Veg,6.7,65,Balanced
+High,Vegan,7.3,68,High Protein
+Low,Vegan,7.4,64,Balanced
+Medium,Veg,8.6,24,Balanced
+High,Non-Veg,8.5,54,Balanced
+Low,Veg,6.2,40,Balanced
+High,Vegan,7.7,28,High Protein
+Medium,Veg,7.6,27,Balanced
+Low,Veg,6.8,38,Balanced
+Medium,Vegan,7.6,58,Balanced
+Medium,Non-Veg,7.0,50,Mediterranean
+Low,Veg,7.2,37,Balanced
+Low,Vegan,5.0,50,Balanced
+Low,Non-Veg,5.6,57,Low Carb
+Low,Vegan,8.2,52,Balanced
+Low,Veg,5.2,51,Balanced
+Low,Non-Veg,7.7,53,Low Carb
+Low,Non-Veg,6.9,44,Low Carb
+High,Vegan,8.5,36,High Protein
+Medium,Vegan,8.0,60,Balanced
+Low,Vegan,6.3,22,Balanced
+High,Non-Veg,6.7,46,Balanced
+High,Non-Veg,4.0,27,Balanced
+High,Veg,6.8,57,Balanced
+Medium,Non-Veg,5.1,30,Mediterranean
+Low,Veg,6.7,46,Balanced
+High,Vegan,6.0,22,High Protein
+Medium,Vegan,5.7,29,Balanced
+Medium,Non-Veg,8.8,30,Mediterranean
+Medium,Vegan,5.1,39,Balanced
+High,Vegan,5.6,57,High Protein
+Low,Non-Veg,6.0,32,Low Carb
+High,Veg,6.3,30,Balanced
+High,Non-Veg,5.7,18,Balanced
+Low,Veg,6.5,55,Balanced
+Low,Non-Veg,7.5,60,Low Carb
+Low,Non-Veg,8.0,62,Low Carb
+Medium,Vegan,7.9,69,Balanced
+Low,Non-Veg,4.1,18,Low Carb
+High,Non-Veg,7.6,28,Balanced
+Low,Veg,7.7,60,Balanced
+High,Vegan,6.0,57,High Protein
+Medium,Veg,9.5,39,Balanced
+High,Veg,8.6,52,Balanced
+High,Vegan,6.7,68,High Protein
+Low,Vegan,6.1,61,Balanced
+Low,Vegan,9.5,23,Balanced
+High,Non-Veg,7.0,45,Balanced
+Low,Vegan,7.1,48,Balanced
+Medium,Vegan,7.1,25,Balanced
+Medium,Vegan,10.0,22,Balanced
+Low,Veg,6.7,59,Balanced
+Medium,Veg,7.0,65,Balanced
+Low,Non-Veg,5.8,61,Low Carb
+High,Veg,6.4,34,Balanced
+High,Non-Veg,5.5,55,Balanced
+Medium,Veg,5.8,26,Balanced
+Low,Vegan,4.3,27,Balanced
+Low,Veg,8.3,37,Balanced
+Medium,Non-Veg,7.2,31,Mediterranean
+High,Veg,7.4,31,Balanced
+Medium,Vegan,6.9,43,Balanced
+High,Non-Veg,7.1,46,Balanced
+Low,Vegan,9.4,66,Balanced
+High,Vegan,5.8,44,High Protein
+Medium,Non-Veg,7.4,42,Mediterranean
+Low,Vegan,7.4,33,Balanced
+Medium,Vegan,8.7,53,Balanced
+Medium,Veg,7.7,51,Balanced
+High,Vegan,7.7,33,High Protein
+Medium,Vegan,5.1,50,Balanced
+High,Vegan,5.8,20,High Protein
+Low,Vegan,5.2,40,Balanced
+High,Non-Veg,4.0,28,Balanced
+Low,Veg,7.6,65,Balanced
+High,Vegan,6.6,35,High Protein
+Medium,Vegan,7.6,64,Balanced
+High,Non-Veg,7.1,58,Balanced
+High,Vegan,7.4,61,High Protein
+Low,Non-Veg,9.0,46,Low Carb
+Medium,Veg,7.0,67,Balanced
+High,Veg,8.0,22,Balanced
+Medium,Vegan,6.5,41,Balanced
+High,Vegan,8.2,46,High Protein
+High,Vegan,5.1,46,High Protein
+Medium,Non-Veg,4.2,43,Mediterranean
+High,Vegan,10.0,57,High Protein
+Medium,Vegan,9.8,20,Balanced
+High,Veg,4.1,19,Balanced
+Low,Vegan,6.9,42,Balanced
+Medium,Veg,7.2,36,Balanced
+High,Vegan,8.1,57,High Protein
+High,Veg,9.6,19,Balanced
+Low,Vegan,5.4,36,Balanced
+Medium,Veg,5.5,18,Balanced
+High,Non-Veg,7.0,44,Balanced
+Low,Veg,5.6,62,Balanced
+High,Veg,4.0,69,Balanced
+Medium,Veg,6.7,66,Balanced
+High,Vegan,8.3,52,High Protein
+High,Vegan,7.0,58,High Protein
+High,Vegan,7.9,22,High Protein
+High,Non-Veg,7.7,55,Balanced
+Low,Non-Veg,5.5,21,Low Carb
+Low,Veg,7.1,34,Balanced
+Medium,Non-Veg,4.7,38,Mediterranean
+Low,Veg,6.2,65,Balanced
+Low,Veg,7.1,48,Balanced
+Medium,Veg,7.0,65,Balanced
+Low,Non-Veg,5.1,39,Low Carb
+Low,Vegan,5.4,28,Balanced
+Medium,Non-Veg,7.4,51,Mediterranean
+Medium,Veg,8.2,66,Balanced
+Medium,Veg,6.7,32,Balanced
+High,Non-Veg,6.6,67,Balanced
+High,Veg,8.4,27,Balanced
+Medium,Veg,5.8,55,Balanced
+Medium,Non-Veg,9.6,49,Mediterranean
+Medium,Non-Veg,5.0,65,Mediterranean
+High,Non-Veg,8.6,48,Balanced
+High,Veg,7.8,54,Balanced
+Low,Veg,10.0,61,Balanced
+Low,Vegan,5.3,45,Balanced
+Medium,Vegan,4.0,48,Balanced
+High,Non-Veg,8.9,23,Balanced
+High,Vegan,4.8,31,High Protein
+High,Veg,7.9,40,Balanced
+Medium,Vegan,8.8,33,Balanced
+Low,Veg,7.6,42,Balanced
+Medium,Non-Veg,7.3,56,Mediterranean
+Low,Non-Veg,7.6,19,Low Carb
+Low,Veg,8.3,55,Balanced
+Medium,Vegan,7.9,58,Balanced
+Low,Non-Veg,5.2,56,Low Carb
+Low,Non-Veg,9.7,51,Low Carb
+High,Vegan,7.1,68,High Protein
+Low,Vegan,7.8,57,Balanced
+Medium,Veg,8.1,60,Balanced
+Medium,Vegan,8.7,42,Balanced
+Low,Vegan,8.6,53,Balanced
+High,Vegan,7.2,33,High Protein
+High,Veg,7.1,35,Balanced
+Low,Veg,7.6,30,Balanced
+Low,Non-Veg,8.7,54,Low Carb
+Medium,Veg,5.3,44,Balanced
+Low,Non-Veg,8.0,51,Low Carb
+High,Vegan,5.7,28,High Protein
+Low,Non-Veg,9.8,18,Low Carb
+Medium,Non-Veg,7.6,30,Mediterranean
+Medium,Vegan,6.4,47,Balanced
+Medium,Non-Veg,7.6,22,Mediterranean
+Medium,Veg,7.0,35,Balanced
+Medium,Veg,6.8,31,Balanced
+Low,Veg,4.3,30,Balanced
+Low,Veg,5.5,49,Balanced
+Low,Non-Veg,6.8,24,Low Carb
+Low,Non-Veg,4.5,25,Low Carb
+Medium,Vegan,6.1,67,Balanced
+High,Non-Veg,6.3,24,Balanced
+Low,Non-Veg,5.8,69,Low Carb
+High,Non-Veg,8.2,66,Balanced
+Low,Vegan,5.7,33,Balanced
+Low,Veg,7.1,60,Balanced
+High,Non-Veg,6.5,48,Balanced
+Medium,Vegan,6.8,68,Balanced
+Low,Vegan,9.4,44,Balanced
+Low,Vegan,7.3,50,Balanced
+Low,Veg,7.6,46,Balanced
+High,Non-Veg,5.9,25,Balanced
+Medium,Vegan,7.9,50,Balanced
+High,Veg,7.9,58,Balanced
+High,Vegan,7.7,36,High Protein
+Medium,Vegan,5.2,38,Balanced
+High,Vegan,6.1,58,High Protein
+Medium,Vegan,9.2,38,Balanced
+Low,Vegan,6.0,42,Balanced
+Medium,Veg,9.4,59,Balanced
+Low,Non-Veg,6.2,40,Low Carb
+High,Non-Veg,7.2,28,Balanced
+High,Non-Veg,6.7,50,Balanced
+Low,Non-Veg,5.7,37,Low Carb
+High,Veg,5.8,42,Balanced
+Medium,Veg,5.9,43,Balanced
+Low,Veg,7.2,57,Balanced
+High,Vegan,8.3,69,High Protein
+Low,Vegan,7.1,29,Balanced
+Medium,Vegan,6.9,49,Balanced
+Medium,Non-Veg,8.8,50,Mediterranean
+High,Vegan,7.1,27,High Protein
+Medium,Non-Veg,6.2,21,Mediterranean
+Low,Vegan,5.5,32,Balanced
+Medium,Non-Veg,8.9,68,Mediterranean
+Low,Vegan,6.5,23,Balanced
+Low,Vegan,6.1,44,Balanced
+Medium,Veg,6.0,22,Balanced
+High,Vegan,8.8,22,High Protein
+Medium,Vegan,6.1,35,Balanced
+Low,Veg,8.5,45,Balanced
+Low,Non-Veg,6.7,52,Low Carb
+Medium,Veg,5.2,39,Balanced
+High,Veg,6.5,51,Balanced
+High,Non-Veg,7.0,21,Balanced
+Low,Vegan,6.8,35,Balanced
+Low,Non-Veg,6.8,58,Low Carb
+High,Vegan,6.5,68,High Protein
+Medium,Vegan,5.8,43,Balanced
+Low,Non-Veg,7.0,59,Low Carb
+Low,Veg,7.8,39,Balanced
+High,Non-Veg,4.8,64,Balanced
+Medium,Vegan,8.9,50,Balanced
+High,Non-Veg,4.0,60,Balanced
+Medium,Non-Veg,7.1,31,Mediterranean
+Medium,Vegan,7.7,48,Balanced
+Medium,Veg,6.1,27,Balanced
+Low,Non-Veg,4.0,68,Low Carb
+High,Vegan,6.9,41,High Protein
+High,Vegan,7.3,38,High Protein
+Medium,Non-Veg,5.3,65,Mediterranean
+Low,Veg,5.8,25,Balanced
+Low,Non-Veg,8.4,49,Low Carb
+High,Veg,7.2,48,Balanced
+Low,Veg,4.7,51,Balanced
+Low,Veg,7.7,40,Balanced
+Medium,Veg,5.6,42,Balanced
+Low,Non-Veg,5.8,24,Low Carb
+Medium,Vegan,7.3,36,Balanced
+High,Vegan,7.2,24,High Protein
+Low,Vegan,6.4,64,Balanced
+High,Vegan,6.2,25,High Protein
+High,Vegan,6.6,31,High Protein
+Low,Vegan,5.8,18,Balanced
+Low,Non-Veg,8.6,30,Low Carb
+High,Veg,4.6,20,Balanced
+Low,Vegan,6.6,45,Balanced
+Medium,Non-Veg,4.8,55,Mediterranean
+Medium,Vegan,8.4,68,Balanced
+Low,Vegan,6.6,32,Balanced
+High,Veg,5.4,53,Balanced
+Low,Veg,8.0,20,Balanced
+Low,Veg,4.0,21,Balanced
+High,Vegan,7.4,22,High Protein
+High,Vegan,8.7,67,High Protein
+Medium,Vegan,7.3,43,Balanced
+High,Veg,6.2,42,Balanced
+Medium,Non-Veg,5.1,27,Mediterranean
+High,Vegan,8.6,25,High Protein
+Low,Vegan,8.4,29,Balanced
+Medium,Vegan,6.0,20,Balanced
+Medium,Non-Veg,6.1,44,Mediterranean
+Medium,Vegan,8.8,67,Balanced
+Low,Non-Veg,7.8,40,Low Carb
+Low,Vegan,4.3,57,Balanced
+Low,Non-Veg,6.7,50,Low Carb
+Low,Vegan,6.7,31,Balanced
+Low,Veg,7.4,40,Balanced
+Medium,Veg,7.0,48,Balanced
+Low,Veg,6.2,30,Balanced
+Medium,Veg,7.3,29,Balanced
+Low,Vegan,6.3,52,Balanced
+High,Veg,10.0,35,Balanced
+Medium,Non-Veg,7.2,38,Mediterranean
+High,Veg,7.0,62,Balanced
+Medium,Veg,9.8,64,Balanced
+High,Veg,5.0,59,Balanced
+Low,Vegan,6.8,18,Balanced
+Low,Veg,5.6,55,Balanced
+Low,Non-Veg,8.0,58,Low Carb
+Medium,Veg,6.3,59,Balanced
+High,Veg,7.9,64,Balanced
+Low,Veg,7.8,26,Balanced
+High,Non-Veg,8.2,40,Balanced
+High,Veg,7.8,31,Balanced
+Low,Non-Veg,6.7,28,Low Carb
+Low,Non-Veg,4.9,24,Low Carb
+High,Veg,8.5,48,Balanced
+Low,Non-Veg,9.1,41,Low Carb
+Low,Vegan,5.6,43,Balanced
+Low,Veg,8.1,47,Balanced
+Medium,Veg,5.2,51,Balanced
+High,Non-Veg,7.3,63,Balanced
+High,Non-Veg,7.6,55,Balanced
+Medium,Veg,6.4,22,Balanced
+High,Vegan,7.1,22,High Protein
+Low,Non-Veg,8.3,36,Low Carb
+High,Non-Veg,6.8,68,Balanced
+Low,Vegan,6.0,55,Balanced
+Medium,Vegan,5.2,45,Balanced
+Low,Veg,6.4,43,Balanced
+High,Vegan,5.2,59,High Protein
+High,Veg,6.4,40,Balanced
+High,Vegan,6.3,63,High Protein
+Medium,Non-Veg,8.2,66,Mediterranean
+Medium,Veg,7.1,47,Balanced
+High,Veg,10.0,20,Balanced
+Low,Veg,4.0,45,Balanced
+Medium,Vegan,7.5,50,Balanced
+High,Non-Veg,6.3,59,Balanced
+High,Veg,5.6,20,Balanced
+Medium,Veg,7.0,22,Balanced
+Medium,Veg,6.8,36,Balanced
+Medium,Veg,8.6,59,Balanced
+Low,Non-Veg,7.1,65,Low Carb
+Low,Vegan,6.0,18,Balanced
+High,Non-Veg,7.5,55,Balanced
+Medium,Veg,6.7,26,Balanced
+Low,Non-Veg,5.3,22,Low Carb
+Medium,Veg,6.6,63,Balanced
+High,Vegan,7.3,59,High Protein
+Low,Vegan,7.1,51,Balanced
+Low,Vegan,7.5,54,Balanced
+Low,Veg,6.2,50,Balanced
+High,Non-Veg,7.5,42,Balanced
+Medium,Vegan,7.2,59,Balanced
+Low,Veg,7.2,46,Balanced
+High,Veg,7.0,42,Balanced
+Medium,Non-Veg,10.0,26,Mediterranean
+High,Vegan,8.7,20,High Protein
+Medium,Veg,7.4,32,Balanced
+High,Non-Veg,5.8,21,Balanced
+Medium,Vegan,6.6,62,Balanced
+Low,Non-Veg,9.4,55,Low Carb
+Medium,Non-Veg,6.2,37,Mediterranean
+High,Veg,6.8,66,Balanced
+High,Veg,6.7,40,Balanced
+Medium,Veg,7.6,54,Balanced
+Low,Non-Veg,6.3,64,Low Carb
+Low,Veg,7.3,25,Balanced
+Medium,Non-Veg,6.4,54,Mediterranean
+Medium,Non-Veg,9.0,62,Mediterranean
+High,Veg,6.0,50,Balanced
+Low,Vegan,8.5,50,Balanced
+Medium,Vegan,6.1,24,Balanced
+Low,Vegan,5.7,39,Balanced
+Medium,Non-Veg,5.9,22,Mediterranean
+Medium,Non-Veg,4.4,63,Mediterranean
+Low,Non-Veg,7.7,32,Low Carb
+Medium,Veg,5.3,38,Balanced
+Medium,Non-Veg,6.5,42,Mediterranean
+High,Veg,8.1,34,Balanced
+Medium,Veg,8.1,67,Balanced
+Medium,Vegan,4.9,24,Balanced
+Medium,Vegan,7.5,67,Balanced
+High,Vegan,8.7,36,High Protein
+Low,Veg,6.0,69,Balanced
+High,Veg,7.8,24,Balanced
+High,Veg,5.3,57,Balanced
+Low,Non-Veg,7.6,62,Low Carb
+High,Veg,7.2,67,Balanced
+Low,Vegan,8.0,41,Balanced
+High,Vegan,7.9,28,High Protein
+Low,Veg,5.0,58,Balanced
+Medium,Veg,7.2,18,Balanced
+High,Vegan,9.2,49,High Protein
+High,Veg,4.0,57,Balanced
+High,Vegan,8.5,61,High Protein
+High,Non-Veg,9.4,19,Balanced
+Medium,Vegan,4.8,32,Balanced
+High,Non-Veg,6.0,38,Balanced
+Medium,Veg,7.8,41,Balanced
+Medium,Veg,5.7,67,Balanced
+Medium,Non-Veg,9.0,34,Mediterranean
+Medium,Veg,8.6,64,Balanced
+Low,Non-Veg,4.9,69,Low Carb
+Low,Veg,5.9,69,Balanced
+High,Vegan,8.2,26,High Protein
+Low,Veg,8.1,52,Balanced
+Low,Vegan,10.0,37,Balanced
+High,Vegan,5.7,36,High Protein
+High,Non-Veg,9.2,35,Balanced
+High,Veg,5.6,37,Balanced
+Low,Non-Veg,7.8,47,Low Carb
+Low,Veg,8.3,57,Balanced
+High,Vegan,4.0,18,High Protein
+Medium,Vegan,8.4,41,Balanced
+High,Veg,9.1,41,Balanced
+Medium,Veg,8.6,64,Balanced
+Medium,Non-Veg,10.0,36,Mediterranean
+High,Veg,8.4,47,Balanced
+High,Veg,6.2,43,Balanced
+High,Veg,8.9,59,Balanced
+Low,Non-Veg,6.1,61,Low Carb
+Medium,Veg,7.1,55,Balanced
+Low,Vegan,8.2,46,Balanced
+Low,Non-Veg,7.7,30,Low Carb
+High,Non-Veg,9.0,21,Balanced
+Low,Vegan,10.0,62,Balanced
+High,Vegan,5.3,34,High Protein
+Medium,Vegan,6.5,50,Balanced
+High,Veg,7.5,22,Balanced
+Low,Vegan,6.3,45,Balanced
+Low,Veg,6.9,41,Balanced
+High,Non-Veg,8.2,34,Balanced
+High,Non-Veg,8.0,67,Balanced
+Low,Vegan,7.4,56,Balanced
+Medium,Veg,7.2,65,Balanced
+Medium,Vegan,6.7,57,Balanced
+High,Vegan,9.1,61,High Protein
+Medium,Veg,9.5,63,Balanced
+Low,Vegan,8.5,68,Balanced
+High,Non-Veg,5.3,28,Balanced
+Low,Vegan,6.6,29,Balanced
+Low,Veg,7.3,30,Balanced
+Medium,Veg,5.6,25,Balanced
+High,Non-Veg,7.1,18,Balanced
+High,Veg,7.0,26,Balanced
+Medium,Veg,8.6,45,Balanced
+Low,Non-Veg,6.3,19,Low Carb
+Low,Vegan,8.7,31,Balanced
+Low,Non-Veg,5.6,30,Low Carb
+Low,Vegan,5.8,65,Balanced
+High,Non-Veg,6.4,19,Balanced
+High,Vegan,7.1,21,High Protein
+Medium,Non-Veg,4.0,29,Mediterranean
+Medium,Vegan,7.7,65,Balanced
+High,Non-Veg,9.6,27,Balanced
+High,Vegan,8.0,20,High Protein
+Low,Non-Veg,6.7,21,Low Carb
+Low,Veg,5.4,23,Balanced
+Medium,Vegan,4.3,40,Balanced
+High,Non-Veg,4.5,22,Balanced
+Medium,Vegan,6.8,67,Balanced
+High,Vegan,10.0,20,High Protein
+Low,Non-Veg,4.0,27,Low Carb
+Medium,Vegan,8.1,60,Balanced
+Medium,Non-Veg,6.0,36,Mediterranean
+High,Veg,6.5,31,Balanced
+Low,Vegan,5.6,38,Balanced
+Medium,Veg,4.9,60,Balanced
+Low,Vegan,7.2,45,Balanced
+Medium,Vegan,7.4,38,Balanced
+Low,Vegan,8.0,53,Balanced
+High,Non-Veg,4.5,41,Balanced
+Medium,Veg,8.3,55,Balanced
+Medium,Vegan,8.3,34,Balanced
+Low,Non-Veg,7.6,39,Low Carb
+Low,Vegan,6.4,36,Balanced
+Medium,Non-Veg,7.5,62,Mediterranean
+High,Vegan,6.8,27,High Protein
+Low,Veg,8.5,28,Balanced
+Low,Veg,6.5,55,Balanced
+Low,Vegan,7.2,19,Balanced
+Medium,Non-Veg,4.4,50,Mediterranean
+Medium,Vegan,7.5,60,Balanced
+Medium,Non-Veg,5.9,48,Mediterranean
+Medium,Vegan,7.8,65,Balanced
+High,Non-Veg,8.2,52,Balanced
+High,Veg,6.1,54,Balanced
+Medium,Vegan,7.0,64,Balanced
+High,Veg,7.3,64,Balanced
+Low,Veg,7.6,53,Balanced
+Low,Vegan,8.2,40,Balanced
+Low,Vegan,8.0,53,Balanced
+Medium,Non-Veg,6.4,57,Mediterranean
+Low,Non-Veg,9.4,56,Low Carb
+High,Veg,8.1,43,Balanced
+Medium,Non-Veg,9.1,42,Mediterranean
+High,Non-Veg,7.5,34,Balanced
+Low,Vegan,7.6,32,Balanced
+Low,Non-Veg,6.8,54,Low Carb
+Low,Veg,6.3,62,Balanced
+Medium,Non-Veg,8.5,21,Mediterranean
+High,Veg,7.4,39,Balanced
+Medium,Vegan,6.8,34,Balanced
+Medium,Veg,5.5,39,Balanced
+Low,Non-Veg,9.3,34,Low Carb
+Medium,Vegan,7.2,31,Balanced
+Medium,Non-Veg,5.2,31,Mediterranean
+Low,Vegan,7.1,34,Balanced
+Medium,Vegan,6.7,25,Balanced
+Low,Non-Veg,6.6,51,Low Carb
+Low,Non-Veg,7.9,43,Low Carb
+Low,Vegan,6.7,62,Balanced
+Low,Vegan,6.5,47,Balanced
+Medium,Non-Veg,9.0,39,Mediterranean
+Low,Veg,4.4,33,Balanced
+Low,Non-Veg,6.9,47,Low Carb
+Medium,Vegan,8.4,33,Balanced
+Medium,Non-Veg,7.9,55,Mediterranean
+High,Veg,8.5,41,Balanced
+Medium,Non-Veg,10.0,53,Mediterranean
+Medium,Vegan,9.5,52,Balanced
+High,Non-Veg,5.3,23,Balanced
+Medium,Vegan,4.6,21,Balanced
+Medium,Vegan,7.5,35,Balanced
+Medium,Non-Veg,5.0,23,Mediterranean
+Medium,Vegan,4.1,43,Balanced
+High,Vegan,7.5,54,High Protein
+Medium,Veg,7.9,44,Balanced
+Medium,Veg,9.6,58,Balanced
+High,Veg,8.2,28,Balanced
+Low,Veg,9.9,55,Balanced
+High,Vegan,7.5,33,High Protein
+Low,Non-Veg,5.3,36,Low Carb
+High,Vegan,8.2,60,High Protein
+High,Vegan,9.0,32,High Protein
+Medium,Vegan,7.6,43,Balanced
+Low,Non-Veg,9.2,58,Low Carb
+Medium,Veg,6.8,48,Balanced
+Low,Vegan,7.8,36,Balanced
+High,Vegan,6.7,68,High Protein
+High,Veg,10.0,41,Balanced
+Low,Vegan,8.3,26,Balanced
+Medium,Non-Veg,5.3,40,Mediterranean
+Medium,Vegan,9.8,21,Balanced
+Medium,Vegan,5.9,27,Balanced
+Medium,Veg,7.0,26,Balanced
+High,Vegan,7.7,36,High Protein
+High,Vegan,7.8,32,High Protein
+High,Non-Veg,7.7,68,Balanced
+High,Veg,5.3,51,Balanced
+High,Veg,7.7,59,Balanced
+Medium,Non-Veg,8.7,36,Mediterranean
+Medium,Vegan,8.6,66,Balanced
+Medium,Veg,5.0,69,Balanced
+Medium,Veg,6.0,38,Balanced
+High,Vegan,5.4,51,High Protein
+High,Vegan,7.5,68,High Protein
+High,Veg,4.7,34,Balanced
+Low,Vegan,5.3,35,Balanced
+Medium,Veg,6.0,34,Balanced
+Medium,Vegan,4.3,19,Balanced
+High,Vegan,7.0,68,High Protein
+Medium,Non-Veg,4.0,18,Mediterranean
+Medium,Vegan,7.7,60,Balanced
+High,Non-Veg,6.4,27,Balanced
+Low,Vegan,6.1,54,Balanced
+Low,Veg,6.3,65,Balanced
+Low,Veg,6.9,22,Balanced
+High,Vegan,7.9,29,High Protein
+Medium,Vegan,9.0,53,Balanced
+High,Veg,8.5,48,Balanced
+High,Vegan,10.0,55,High Protein
+Medium,Non-Veg,8.0,68,Mediterranean
+Low,Non-Veg,7.2,26,Low Carb
+Low,Non-Veg,6.3,61,Low Carb
+High,Non-Veg,6.4,43,Balanced
+Low,Non-Veg,7.8,32,Low Carb
+High,Vegan,5.5,33,High Protein
+High,Vegan,7.3,30,High Protein
+Medium,Non-Veg,7.0,42,Mediterranean
+Medium,Vegan,5.9,47,Balanced
+Medium,Vegan,5.4,24,Balanced
+High,Non-Veg,10.0,69,Balanced
+Medium,Vegan,4.9,21,Balanced
+Low,Vegan,6.9,60,Balanced
+Low,Vegan,8.8,57,Balanced
+High,Non-Veg,7.8,55,Balanced
+High,Vegan,6.3,47,High Protein
+Medium,Veg,5.2,27,Balanced
+High,Veg,7.2,47,Balanced
+High,Non-Veg,4.0,56,Balanced
+Low,Veg,7.3,24,Balanced
+Low,Non-Veg,7.1,53,Low Carb
+Medium,Veg,8.6,52,Balanced
+High,Veg,5.3,41,Balanced
+High,Veg,6.5,56,Balanced
+Low,Non-Veg,7.7,53,Low Carb
+High,Non-Veg,7.3,62,Balanced
+Low,Vegan,5.0,37,Balanced
+Medium,Non-Veg,6.0,66,Mediterranean
+Low,Veg,9.1,49,Balanced
+High,Veg,7.4,56,Balanced
+Medium,Non-Veg,4.5,66,Mediterranean
+Low,Non-Veg,8.3,43,Low Carb
+Low,Non-Veg,4.6,43,Low Carb
+Medium,Vegan,6.5,53,Balanced
+Medium,Veg,7.8,60,Balanced
+Low,Vegan,8.8,52,Balanced
+High,Vegan,4.0,60,High Protein
+Low,Veg,8.1,52,Balanced
+Medium,Veg,8.3,29,Balanced
+Low,Non-Veg,6.2,50,Low Carb
+Medium,Non-Veg,7.1,53,Mediterranean
+Medium,Vegan,4.0,31,Balanced
+High,Non-Veg,4.0,50,Balanced
+Medium,Non-Veg,8.7,63,Mediterranean
+Medium,Veg,6.2,62,Balanced
+High,Veg,6.5,62,Balanced
+Medium,Non-Veg,7.4,41,Mediterranean
+High,Veg,6.5,32,Balanced
+High,Non-Veg,6.3,48,Balanced
+Medium,Veg,7.6,34,Balanced
+Medium,Veg,4.8,29,Balanced
+Low,Veg,8.7,39,Balanced
+High,Veg,6.7,40,Balanced
+Low,Non-Veg,5.5,43,Low Carb
+Medium,Vegan,5.3,31,Balanced
+Low,Veg,7.1,29,Balanced
+High,Non-Veg,6.5,67,Balanced
+Low,Non-Veg,4.7,21,Low Carb
+High,Veg,6.1,63,Balanced
+Medium,Vegan,5.8,68,Balanced
+Medium,Veg,8.9,30,Balanced
+High,Non-Veg,7.2,35,Balanced
+Medium,Vegan,9.4,60,Balanced
+Medium,Non-Veg,5.9,45,Mediterranean
+Medium,Veg,6.6,55,Balanced
+Medium,Vegan,7.6,58,Balanced
+High,Non-Veg,7.9,61,Balanced
+Low,Non-Veg,8.1,36,Low Carb
+Low,Non-Veg,5.7,63,Low Carb
+Medium,Veg,5.7,64,Balanced
+Low,Vegan,6.5,60,Balanced
+Low,Veg,9.2,55,Balanced
+Medium,Veg,5.5,63,Balanced
+Medium,Veg,6.2,20,Balanced
+Low,Vegan,8.1,36,Balanced
+High,Veg,8.0,37,Balanced
+Medium,Veg,7.8,42,Balanced
+High,Veg,7.1,28,Balanced
+Low,Veg,5.4,34,Balanced
+Medium,Non-Veg,6.0,66,Mediterranean
+High,Veg,8.7,52,Balanced
+Medium,Non-Veg,8.2,31,Mediterranean
+Low,Veg,5.0,56,Balanced
+High,Vegan,8.3,36,High Protein
+Low,Non-Veg,9.0,20,Low Carb
+Low,Non-Veg,7.1,51,Low Carb
+Medium,Non-Veg,7.6,66,Mediterranean
+High,Non-Veg,8.5,58,Balanced
+Low,Vegan,6.0,39,Balanced
+Low,Veg,10.0,55,Balanced
+High,Non-Veg,8.8,44,Balanced
+Low,Vegan,7.8,38,Balanced
+Low,Non-Veg,6.9,58,Low Carb
+High,Veg,7.7,48,Balanced
+High,Non-Veg,4.7,44,Balanced
+High,Vegan,10.0,54,High Protein
+High,Veg,8.7,19,Balanced
+Medium,Vegan,9.2,64,Balanced
+High,Veg,7.0,26,Balanced
+Medium,Veg,6.5,36,Balanced
+Medium,Veg,6.0,59,Balanced
+Medium,Non-Veg,8.2,53,Mediterranean
+Low,Vegan,6.2,27,Balanced
+Medium,Vegan,6.7,57,Balanced
+Medium,Vegan,7.8,62,Balanced
+Low,Veg,6.0,56,Balanced
+Low,Non-Veg,8.6,24,Low Carb
+Low,Veg,7.0,21,Balanced
+High,Vegan,4.7,32,High Protein
+Low,Non-Veg,6.0,29,Low Carb
+Low,Non-Veg,9.0,65,Low Carb
+Medium,Non-Veg,5.6,23,Mediterranean
+Low,Vegan,8.3,26,Balanced
+High,Non-Veg,7.2,52,Balanced
+Low,Non-Veg,6.7,25,Low Carb
+High,Veg,10.0,24,Balanced
+Low,Veg,5.1,21,Balanced
+Low,Non-Veg,5.9,30,Low Carb
+Low,Non-Veg,7.0,36,Low Carb
+Low,Veg,10.0,24,Balanced
+High,Veg,7.0,27,Balanced
+High,Veg,7.4,42,Balanced
+Medium,Vegan,6.5,61,Balanced
+High,Vegan,7.5,52,High Protein
+Low,Veg,6.6,42,Balanced
+Medium,Non-Veg,8.0,46,Mediterranean
+Medium,Veg,8.2,29,Balanced
+Medium,Vegan,6.6,68,Balanced
+Low,Non-Veg,5.3,64,Low Carb
+High,Vegan,7.1,57,High Protein
+Low,Non-Veg,9.1,29,Low Carb
+Medium,Vegan,5.8,69,Balanced
+Low,Non-Veg,7.5,23,Low Carb
+Low,Non-Veg,5.2,27,Low Carb
+High,Non-Veg,5.4,19,Balanced
+High,Non-Veg,9.0,62,Balanced
+Medium,Vegan,8.0,42,Balanced
+Low,Vegan,7.5,24,Balanced
+Low,Non-Veg,4.0,57,Low Carb
+High,Non-Veg,6.2,40,Balanced
+Low,Vegan,7.9,65,Balanced
+Low,Non-Veg,4.8,28,Low Carb
+Low,Non-Veg,6.5,53,Low Carb
+High,Non-Veg,8.1,66,Balanced
+Medium,Veg,4.7,65,Balanced
+Medium,Non-Veg,4.5,68,Mediterranean
+Low,Veg,4.8,40,Balanced
+Medium,Non-Veg,7.5,60,Mediterranean
+High,Vegan,6.2,24,High Protein
+High,Veg,8.3,44,Balanced
+Medium,Veg,7.2,30,Balanced
+Medium,Non-Veg,9.8,68,Mediterranean
+Low,Non-Veg,5.1,34,Low Carb
+Medium,Veg,7.5,49,Balanced
+Low,Vegan,5.8,43,Balanced
+Low,Vegan,7.9,39,Balanced
+High,Non-Veg,7.2,30,Balanced
+High,Vegan,5.5,29,High Protein
+High,Vegan,6.8,24,High Protein
+High,Non-Veg,7.1,18,Balanced
+Medium,Vegan,6.1,50,Balanced
+High,Non-Veg,8.1,69,Balanced
+Medium,Veg,5.5,31,Balanced
+High,Non-Veg,10.0,64,Balanced
+Medium,Veg,8.4,60,Balanced
+Low,Veg,7.5,58,Balanced
+Medium,Vegan,10.0,34,Balanced
+Medium,Vegan,6.5,21,Balanced
+High,Vegan,7.9,69,High Protein
+Medium,Non-Veg,7.3,68,Mediterranean
+Low,Vegan,8.2,56,Balanced
+Low,Veg,9.2,18,Balanced
+High,Vegan,7.8,58,High Protein
+Low,Vegan,8.6,62,Balanced
+Medium,Non-Veg,6.2,41,Mediterranean
+Low,Non-Veg,6.7,51,Low Carb
+High,Veg,9.5,51,Balanced
+Medium,Non-Veg,7.9,41,Mediterranean
+High,Vegan,7.4,32,High Protein
+Medium,Non-Veg,5.9,34,Mediterranean
+Low,Veg,8.4,30,Balanced
+High,Vegan,5.8,24,High Protein
+High,Veg,5.4,26,Balanced
+Medium,Non-Veg,7.2,61,Mediterranean
+High,Non-Veg,4.0,52,Balanced
+Medium,Veg,7.9,40,Balanced
+Medium,Vegan,7.6,64,Balanced
+Medium,Non-Veg,6.5,56,Mediterranean
+Medium,Non-Veg,6.6,40,Mediterranean
+Low,Vegan,6.8,43,Balanced
+Medium,Non-Veg,5.8,18,Mediterranean
+High,Veg,7.3,31,Balanced
+Low,Non-Veg,6.6,49,Low Carb
+High,Non-Veg,7.2,68,Balanced
+Low,Vegan,6.8,65,Balanced
+Medium,Veg,6.5,27,Balanced
+Low,Vegan,7.4,18,Balanced
+Low,Non-Veg,8.2,22,Low Carb
+High,Non-Veg,6.2,20,Balanced
+High,Vegan,7.6,66,High Protein
+Medium,Vegan,7.8,67,Balanced
+Low,Vegan,5.1,44,Balanced
+Low,Veg,8.5,68,Balanced
+Low,Non-Veg,10.0,39,Low Carb
+Medium,Vegan,6.9,35,Balanced
+Medium,Non-Veg,6.7,33,Mediterranean
+Medium,Veg,6.7,19,Balanced
+Medium,Veg,7.9,64,Balanced
+Medium,Veg,7.8,30,Balanced
+High,Veg,4.6,62,Balanced
+Low,Non-Veg,5.7,33,Low Carb
+Low,Veg,7.8,25,Balanced
+Low,Veg,6.8,60,Balanced
+Low,Vegan,5.3,25,Balanced
+Low,Veg,9.3,27,Balanced
+Low,Vegan,5.8,50,Balanced
+Low,Veg,7.1,48,Balanced
+Low,Veg,6.7,29,Balanced
+High,Vegan,5.4,26,High Protein
+Low,Veg,7.3,54,Balanced
+High,Non-Veg,7.6,26,Balanced
+Medium,Non-Veg,6.3,65,Mediterranean
+Low,Veg,6.5,35,Balanced
+Medium,Non-Veg,7.9,47,Mediterranean
+Medium,Vegan,4.0,49,Balanced
+Medium,Veg,5.7,57,Balanced
+High,Veg,7.3,40,Balanced
+Medium,Vegan,6.2,28,Balanced
+Medium,Vegan,6.2,37,Balanced
+Medium,Vegan,8.4,36,Balanced
+Low,Veg,6.1,53,Balanced
+Low,Vegan,10.0,69,Balanced
+High,Vegan,4.4,43,High Protein
+High,Non-Veg,4.0,27,Balanced
+Low,Non-Veg,8.3,41,Low Carb
+High,Veg,5.5,30,Balanced
+Low,Non-Veg,5.5,69,Low Carb
+Medium,Non-Veg,8.5,63,Mediterranean
+Medium,Vegan,6.3,51,Balanced
+High,Vegan,8.4,46,High Protein
+Low,Non-Veg,6.1,53,Low Carb
+Low,Non-Veg,7.5,24,Low Carb
+High,Non-Veg,6.2,68,Balanced
+Low,Veg,5.6,47,Balanced
+Medium,Veg,9.6,34,Balanced
+High,Veg,8.7,65,Balanced
+High,Non-Veg,5.9,30,Balanced
+Low,Non-Veg,6.7,41,Low Carb
+High,Veg,9.2,48,Balanced
+Low,Veg,5.5,44,Balanced
+Low,Non-Veg,5.6,67,Low Carb
+Low,Vegan,7.7,38,Balanced
+Low,Veg,10.0,61,Balanced
+Low,Non-Veg,7.1,18,Low Carb
+High,Non-Veg,8.6,32,Balanced
+Medium,Vegan,5.5,20,Balanced
+Medium,Non-Veg,7.5,23,Mediterranean
+High,Non-Veg,6.5,31,Balanced
+High,Veg,9.8,55,Balanced
+Medium,Veg,9.4,50,Balanced
+Medium,Vegan,10.0,69,Balanced
+Medium,Vegan,6.0,55,Balanced
+Medium,Non-Veg,7.1,25,Mediterranean
+Medium,Veg,7.6,43,Balanced
+Low,Vegan,6.0,32,Balanced
+High,Vegan,7.2,31,High Protein
+Low,Vegan,8.4,65,Balanced
+Medium,Non-Veg,6.2,37,Mediterranean
+Medium,Veg,5.9,65,Balanced
+Medium,Vegan,5.8,36,Balanced
+Low,Veg,5.0,50,Balanced
+Low,Vegan,8.3,53,Balanced
+Medium,Vegan,5.9,41,Balanced
+Low,Veg,5.8,27,Balanced
+Low,Veg,7.8,69,Balanced
+Medium,Veg,7.0,67,Balanced
+Low,Non-Veg,6.2,51,Low Carb
+High,Vegan,8.2,53,High Protein
+High,Non-Veg,6.2,64,Balanced
+High,Veg,4.0,53,Balanced
+High,Vegan,9.0,33,High Protein
+Medium,Non-Veg,5.8,32,Mediterranean
+Medium,Vegan,5.9,35,Balanced
+Medium,Non-Veg,5.9,24,Mediterranean
+High,Veg,7.1,64,Balanced
+High,Non-Veg,6.6,39,Balanced
+Low,Vegan,8.5,49,Balanced
+Low,Vegan,9.5,60,Balanced
+High,Vegan,6.0,36,High Protein
+High,Vegan,5.6,57,High Protein
+High,Veg,6.2,18,Balanced
+High,Non-Veg,7.7,52,Balanced
+Low,Veg,6.8,22,Balanced
+High,Veg,6.2,67,Balanced
+Low,Veg,5.1,29,Balanced
+High,Vegan,4.0,29,High Protein
+High,Vegan,5.5,38,High Protein
+High,Vegan,8.9,36,High Protein
+Low,Non-Veg,7.7,26,Low Carb
+Low,Vegan,6.7,60,Balanced
+Medium,Non-Veg,8.1,66,Mediterranean
+High,Vegan,5.1,65,High Protein
+Medium,Vegan,7.1,53,Balanced
+Medium,Veg,4.3,59,Balanced
+Low,Veg,7.5,64,Balanced
+Low,Veg,7.4,68,Balanced
+Medium,Non-Veg,7.4,49,Mediterranean
+High,Non-Veg,8.8,52,Balanced
+Low,Vegan,8.2,48,Balanced
+High,Non-Veg,5.2,49,Balanced
+High,Vegan,8.8,54,High Protein
+Medium,Non-Veg,6.7,49,Mediterranean
+Medium,Non-Veg,4.0,60,Mediterranean
+Medium,Non-Veg,6.8,54,Mediterranean
+Medium,Veg,8.0,56,Balanced
+Low,Non-Veg,5.5,55,Low Carb
+Low,Veg,9.0,47,Balanced
+Medium,Veg,5.6,49,Balanced
+Low,Non-Veg,6.3,62,Low Carb
+Medium,Vegan,6.0,19,Balanced
+High,Vegan,4.4,68,High Protein
+High,Vegan,5.5,28,High Protein
+High,Non-Veg,5.9,37,Balanced
+Medium,Vegan,6.8,54,Balanced
+High,Veg,4.0,26,Balanced
+Low,Vegan,8.1,55,Balanced
+High,Non-Veg,8.1,66,Balanced
+High,Vegan,8.8,36,High Protein
+High,Veg,4.8,57,Balanced
+Low,Non-Veg,6.6,24,Low Carb
+Medium,Vegan,8.4,22,Balanced
+Low,Non-Veg,8.5,64,Low Carb
+Medium,Non-Veg,9.2,59,Mediterranean
+Medium,Non-Veg,7.2,41,Mediterranean
+High,Vegan,6.9,65,High Protein
+Medium,Non-Veg,4.7,58,Mediterranean
+Low,Vegan,8.6,24,Balanced
+Low,Veg,6.3,28,Balanced
+Medium,Vegan,7.1,26,Balanced
+High,Veg,7.0,66,Balanced
+High,Vegan,4.0,47,High Protein
+Low,Non-Veg,5.8,58,Low Carb
+High,Vegan,7.7,20,High Protein
+Medium,Non-Veg,6.9,39,Mediterranean
+Medium,Veg,7.7,57,Balanced
+Low,Vegan,8.2,68,Balanced
+Medium,Non-Veg,5.8,37,Mediterranean
+Low,Veg,6.2,49,Balanced
+Medium,Veg,6.8,65,Balanced
+Low,Vegan,8.2,24,Balanced
+High,Veg,6.6,24,Balanced
+Medium,Non-Veg,4.3,37,Mediterranean
+Medium,Veg,6.7,42,Balanced
+Low,Veg,8.1,62,Balanced
+Low,Non-Veg,9.0,52,Low Carb
+Medium,Veg,7.4,61,Balanced
+Low,Veg,4.8,41,Balanced
+Medium,Veg,6.4,57,Balanced
+High,Veg,7.7,30,Balanced
+Low,Non-Veg,8.3,69,Low Carb
+Medium,Veg,7.8,65,Balanced
+High,Non-Veg,6.6,56,Balanced
+High,Veg,8.3,21,Balanced
+Medium,Veg,6.0,29,Balanced
+Low,Veg,7.3,34,Balanced
+Medium,Veg,8.1,18,Balanced
+High,Non-Veg,7.9,34,Balanced
+Medium,Non-Veg,7.9,19,Mediterranean
+Low,Non-Veg,7.9,23,Low Carb
+High,Vegan,5.4,61,High Protein
+Medium,Veg,7.0,28,Balanced
+Low,Veg,5.6,60,Balanced
+High,Non-Veg,6.6,35,Balanced
+Low,Vegan,5.2,57,Balanced
+High,Veg,7.5,42,Balanced
+Medium,Non-Veg,4.1,56,Mediterranean
+Low,Veg,7.9,45,Balanced
+High,Veg,7.0,63,Balanced
+Low,Non-Veg,9.9,33,Low Carb
+Low,Non-Veg,6.7,29,Low Carb
+Medium,Veg,6.7,58,Balanced
+Low,Veg,8.0,69,Balanced
+High,Non-Veg,6.8,46,Balanced
+High,Veg,7.4,40,Balanced
+High,Veg,8.5,38,Balanced
+High,Non-Veg,6.6,33,Balanced
+Medium,Veg,8.8,68,Balanced
+Low,Veg,4.5,65,Balanced
+Medium,Vegan,9.4,58,Balanced
+Low,Non-Veg,4.3,62,Low Carb
+Low,Vegan,9.0,43,Balanced
+Low,Vegan,4.2,54,Balanced
+Medium,Vegan,10.0,39,Balanced
+Low,Veg,7.2,68,Balanced
+Medium,Veg,5.6,27,Balanced
+High,Vegan,9.8,24,High Protein
+High,Vegan,5.4,26,High Protein
+Low,Vegan,6.7,42,Balanced
+Medium,Veg,10.0,63,Balanced
+High,Vegan,7.6,32,High Protein
+Medium,Vegan,4.0,30,Balanced
+Medium,Non-Veg,6.6,59,Mediterranean
+Low,Non-Veg,6.5,63,Low Carb
+High,Veg,7.3,43,Balanced
+Low,Non-Veg,6.9,38,Low Carb
+Low,Non-Veg,7.8,40,Low Carb
+High,Non-Veg,4.7,61,Balanced
+High,Veg,6.2,45,Balanced
+Medium,Non-Veg,7.5,68,Mediterranean
+High,Veg,5.9,55,Balanced
+Medium,Vegan,8.6,29,Balanced
+Medium,Non-Veg,5.9,41,Mediterranean
+Medium,Veg,7.2,30,Balanced
+High,Non-Veg,6.8,57,Balanced
+Low,Vegan,5.5,65,Balanced
+Medium,Veg,7.1,19,Balanced
+Low,Veg,5.0,56,Balanced
+Low,Veg,6.3,29,Balanced
+High,Vegan,7.0,56,High Protein
+Low,Vegan,4.9,68,Balanced
+Low,Vegan,7.9,31,Balanced
+High,Veg,7.4,47,Balanced
+Medium,Vegan,7.8,58,Balanced
+Low,Non-Veg,7.0,67,Low Carb
+High,Vegan,5.3,60,High Protein
+Low,Veg,7.0,65,Balanced
+Low,Non-Veg,7.9,36,Low Carb
+Medium,Vegan,5.2,48,Balanced
+Low,Non-Veg,5.3,60,Low Carb
+High,Non-Veg,6.6,67,Balanced
+Low,Veg,6.4,60,Balanced
+Medium,Non-Veg,7.0,42,Mediterranean
+Medium,Non-Veg,6.6,21,Mediterranean
+High,Veg,7.2,67,Balanced
+Medium,Veg,8.8,68,Balanced
+Low,Veg,7.8,30,Balanced
+Medium,Non-Veg,7.1,53,Mediterranean
+High,Non-Veg,5.3,59,Balanced
+Medium,Non-Veg,5.9,54,Mediterranean
+Medium,Veg,8.3,20,Balanced
+Medium,Vegan,6.3,33,Balanced
+High,Non-Veg,5.5,43,Balanced
+Medium,Vegan,10.0,57,Balanced
+Medium,Veg,9.3,56,Balanced
+Low,Non-Veg,6.8,36,Low Carb
+High,Vegan,5.4,63,High Protein
+Medium,Non-Veg,8.1,32,Mediterranean
+High,Non-Veg,6.3,49,Balanced
+Medium,Non-Veg,8.3,66,Mediterranean
+Medium,Vegan,6.3,38,Balanced
+Medium,Veg,9.5,18,Balanced
+Low,Non-Veg,6.2,23,Low Carb
+Low,Veg,10.0,44,Balanced
+Low,Veg,7.3,40,Balanced
+High,Vegan,9.1,64,High Protein
+High,Vegan,6.2,48,High Protein
+Low,Veg,5.0,29,Balanced
+High,Non-Veg,4.0,38,Balanced
+Medium,Vegan,8.9,69,Balanced
+Medium,Non-Veg,7.1,19,Mediterranean
+Medium,Non-Veg,5.1,22,Mediterranean
+Low,Non-Veg,9.0,26,Low Carb
+High,Veg,8.7,37,Balanced
+Low,Non-Veg,9.1,63,Low Carb
+High,Veg,5.0,35,Balanced
+Medium,Veg,8.9,39,Balanced
+Low,Non-Veg,7.6,25,Low Carb
+High,Non-Veg,9.1,51,Balanced
+High,Non-Veg,7.8,26,Balanced
+Medium,Non-Veg,7.3,24,Mediterranean
+Low,Veg,8.9,47,Balanced
+Low,Non-Veg,8.3,35,Low Carb
+Low,Non-Veg,8.6,44,Low Carb
+Medium,Veg,6.3,33,Balanced
+Low,Vegan,6.7,38,Balanced
+Medium,Vegan,4.4,22,Balanced
+Medium,Veg,6.2,46,Balanced
+Medium,Vegan,8.2,64,Balanced
+High,Veg,7.8,54,Balanced
+Low,Non-Veg,5.5,60,Low Carb
+Low,Non-Veg,8.9,39,Low Carb
+Medium,Vegan,10.0,31,Balanced
+Medium,Non-Veg,5.6,36,Mediterranean
+Low,Vegan,6.7,52,Balanced
+Medium,Vegan,6.1,41,Balanced
+Low,Non-Veg,6.9,59,Low Carb
+High,Non-Veg,7.4,23,Balanced
+Medium,Vegan,6.0,20,Balanced
+Low,Non-Veg,6.6,51,Low Carb
+Medium,Veg,7.1,62,Balanced
+Low,Non-Veg,7.7,67,Low Carb
+Low,Non-Veg,9.2,19,Low Carb
+Medium,Veg,7.0,32,Balanced
+High,Non-Veg,6.2,54,Balanced
+Low,Non-Veg,8.0,32,Low Carb
+Low,Vegan,7.6,49,Balanced
+Low,Non-Veg,6.7,38,Low Carb
+High,Non-Veg,7.7,34,Balanced
+High,Veg,6.4,51,Balanced
+Medium,Vegan,6.2,49,Balanced
+High,Vegan,4.2,67,High Protein
+Medium,Vegan,6.5,64,Balanced
+Medium,Non-Veg,4.4,69,Mediterranean
+High,Vegan,6.0,40,High Protein
+Medium,Veg,7.9,52,Balanced
+High,Vegan,4.7,54,High Protein
+Medium,Veg,6.7,60,Balanced
+High,Vegan,7.1,58,High Protein
+High,Vegan,6.6,54,High Protein
+Medium,Veg,6.3,50,Balanced
+Low,Vegan,7.5,42,Balanced
+Medium,Vegan,7.7,63,Balanced
+High,Vegan,7.0,54,High Protein
+Low,Non-Veg,6.4,57,Low Carb
+Medium,Veg,8.3,38,Balanced
+Medium,Vegan,5.0,63,Balanced
+Medium,Veg,8.0,65,Balanced
+Low,Veg,7.6,55,Balanced
+High,Veg,7.3,57,Balanced
+Medium,Vegan,7.0,51,Balanced
+Medium,Vegan,4.2,36,Balanced
+Medium,Veg,9.1,44,Balanced
+Medium,Non-Veg,8.3,26,Mediterranean
+Medium,Veg,5.6,22,Balanced
+High,Non-Veg,8.1,22,Balanced
+High,Veg,7.3,42,Balanced
+Medium,Veg,6.1,43,Balanced
+Low,Veg,8.8,36,Balanced
+High,Vegan,6.4,47,High Protein
+Low,Non-Veg,9.0,53,Low Carb
+High,Non-Veg,7.8,65,Balanced
+Medium,Veg,8.4,65,Balanced
+High,Vegan,7.9,33,High Protein
+Medium,Vegan,7.8,24,Balanced
+High,Non-Veg,7.3,35,Balanced
+Medium,Vegan,5.9,38,Balanced
+Medium,Non-Veg,7.1,48,Mediterranean
+Medium,Non-Veg,8.4,18,Mediterranean
+Medium,Non-Veg,8.1,20,Mediterranean
+Low,Vegan,7.8,48,Balanced
+Medium,Non-Veg,4.0,42,Mediterranean
+Low,Non-Veg,6.7,25,Low Carb
+Low,Veg,6.5,18,Balanced
+Medium,Non-Veg,5.3,24,Mediterranean
+Low,Non-Veg,8.4,24,Low Carb
+High,Veg,4.0,25,Balanced
+Medium,Veg,8.3,36,Balanced
+Low,Vegan,9.0,34,Balanced
+Medium,Non-Veg,6.7,28,Mediterranean
+Medium,Vegan,6.9,64,Balanced
+Medium,Vegan,8.5,58,Balanced
+Low,Veg,5.9,66,Balanced
+High,Vegan,8.0,28,High Protein
+High,Non-Veg,5.6,55,Balanced
+Low,Veg,5.2,58,Balanced
+Medium,Non-Veg,7.4,67,Mediterranean
+Low,Non-Veg,7.0,69,Low Carb
+Low,Veg,4.4,19,Balanced
+Low,Non-Veg,9.1,21,Low Carb
+Medium,Veg,6.4,67,Balanced
+Low,Non-Veg,7.8,45,Low Carb
+Medium,Veg,9.4,50,Balanced
+Low,Vegan,7.4,28,Balanced
+High,Non-Veg,8.9,20,Balanced
+Low,Veg,5.7,57,Balanced
+Low,Non-Veg,9.1,22,Low Carb
+High,Non-Veg,5.8,69,Balanced
+Medium,Non-Veg,6.1,38,Mediterranean
+Medium,Veg,4.8,39,Balanced
+Low,Vegan,7.4,54,Balanced
+High,Vegan,7.9,28,High Protein
+Medium,Vegan,8.2,61,Balanced
+Low,Veg,4.9,39,Balanced
+High,Vegan,7.6,58,High Protein
+Medium,Veg,7.6,30,Balanced
+Medium,Non-Veg,7.9,69,Mediterranean
+High,Non-Veg,5.8,20,Balanced
+High,Vegan,4.0,30,High Protein
+High,Veg,8.1,45,Balanced
+High,Non-Veg,6.8,28,Balanced
+Low,Veg,7.4,28,Balanced
+High,Veg,6.9,38,Balanced
+Medium,Non-Veg,7.4,69,Mediterranean
+Medium,Veg,8.1,38,Balanced
+Low,Non-Veg,4.2,24,Low Carb
+Medium,Non-Veg,8.7,34,Mediterranean
+Medium,Non-Veg,6.7,65,Mediterranean
+High,Veg,9.4,31,Balanced
+Medium,Non-Veg,6.3,50,Mediterranean
+Low,Veg,6.0,28,Balanced
+High,Non-Veg,6.8,30,Balanced
+High,Non-Veg,7.7,18,Balanced
+Low,Vegan,6.6,51,Balanced
+High,Vegan,7.9,26,High Protein
+High,Vegan,6.4,30,High Protein
+Low,Veg,7.1,54,Balanced
+High,Veg,10.0,47,Balanced
+Low,Non-Veg,7.5,58,Low Carb
+Low,Non-Veg,7.7,62,Low Carb
+Medium,Non-Veg,4.8,54,Mediterranean
+Medium,Non-Veg,9.0,64,Mediterranean
+High,Veg,8.6,24,Balanced
+High,Non-Veg,5.9,31,Balanced
+Low,Non-Veg,8.6,65,Low Carb
+High,Vegan,7.5,23,High Protein
+Low,Non-Veg,7.1,51,Low Carb
+Low,Non-Veg,8.9,33,Low Carb
+High,Non-Veg,6.2,68,Balanced
+Low,Veg,5.9,54,Balanced
+Medium,Vegan,7.3,53,Balanced
+High,Non-Veg,7.8,63,Balanced
+Medium,Non-Veg,8.4,23,Mediterranean
+High,Vegan,6.8,25,High Protein
+Low,Non-Veg,5.7,41,Low Carb
+High,Veg,10.0,20,Balanced
+Medium,Non-Veg,5.4,21,Mediterranean
+Low,Veg,7.1,49,Balanced
+High,Veg,8.2,18,Balanced
+High,Non-Veg,8.7,51,Balanced
+High,Vegan,6.1,62,High Protein
+Medium,Veg,4.2,26,Balanced
+Medium,Vegan,6.1,29,Balanced
+High,Non-Veg,8.3,27,Balanced
+Low,Veg,8.0,27,Balanced
+Low,Non-Veg,8.0,67,Low Carb
+Medium,Vegan,8.1,61,Balanced
+Low,Non-Veg,9.0,65,Low Carb
+Medium,Non-Veg,5.8,40,Mediterranean
+High,Veg,5.2,23,Balanced
+Medium,Non-Veg,7.6,41,Mediterranean
+Medium,Non-Veg,5.4,41,Mediterranean
+High,Non-Veg,5.1,38,Balanced
+Low,Veg,8.8,59,Balanced
+Medium,Vegan,7.4,48,Balanced
+Medium,Vegan,7.0,64,Balanced
+High,Non-Veg,7.1,58,Balanced
+Low,Veg,6.8,47,Balanced
+Medium,Non-Veg,8.8,51,Mediterranean
+High,Vegan,4.7,35,High Protein
+Medium,Veg,4.7,29,Balanced
+High,Vegan,5.6,52,High Protein
+Low,Vegan,7.4,24,Balanced
+Low,Veg,9.7,58,Balanced
+Low,Veg,8.3,57,Balanced
+Low,Non-Veg,7.9,42,Low Carb
+Medium,Non-Veg,6.9,23,Mediterranean
+Medium,Vegan,5.0,18,Balanced
+Low,Veg,7.8,63,Balanced
+Low,Veg,10.0,33,Balanced
+Low,Non-Veg,6.6,65,Low Carb
+Medium,Vegan,6.2,21,Balanced
+Low,Vegan,6.6,46,Balanced
+Low,Non-Veg,7.9,55,Low Carb
+Low,Veg,7.2,64,Balanced
+High,Non-Veg,8.4,45,Balanced
+Low,Non-Veg,6.9,39,Low Carb
+High,Non-Veg,6.6,25,Balanced
+High,Non-Veg,7.3,49,Balanced
+Low,Veg,6.2,50,Balanced
+High,Non-Veg,9.6,30,Balanced
+Low,Veg,8.2,44,Balanced
+Medium,Non-Veg,5.4,35,Mediterranean
+Medium,Vegan,5.9,35,Balanced
+Medium,Veg,7.8,30,Balanced
+Medium,Vegan,7.3,39,Balanced
+High,Non-Veg,7.5,31,Balanced
+Low,Non-Veg,6.7,28,Low Carb
+Low,Non-Veg,7.7,56,Low Carb
+Low,Veg,6.7,67,Balanced
+Medium,Vegan,7.8,39,Balanced
+Medium,Veg,8.2,53,Balanced
+Low,Veg,9.4,34,Balanced
+Medium,Non-Veg,6.2,68,Mediterranean
+Low,Vegan,7.0,49,Balanced
+Low,Non-Veg,5.2,31,Low Carb
+Low,Veg,9.7,59,Balanced
+Low,Non-Veg,4.0,46,Low Carb
+Low,Vegan,9.5,23,Balanced
+Low,Non-Veg,7.1,67,Low Carb
+Low,Vegan,7.6,21,Balanced
+Medium,Vegan,6.8,28,Balanced
+Low,Non-Veg,7.0,62,Low Carb
+Low,Veg,7.9,57,Balanced
+Medium,Non-Veg,4.5,27,Mediterranean
+Medium,Veg,6.0,45,Balanced
+Medium,Veg,5.7,28,Balanced
+Low,Non-Veg,7.7,52,Low Carb
+High,Veg,7.0,32,Balanced
+High,Veg,7.9,25,Balanced
+Medium,Non-Veg,7.2,37,Mediterranean
+High,Non-Veg,8.6,67,Balanced
+Medium,Non-Veg,5.9,38,Mediterranean
+Low,Veg,7.1,18,Balanced
+High,Vegan,8.7,46,High Protein
+Low,Veg,8.4,41,Balanced
+High,Vegan,4.8,47,High Protein
+Low,Non-Veg,5.5,57,Low Carb
+High,Vegan,6.9,52,High Protein
+Low,Non-Veg,6.6,50,Low Carb
+Low,Non-Veg,6.9,37,Low Carb
+High,Vegan,8.2,33,High Protein
+Low,Non-Veg,7.4,26,Low Carb
+Low,Vegan,7.5,48,Balanced
+Low,Non-Veg,8.0,34,Low Carb
+High,Veg,8.6,48,Balanced
+High,Veg,4.0,65,Balanced
+Low,Non-Veg,6.4,40,Low Carb
+Low,Non-Veg,5.7,23,Low Carb
+High,Vegan,7.7,47,High Protein
+High,Veg,6.3,24,Balanced
+Low,Vegan,7.1,65,Balanced
+Low,Non-Veg,8.3,57,Low Carb
+Low,Non-Veg,6.1,59,Low Carb
+Medium,Vegan,7.5,63,Balanced
+High,Non-Veg,9.3,28,Balanced
+Medium,Veg,8.2,51,Balanced
+High,Vegan,4.6,29,High Protein
+High,Veg,6.6,69,Balanced
+High,Veg,7.5,69,Balanced
+High,Veg,7.8,62,Balanced
+High,Vegan,6.6,64,High Protein
+High,Non-Veg,6.0,44,Balanced
+High,Veg,7.1,29,Balanced
+Medium,Veg,5.4,30,Balanced
+Low,Veg,8.6,25,Balanced
+Low,Non-Veg,9.8,33,Low Carb
+Medium,Non-Veg,7.6,46,Mediterranean
+Medium,Vegan,6.7,52,Balanced
+Medium,Non-Veg,8.4,46,Mediterranean
+Medium,Vegan,8.2,48,Balanced
+High,Vegan,6.6,30,High Protein
+Low,Vegan,6.9,29,Balanced
+High,Vegan,6.1,68,High Protein
+Low,Vegan,7.2,19,Balanced
+Low,Veg,7.4,50,Balanced
+Medium,Non-Veg,5.8,25,Mediterranean
+High,Veg,5.4,58,Balanced
+Medium,Vegan,5.0,57,Balanced
+High,Non-Veg,7.6,66,Balanced
+Low,Veg,7.0,58,Balanced
+Medium,Veg,6.9,49,Balanced
+Medium,Vegan,7.7,55,Balanced
+Low,Veg,5.6,45,Balanced
+Low,Veg,5.4,32,Balanced
+Low,Veg,7.4,40,Balanced
+Medium,Veg,4.4,41,Balanced
+High,Veg,6.6,30,Balanced
+Medium,Vegan,10.0,38,Balanced
+High,Vegan,5.0,29,High Protein
+Medium,Veg,6.4,30,Balanced
+Medium,Vegan,4.0,56,Balanced
+Low,Vegan,6.6,40,Balanced
+High,Non-Veg,9.9,67,Balanced
+Medium,Veg,7.7,63,Balanced
+Medium,Vegan,6.1,60,Balanced
+Low,Vegan,10.0,45,Balanced
+Low,Veg,4.4,31,Balanced
+High,Non-Veg,7.7,34,Balanced
+Medium,Veg,7.1,41,Balanced
+High,Non-Veg,6.6,51,Balanced
+Medium,Veg,8.2,68,Balanced
+High,Veg,5.2,65,Balanced
+Low,Veg,7.5,39,Balanced
+Medium,Veg,7.3,27,Balanced
+High,Non-Veg,5.7,25,Balanced
+Low,Non-Veg,9.9,38,Low Carb
+Low,Vegan,6.7,54,Balanced
+High,Veg,6.8,24,Balanced
+Medium,Non-Veg,5.5,43,Mediterranean
+Medium,Non-Veg,6.8,30,Mediterranean
+Low,Non-Veg,10.0,33,Low Carb
+Medium,Veg,6.6,47,Balanced
+Medium,Vegan,7.8,48,Balanced
+Medium,Non-Veg,8.4,22,Mediterranean
+Low,Veg,6.7,49,Balanced
+High,Non-Veg,6.4,33,Balanced
+Medium,Non-Veg,7.7,64,Mediterranean
+Low,Vegan,6.6,26,Balanced
+Low,Non-Veg,6.5,39,Low Carb
+High,Non-Veg,8.4,61,Balanced
+Medium,Veg,6.9,57,Balanced
+Medium,Veg,8.8,62,Balanced
+High,Vegan,6.9,54,High Protein
+High,Veg,5.0,31,Balanced
+Low,Veg,4.0,33,Balanced
+Low,Vegan,4.2,60,Balanced
+High,Non-Veg,4.5,37,Balanced
+Medium,Vegan,7.4,61,Balanced
+Low,Veg,5.5,32,Balanced
+Low,Vegan,4.0,61,Balanced
+Medium,Non-Veg,6.8,43,Mediterranean
+Low,Vegan,5.4,26,Balanced
+Medium,Veg,7.7,18,Balanced
+Medium,Veg,7.7,52,Balanced
+Medium,Vegan,7.8,61,Balanced
+High,Non-Veg,4.0,37,Balanced
+High,Vegan,7.1,62,High Protein
+High,Non-Veg,6.8,23,Balanced
+Medium,Non-Veg,5.2,59,Mediterranean
+Medium,Vegan,4.0,27,Balanced
+High,Non-Veg,6.8,65,Balanced
+Low,Veg,8.6,50,Balanced
+Medium,Vegan,4.0,33,Balanced
+Low,Non-Veg,5.8,53,Low Carb
+Low,Veg,7.2,23,Balanced
+Medium,Vegan,8.7,36,Balanced
+Medium,Veg,6.5,48,Balanced
+Low,Veg,9.9,19,Balanced
+Low,Veg,4.3,35,Balanced
+High,Non-Veg,4.0,59,Balanced
+High,Vegan,8.5,45,High Protein
+Medium,Vegan,4.0,21,Balanced
+High,Non-Veg,7.7,18,Balanced
+High,Vegan,6.6,64,High Protein
+High,Veg,5.6,59,Balanced
+High,Vegan,6.4,67,High Protein
+Low,Non-Veg,5.1,33,Low Carb
+Medium,Veg,6.5,62,Balanced
+High,Non-Veg,7.0,64,Balanced
+Low,Veg,6.4,19,Balanced
+Low,Veg,6.1,69,Balanced
+Low,Vegan,7.4,53,Balanced
+High,Veg,9.5,18,Balanced
+High,Non-Veg,6.6,56,Balanced
+Medium,Vegan,8.2,40,Balanced
+High,Non-Veg,5.6,43,Balanced
+High,Veg,5.0,28,Balanced
+Low,Non-Veg,7.7,59,Low Carb
+Medium,Non-Veg,6.6,18,Mediterranean
+High,Veg,8.7,28,Balanced
+High,Vegan,9.0,41,High Protein
+Low,Non-Veg,8.3,27,Low Carb
+Low,Veg,8.2,31,Balanced
+High,Vegan,4.0,31,High Protein
+Medium,Vegan,7.7,24,Balanced
+Medium,Vegan,8.3,40,Balanced
+Low,Non-Veg,5.1,60,Low Carb
+Low,Non-Veg,7.0,39,Low Carb
+High,Non-Veg,5.4,53,Balanced
+Low,Vegan,8.5,44,Balanced
+High,Non-Veg,5.6,19,Balanced
+Medium,Veg,5.8,56,Balanced
+Medium,Non-Veg,6.3,68,Mediterranean
+High,Non-Veg,10.0,63,Balanced
+Low,Vegan,8.5,36,Balanced
+Medium,Non-Veg,9.4,24,Mediterranean
+Low,Veg,4.3,29,Balanced
+Medium,Vegan,5.1,20,Balanced
+High,Veg,9.0,64,Balanced
+High,Vegan,4.4,22,High Protein
+High,Vegan,6.0,25,High Protein
+Medium,Non-Veg,10.0,31,Mediterranean
+Low,Veg,5.6,53,Balanced
+Low,Vegan,4.3,24,Balanced
+Low,Non-Veg,7.1,24,Low Carb
+Medium,Vegan,4.3,67,Balanced
+Medium,Vegan,8.9,63,Balanced
+Medium,Vegan,5.7,49,Balanced
+Medium,Vegan,5.4,25,Balanced
+Medium,Vegan,7.0,29,Balanced
+Low,Vegan,6.4,27,Balanced
+Medium,Non-Veg,7.4,31,Mediterranean
+Medium,Vegan,7.8,26,Balanced
+Low,Veg,6.7,55,Balanced
+Medium,Non-Veg,5.3,47,Mediterranean
+Low,Veg,8.1,22,Balanced
+Low,Vegan,6.0,18,Balanced
+High,Veg,5.7,18,Balanced
+High,Vegan,7.2,37,High Protein
+High,Vegan,4.1,66,High Protein
+High,Non-Veg,7.6,28,Balanced
+Medium,Non-Veg,7.3,43,Mediterranean
+High,Vegan,8.7,61,High Protein
+Low,Non-Veg,6.2,20,Low Carb
+Medium,Veg,9.0,23,Balanced
+High,Non-Veg,7.8,60,Balanced
+Low,Non-Veg,7.0,62,Low Carb
+Medium,Veg,9.7,28,Balanced
+Medium,Non-Veg,7.1,25,Mediterranean
+High,Vegan,6.2,46,High Protein
+Medium,Veg,7.2,27,Balanced
+Low,Vegan,6.2,51,Balanced
+Medium,Veg,7.6,41,Balanced
+Low,Vegan,9.0,63,Balanced
+Medium,Vegan,7.0,65,Balanced
+High,Non-Veg,7.1,34,Balanced
+Low,Vegan,8.2,49,Balanced
+Medium,Non-Veg,8.8,28,Mediterranean
+Medium,Veg,6.3,51,Balanced
+Medium,Vegan,7.3,41,Balanced
+Low,Vegan,8.2,22,Balanced
+Low,Veg,7.5,46,Balanced
+Low,Veg,4.2,65,Balanced
+High,Vegan,8.5,65,High Protein
+High,Veg,7.8,51,Balanced
+Low,Non-Veg,7.9,33,Low Carb
+Medium,Veg,5.2,42,Balanced
+High,Veg,7.2,54,Balanced
+Low,Vegan,8.3,25,Balanced
+Medium,Non-Veg,5.7,46,Mediterranean
+High,Veg,6.1,69,Balanced
+Medium,Non-Veg,8.3,63,Mediterranean
+Medium,Non-Veg,6.0,42,Mediterranean
+Medium,Non-Veg,6.7,59,Mediterranean
+Medium,Vegan,5.4,40,Balanced
+High,Veg,9.7,51,Balanced
+High,Vegan,7.8,20,High Protein
+High,Veg,6.6,47,Balanced
+Low,Veg,6.3,67,Balanced
+High,Vegan,5.2,51,High Protein
+Medium,Non-Veg,6.8,49,Mediterranean
+High,Non-Veg,8.0,46,Balanced
+Medium,Veg,5.8,26,Balanced
+Low,Vegan,7.2,19,Balanced
+Medium,Non-Veg,6.4,56,Mediterranean
+Medium,Non-Veg,9.1,24,Mediterranean
+Medium,Veg,6.0,63,Balanced
+Low,Veg,8.2,22,Balanced
+High,Vegan,9.1,25,High Protein
+High,Veg,6.4,49,Balanced
+Low,Non-Veg,6.1,35,Low Carb
+Medium,Non-Veg,8.4,55,Mediterranean
+High,Non-Veg,4.3,63,Balanced
+Low,Non-Veg,7.6,35,Low Carb
+High,Vegan,4.6,66,High Protein
+Low,Vegan,8.8,58,Balanced
+Medium,Veg,6.6,62,Balanced
+High,Veg,6.9,33,Balanced
+Low,Veg,5.9,38,Balanced
+High,Vegan,4.6,27,High Protein
+High,Non-Veg,8.9,59,Balanced
+High,Veg,6.7,21,Balanced
+High,Non-Veg,10.0,61,Balanced
+Low,Veg,5.8,25,Balanced
+Medium,Veg,6.0,64,Balanced
+Low,Veg,5.7,36,Balanced
+Low,Veg,6.7,64,Balanced
+Low,Veg,9.4,57,Balanced
+Medium,Non-Veg,8.5,57,Mediterranean
+High,Veg,4.7,68,Balanced
+High,Non-Veg,8.8,26,Balanced
+High,Vegan,8.0,47,High Protein
+Medium,Veg,7.7,34,Balanced
+High,Non-Veg,6.0,57,Balanced
+Medium,Vegan,6.1,61,Balanced
+High,Vegan,7.2,32,High Protein
+High,Vegan,6.2,21,High Protein
+Low,Non-Veg,9.0,23,Low Carb
+Medium,Veg,6.1,33,Balanced
+Low,Veg,4.1,43,Balanced
+Low,Non-Veg,5.0,54,Low Carb
+Low,Veg,5.1,40,Balanced
+Medium,Non-Veg,6.6,30,Mediterranean
+Medium,Veg,7.3,64,Balanced
+High,Vegan,7.1,34,High Protein
+Low,Veg,7.7,44,Balanced
+High,Non-Veg,6.6,69,Balanced
+Low,Non-Veg,6.7,39,Low Carb
+Medium,Vegan,9.6,54,Balanced
+Medium,Non-Veg,8.8,36,Mediterranean
+Medium,Veg,7.6,56,Balanced
+Low,Veg,8.4,52,Balanced
+Medium,Vegan,4.1,30,Balanced
+Low,Non-Veg,5.8,31,Low Carb
+High,Vegan,6.4,65,High Protein
+Low,Veg,5.8,48,Balanced
+High,Vegan,4.7,62,High Protein
+Low,Non-Veg,7.6,19,Low Carb
+High,Vegan,9.1,63,High Protein
+Medium,Non-Veg,7.0,69,Mediterranean
+High,Non-Veg,8.0,56,Balanced
+Medium,Veg,6.9,54,Balanced
+Medium,Veg,6.3,31,Balanced
+High,Veg,8.4,26,Balanced
+Low,Non-Veg,4.9,27,Low Carb
+Low,Vegan,4.2,24,Balanced
+Low,Non-Veg,4.8,45,Low Carb
+Low,Veg,8.3,63,Balanced
+Low,Veg,7.1,42,Balanced
+Medium,Vegan,7.6,63,Balanced
+Low,Veg,9.5,45,Balanced
+Medium,Veg,5.3,19,Balanced
+Medium,Veg,8.8,34,Balanced
+Medium,Vegan,6.4,69,Balanced
+High,Non-Veg,6.2,21,Balanced
+High,Veg,7.1,30,Balanced
+Medium,Vegan,7.4,35,Balanced
+High,Veg,6.7,20,Balanced
+Low,Vegan,7.9,68,Balanced
+Low,Veg,7.1,54,Balanced
+Medium,Vegan,6.7,50,Balanced
+Low,Veg,6.4,58,Balanced
+Medium,Non-Veg,7.4,41,Mediterranean
+Medium,Veg,5.0,25,Balanced
+Low,Vegan,5.4,52,Balanced
+High,Veg,6.4,19,Balanced
+Low,Non-Veg,7.8,50,Low Carb
+Low,Veg,10.0,29,Balanced
+Medium,Vegan,6.8,39,Balanced
+Medium,Vegan,4.3,30,Balanced
+Medium,Non-Veg,5.8,27,Mediterranean
+Medium,Vegan,8.0,34,Balanced
+High,Veg,5.5,60,Balanced
+High,Veg,5.0,22,Balanced
+High,Veg,8.0,26,Balanced
+Medium,Vegan,7.7,30,Balanced
+Medium,Veg,4.8,69,Balanced
+Medium,Veg,5.7,40,Balanced
+High,Veg,8.9,47,Balanced
+Medium,Non-Veg,8.3,60,Mediterranean
+Low,Vegan,5.2,21,Balanced
+Low,Vegan,4.0,38,Balanced
+Medium,Vegan,7.4,60,Balanced
+Low,Non-Veg,6.6,26,Low Carb
+Low,Vegan,7.3,24,Balanced
+High,Non-Veg,8.0,33,Balanced
+Medium,Non-Veg,5.6,40,Mediterranean
+Medium,Vegan,6.4,40,Balanced
+High,Veg,5.7,48,Balanced
+Low,Veg,5.7,22,Balanced
+Low,Vegan,7.8,23,Balanced
+Medium,Vegan,7.2,68,Balanced
+Low,Non-Veg,4.7,18,Low Carb
+High,Vegan,8.1,65,High Protein
+High,Non-Veg,6.5,45,Balanced
+Medium,Vegan,8.2,35,Balanced
+High,Veg,5.5,41,Balanced
+High,Veg,5.6,30,Balanced
+Medium,Vegan,7.4,50,Balanced
+High,Non-Veg,5.4,27,Balanced
+High,Veg,6.6,24,Balanced
+High,Non-Veg,5.2,54,Balanced
+Low,Vegan,6.4,49,Balanced
+Medium,Vegan,7.0,62,Balanced
+Medium,Veg,7.0,39,Balanced
+Medium,Vegan,6.5,33,Balanced
+Low,Veg,7.5,41,Balanced
+Low,Non-Veg,7.2,69,Low Carb
+Medium,Veg,6.9,31,Balanced
+Low,Veg,6.1,28,Balanced
+Medium,Non-Veg,8.6,36,Mediterranean
+Low,Veg,7.6,40,Balanced
+High,Veg,5.4,51,Balanced
+High,Vegan,8.0,57,High Protein
+Medium,Non-Veg,8.3,30,Mediterranean
+Low,Veg,6.9,56,Balanced
+Low,Non-Veg,7.0,61,Low Carb
+High,Non-Veg,4.0,45,Balanced
+High,Veg,5.7,57,Balanced
+Low,Vegan,8.3,33,Balanced
+Low,Non-Veg,5.8,67,Low Carb
+Low,Veg,6.8,68,Balanced
+Low,Non-Veg,5.7,45,Low Carb
+Low,Vegan,7.3,21,Balanced
+Low,Vegan,7.6,45,Balanced
+Medium,Vegan,7.6,29,Balanced
+Low,Veg,5.3,33,Balanced
+High,Veg,7.2,66,Balanced
+Medium,Vegan,9.4,53,Balanced
+Low,Veg,8.1,37,Balanced
+High,Vegan,7.1,43,High Protein
+Medium,Veg,4.1,43,Balanced
+High,Vegan,6.6,39,High Protein
+Low,Non-Veg,9.5,26,Low Carb
+Low,Vegan,9.0,22,Balanced
+Low,Vegan,7.7,34,Balanced
+Low,Veg,5.9,66,Balanced
+Medium,Veg,7.1,51,Balanced
+Medium,Veg,8.2,19,Balanced
+High,Veg,8.4,24,Balanced
+Low,Veg,7.5,53,Balanced
+High,Veg,8.3,30,Balanced
+Medium,Non-Veg,6.9,37,Mediterranean
+Low,Vegan,6.8,47,Balanced
+Low,Vegan,6.3,47,Balanced
+Medium,Vegan,7.6,28,Balanced
+Medium,Non-Veg,8.5,48,Mediterranean
+Medium,Vegan,8.1,20,Balanced
+Medium,Non-Veg,5.2,19,Mediterranean
+Medium,Non-Veg,5.3,65,Mediterranean
+Low,Non-Veg,8.7,20,Low Carb
+Medium,Vegan,7.3,32,Balanced
+Low,Non-Veg,7.3,34,Low Carb
+Low,Vegan,7.3,65,Balanced
+Medium,Vegan,9.6,69,Balanced
+Medium,Veg,6.3,24,Balanced
+Low,Veg,8.7,65,Balanced
+Medium,Non-Veg,7.4,22,Mediterranean
+Medium,Non-Veg,4.6,51,Mediterranean
+Medium,Vegan,5.8,50,Balanced
+High,Non-Veg,6.1,62,Balanced
+Low,Non-Veg,8.6,33,Low Carb
+High,Vegan,8.8,54,High Protein
+Medium,Non-Veg,7.5,20,Mediterranean
+High,Non-Veg,6.2,64,Balanced
+Medium,Vegan,5.6,65,Balanced
+High,Vegan,8.7,60,High Protein
+Medium,Veg,5.1,68,Balanced
+High,Vegan,6.8,67,High Protein
+High,Veg,10.0,38,Balanced
+High,Non-Veg,6.2,58,Balanced
+Low,Vegan,5.1,25,Balanced
+High,Vegan,4.4,39,High Protein
+Low,Vegan,10.0,68,Balanced
+Medium,Non-Veg,7.5,22,Mediterranean
+High,Veg,5.7,34,Balanced
+Medium,Non-Veg,6.7,54,Mediterranean
+Medium,Non-Veg,6.0,31,Mediterranean
+High,Vegan,4.2,56,High Protein
+Low,Veg,8.2,58,Balanced
+High,Non-Veg,7.1,45,Balanced
+Medium,Vegan,8.1,48,Balanced
+Medium,Non-Veg,7.0,34,Mediterranean
+High,Non-Veg,7.2,52,Balanced
+Low,Vegan,4.0,57,Balanced
+Low,Vegan,8.4,39,Balanced
+Medium,Veg,5.4,62,Balanced
+Medium,Non-Veg,5.8,65,Mediterranean
+Low,Vegan,6.2,46,Balanced
+High,Vegan,4.0,27,High Protein
+Medium,Veg,6.1,35,Balanced
+Low,Veg,6.0,52,Balanced
+Medium,Vegan,6.4,61,Balanced
+High,Veg,4.4,33,Balanced
+Low,Vegan,8.4,67,Balanced
+Medium,Non-Veg,7.6,66,Mediterranean
+High,Veg,5.7,24,Balanced
+Medium,Non-Veg,6.1,47,Mediterranean
+High,Non-Veg,8.3,36,Balanced
+High,Non-Veg,6.6,40,Balanced
+Low,Vegan,5.1,25,Balanced
+High,Non-Veg,6.9,34,Balanced
+Medium,Non-Veg,5.4,38,Mediterranean
+High,Non-Veg,5.9,43,Balanced
+High,Vegan,6.9,45,High Protein
+Low,Non-Veg,8.6,56,Low Carb
+High,Non-Veg,10.0,50,Balanced
+High,Veg,9.0,57,Balanced
+Medium,Vegan,6.9,36,Balanced
+Low,Non-Veg,10.0,46,Low Carb
+Low,Veg,7.8,37,Balanced
+Low,Vegan,5.5,37,Balanced
+High,Vegan,7.1,27,High Protein
+Low,Vegan,6.0,29,Balanced
+High,Vegan,5.1,50,High Protein
+High,Vegan,5.2,42,High Protein
+Medium,Vegan,6.8,42,Balanced
+Medium,Non-Veg,8.1,21,Mediterranean
+Medium,Non-Veg,8.6,21,Mediterranean
+Medium,Non-Veg,5.1,26,Mediterranean
+Medium,Non-Veg,6.5,32,Mediterranean
+High,Veg,7.7,43,Balanced
+High,Non-Veg,7.2,32,Balanced
+Low,Vegan,8.0,43,Balanced
+High,Non-Veg,6.3,45,Balanced
+High,Non-Veg,8.9,24,Balanced
+Medium,Vegan,7.0,49,Balanced
+High,Non-Veg,8.1,29,Balanced
+Medium,Non-Veg,6.4,52,Mediterranean
+Low,Non-Veg,7.1,69,Low Carb
+Low,Veg,4.6,49,Balanced
+High,Non-Veg,5.7,26,Balanced
+Low,Vegan,6.7,31,Balanced
+High,Vegan,7.2,30,High Protein
+Low,Non-Veg,10.0,61,Low Carb
+Medium,Non-Veg,6.4,50,Mediterranean
+Medium,Non-Veg,4.9,49,Mediterranean
+Medium,Vegan,9.6,36,Balanced
+Medium,Vegan,8.6,47,Balanced
+High,Veg,5.3,33,Balanced
+Low,Veg,7.7,29,Balanced
+High,Veg,8.3,27,Balanced
+Medium,Vegan,7.2,19,Balanced
+High,Veg,7.5,35,Balanced
+Low,Non-Veg,6.1,30,Low Carb
+High,Non-Veg,7.8,46,Balanced
+Low,Vegan,6.3,41,Balanced
+High,Veg,4.0,55,Balanced
+Low,Non-Veg,7.3,29,Low Carb
+Low,Vegan,4.5,46,Balanced
+Medium,Veg,8.5,39,Balanced
+Low,Non-Veg,5.3,53,Low Carb
+Medium,Veg,4.0,18,Balanced
+Medium,Vegan,4.3,60,Balanced
+Medium,Veg,6.9,57,Balanced
+High,Vegan,7.3,51,High Protein
+High,Veg,4.9,51,Balanced
+High,Non-Veg,5.4,65,Balanced
+High,Vegan,7.0,50,High Protein
+Low,Vegan,8.5,21,Balanced
+Low,Vegan,5.2,55,Balanced
+High,Veg,7.6,47,Balanced
+Low,Veg,4.4,69,Balanced
+Low,Non-Veg,7.5,63,Low Carb
+Medium,Vegan,8.1,37,Balanced
+Medium,Vegan,7.8,43,Balanced
+Medium,Veg,8.5,32,Balanced
+Medium,Veg,8.4,24,Balanced
+Low,Non-Veg,9.8,24,Low Carb
+High,Non-Veg,7.2,67,Balanced
+Low,Veg,9.8,46,Balanced
+Low,Vegan,5.6,40,Balanced
+Low,Non-Veg,6.7,51,Low Carb
+Medium,Veg,6.8,37,Balanced
+Medium,Veg,5.4,32,Balanced
+Medium,Vegan,4.0,50,Balanced
+High,Veg,8.3,34,Balanced
+Low,Veg,5.6,37,Balanced
+High,Non-Veg,6.4,30,Balanced
+Medium,Veg,9.4,61,Balanced
+High,Veg,7.9,41,Balanced
+Low,Non-Veg,9.6,64,Low Carb
+Low,Vegan,7.2,54,Balanced
+Medium,Vegan,7.8,24,Balanced
+Medium,Non-Veg,6.6,25,Mediterranean
+High,Non-Veg,5.7,40,Balanced
+Medium,Vegan,7.8,31,Balanced
+Medium,Vegan,6.3,21,Balanced
+Low,Vegan,8.0,38,Balanced
+Medium,Vegan,6.1,63,Balanced
+Medium,Vegan,6.7,27,Balanced
+Low,Non-Veg,6.9,39,Low Carb
+Low,Veg,8.6,47,Balanced
+High,Vegan,6.4,47,High Protein
+Medium,Vegan,8.8,33,Balanced
+Low,Veg,5.6,28,Balanced
+High,Veg,7.4,39,Balanced
+High,Veg,6.0,46,Balanced
+Medium,Veg,8.7,42,Balanced
+Medium,Veg,5.8,31,Balanced
+High,Veg,5.9,31,Balanced
+Low,Non-Veg,5.1,19,Low Carb
+High,Veg,7.2,30,Balanced
+Medium,Veg,7.9,20,Balanced
+Low,Non-Veg,7.7,47,Low Carb
+Low,Veg,6.8,35,Balanced
+High,Vegan,6.0,53,High Protein
+Medium,Vegan,6.6,38,Balanced
+High,Veg,6.6,36,Balanced
+High,Non-Veg,7.4,33,Balanced
+High,Vegan,7.3,45,High Protein
+Low,Non-Veg,9.6,21,Low Carb
+Low,Vegan,7.1,68,Balanced
+Medium,Veg,7.5,32,Balanced
+Medium,Non-Veg,7.1,18,Mediterranean
+High,Non-Veg,6.5,65,Balanced
+High,Non-Veg,7.5,64,Balanced
+High,Vegan,6.4,33,High Protein
+Medium,Vegan,6.9,37,Balanced
+Low,Vegan,8.7,50,Balanced
+Low,Veg,6.3,34,Balanced
+High,Vegan,7.6,22,High Protein
+High,Veg,4.0,22,Balanced
+High,Non-Veg,6.7,56,Balanced
+High,Non-Veg,6.3,30,Balanced
+Medium,Veg,7.2,61,Balanced
+Low,Vegan,6.6,53,Balanced
+High,Veg,7.2,47,Balanced
+Medium,Non-Veg,6.4,21,Mediterranean
+High,Non-Veg,7.6,40,Balanced
+High,Veg,4.4,38,Balanced
+Low,Vegan,7.2,38,Balanced
+High,Vegan,5.6,23,High Protein
+Low,Veg,8.8,41,Balanced
+Low,Veg,5.6,64,Balanced
+Low,Vegan,8.5,48,Balanced
+Medium,Non-Veg,7.0,36,Mediterranean
+Medium,Veg,4.3,55,Balanced
+Low,Vegan,5.7,29,Balanced
+High,Vegan,8.3,31,High Protein
+Low,Non-Veg,8.2,67,Low Carb
+High,Non-Veg,5.1,29,Balanced
+Low,Non-Veg,9.3,32,Low Carb
+High,Non-Veg,7.0,36,Balanced
+Medium,Non-Veg,8.3,45,Mediterranean
+High,Veg,5.2,57,Balanced
+Low,Vegan,6.3,58,Balanced
+Medium,Veg,7.6,22,Balanced
+High,Veg,6.5,22,Balanced
+High,Veg,4.0,23,Balanced
+High,Veg,6.7,40,Balanced
+High,Veg,4.1,20,Balanced
+High,Non-Veg,5.4,54,Balanced
+Medium,Non-Veg,4.9,50,Mediterranean
+Medium,Vegan,8.7,60,Balanced
+Medium,Veg,9.2,38,Balanced
+Medium,Vegan,7.5,37,Balanced
+Low,Non-Veg,6.7,18,Low Carb
+Medium,Non-Veg,7.0,56,Mediterranean
+High,Non-Veg,8.7,64,Balanced
+High,Veg,4.0,34,Balanced
+Medium,Veg,5.4,46,Balanced
+High,Non-Veg,8.5,25,Balanced
+Medium,Vegan,8.8,43,Balanced
+High,Vegan,7.9,45,High Protein
+Low,Non-Veg,5.4,51,Low Carb
+Low,Vegan,8.5,43,Balanced
+Medium,Non-Veg,9.0,30,Mediterranean
+Medium,Vegan,8.1,61,Balanced
+Medium,Non-Veg,4.0,54,Mediterranean
+High,Vegan,7.2,30,High Protein
+Medium,Veg,7.9,55,Balanced
+Low,Non-Veg,6.2,42,Low Carb
+High,Non-Veg,7.3,64,Balanced
+Medium,Vegan,6.2,40,Balanced
+High,Non-Veg,5.7,39,Balanced
+High,Non-Veg,9.3,38,Balanced
+Medium,Non-Veg,7.3,47,Mediterranean
+High,Veg,5.3,28,Balanced
+Low,Veg,4.9,21,Balanced
+Low,Vegan,5.7,50,Balanced
+High,Veg,5.7,64,Balanced
+Medium,Vegan,7.2,29,Balanced
+High,Veg,7.7,26,Balanced
+Low,Vegan,7.7,49,Balanced
+High,Veg,5.9,28,Balanced
+High,Veg,8.4,54,Balanced
+Low,Vegan,8.8,41,Balanced
+High,Non-Veg,6.6,24,Balanced
+High,Non-Veg,5.5,25,Balanced
+Medium,Veg,7.2,50,Balanced
+Medium,Vegan,10.0,42,Balanced
+Low,Non-Veg,5.4,18,Low Carb
+Low,Vegan,6.2,20,Balanced
+Low,Non-Veg,7.1,57,Low Carb
+Medium,Vegan,7.8,45,Balanced
+Low,Veg,4.0,60,Balanced
+Low,Vegan,9.0,50,Balanced
+Low,Non-Veg,8.9,63,Low Carb
+Medium,Veg,6.4,18,Balanced
+High,Vegan,10.0,55,High Protein
+Low,Non-Veg,8.8,44,Low Carb
+High,Veg,8.8,55,Balanced
+Low,Vegan,8.8,52,Balanced
+High,Non-Veg,8.7,27,Balanced
+Medium,Vegan,7.0,29,Balanced
+Medium,Vegan,6.8,27,Balanced
+Low,Veg,5.6,51,Balanced
+High,Veg,6.1,41,Balanced
+Medium,Non-Veg,6.5,45,Mediterranean
+Low,Veg,7.1,39,Balanced
+Low,Non-Veg,9.4,62,Low Carb
+Medium,Vegan,4.0,33,Balanced
+Medium,Vegan,9.0,30,Balanced
+Low,Non-Veg,5.5,53,Low Carb
+High,Vegan,6.8,53,High Protein
+High,Veg,5.9,60,Balanced
+High,Vegan,9.8,40,High Protein
+Low,Veg,6.3,31,Balanced
+Medium,Non-Veg,7.8,49,Mediterranean
+Low,Non-Veg,7.9,20,Low Carb
+Medium,Vegan,5.3,44,Balanced
+High,Vegan,6.9,36,High Protein
+High,Veg,8.8,39,Balanced
+Medium,Veg,5.7,18,Balanced
+Medium,Vegan,8.2,22,Balanced
+Low,Vegan,6.5,66,Balanced
+High,Non-Veg,8.7,50,Balanced
+Low,Non-Veg,9.6,68,Low Carb
+Low,Non-Veg,4.0,36,Low Carb
+Low,Vegan,5.0,53,Balanced
+High,Vegan,6.3,68,High Protein
+Low,Vegan,9.2,23,Balanced
+Low,Non-Veg,7.8,32,Low Carb
+Low,Vegan,5.1,53,Balanced
+Low,Veg,8.0,50,Balanced
+Low,Vegan,5.6,41,Balanced
+Low,Vegan,8.3,44,Balanced
+High,Vegan,7.8,66,High Protein
+Low,Vegan,5.6,28,Balanced
+Medium,Vegan,6.9,66,Balanced
+Low,Veg,8.8,40,Balanced
+Low,Veg,4.2,50,Balanced
+High,Vegan,7.5,58,High Protein
+High,Non-Veg,5.3,63,Balanced
+Medium,Vegan,7.0,64,Balanced
+Medium,Vegan,7.7,46,Balanced
+High,Vegan,10.0,48,High Protein
+High,Non-Veg,7.0,18,Balanced
+Low,Non-Veg,9.2,51,Low Carb
+High,Non-Veg,5.7,35,Balanced
+Medium,Veg,6.3,35,Balanced
+Low,Non-Veg,7.9,23,Low Carb
+Medium,Veg,7.3,69,Balanced
+Low,Veg,6.5,57,Balanced
+High,Non-Veg,6.5,18,Balanced
+Medium,Non-Veg,9.0,64,Mediterranean
+Low,Non-Veg,6.6,59,Low Carb
+Low,Veg,5.5,47,Balanced
+High,Vegan,5.7,21,High Protein
+High,Non-Veg,8.0,49,Balanced
+High,Non-Veg,10.0,27,Balanced
+Medium,Non-Veg,6.2,60,Mediterranean
+Low,Veg,10.0,22,Balanced
+High,Veg,7.0,26,Balanced
+Medium,Vegan,6.6,22,Balanced
+Medium,Non-Veg,5.6,28,Mediterranean
+Medium,Veg,6.7,52,Balanced
+High,Vegan,5.9,44,High Protein
+High,Non-Veg,5.7,21,Balanced
+Low,Veg,4.5,27,Balanced
+Low,Non-Veg,9.6,56,Low Carb
+High,Non-Veg,8.6,50,Balanced
+Medium,Veg,7.4,55,Balanced
+Medium,Veg,6.8,25,Balanced
+Medium,Veg,7.0,66,Balanced
+Low,Non-Veg,5.8,41,Low Carb
+Medium,Non-Veg,5.3,56,Mediterranean
+Low,Vegan,8.1,50,Balanced
+Low,Non-Veg,6.6,58,Low Carb
+Medium,Veg,7.5,60,Balanced
+Medium,Non-Veg,4.5,36,Mediterranean
+High,Vegan,6.5,19,High Protein
+High,Vegan,5.3,28,High Protein
+Medium,Veg,7.7,52,Balanced
+Low,Veg,8.5,34,Balanced
+Low,Vegan,9.2,59,Balanced
+Low,Vegan,6.1,20,Balanced
+Low,Vegan,5.3,39,Balanced
+Low,Veg,6.4,52,Balanced
+High,Vegan,6.0,38,High Protein
+Medium,Vegan,7.6,42,Balanced
+High,Veg,4.9,56,Balanced
+Low,Non-Veg,4.4,19,Low Carb
+Low,Non-Veg,6.5,18,Low Carb
+Low,Vegan,8.1,24,Balanced
+Low,Non-Veg,5.5,37,Low Carb
+Medium,Non-Veg,8.3,60,Mediterranean
+Low,Non-Veg,7.5,23,Low Carb
+Medium,Non-Veg,9.3,53,Mediterranean
+Low,Vegan,5.8,68,Balanced
+Medium,Non-Veg,4.6,38,Mediterranean
+High,Non-Veg,7.9,68,Balanced
+Low,Veg,7.4,63,Balanced
+Medium,Vegan,7.3,52,Balanced
+High,Veg,5.4,53,Balanced
+Low,Veg,8.2,25,Balanced
+Low,Vegan,6.0,67,Balanced
+Low,Non-Veg,7.3,21,Low Carb
+Medium,Veg,6.3,60,Balanced
+Medium,Vegan,7.5,33,Balanced
+High,Non-Veg,5.2,20,Balanced
+Medium,Vegan,7.7,24,Balanced
+Medium,Veg,8.0,19,Balanced
+Low,Non-Veg,7.2,18,Low Carb
+Low,Non-Veg,9.5,18,Low Carb
+Low,Vegan,7.3,55,Balanced
+Low,Non-Veg,8.4,68,Low Carb
+Low,Veg,7.1,24,Balanced
+Low,Veg,8.2,41,Balanced
+Low,Veg,4.7,22,Balanced
+High,Vegan,7.0,38,High Protein
+High,Non-Veg,5.3,45,Balanced
+High,Non-Veg,7.2,35,Balanced
+High,Non-Veg,7.6,41,Balanced
+Low,Veg,8.2,49,Balanced
+High,Non-Veg,7.7,62,Balanced
+Low,Veg,6.5,50,Balanced
+High,Non-Veg,5.9,27,Balanced
+Medium,Veg,4.0,26,Balanced
+High,Non-Veg,7.1,66,Balanced
+High,Vegan,8.7,50,High Protein
+Low,Vegan,7.2,50,Balanced
+High,Veg,6.9,24,Balanced
+Medium,Veg,7.2,21,Balanced
+Low,Non-Veg,6.4,45,Low Carb
+Low,Non-Veg,7.3,40,Low Carb
+High,Vegan,6.4,49,High Protein
+Low,Non-Veg,5.7,61,Low Carb
+Low,Veg,6.9,33,Balanced
+Low,Veg,6.9,63,Balanced
+Low,Veg,9.8,27,Balanced
+Low,Veg,5.8,31,Balanced
+Low,Veg,6.8,56,Balanced
+Medium,Vegan,6.6,53,Balanced
+High,Vegan,6.3,51,High Protein
+Medium,Veg,7.8,41,Balanced
+Low,Non-Veg,10.0,35,Low Carb
+Low,Veg,6.5,33,Balanced
+High,Vegan,7.8,58,High Protein
+Medium,Veg,4.1,54,Balanced
+High,Vegan,6.4,58,High Protein
+Medium,Vegan,9.3,42,Balanced
+Low,Veg,6.9,25,Balanced
+High,Veg,7.8,41,Balanced
+High,Non-Veg,6.1,37,Balanced
+Low,Vegan,7.4,65,Balanced
+High,Non-Veg,9.4,47,Balanced
+Medium,Veg,5.3,37,Balanced
+Medium,Vegan,10.0,35,Balanced
+Medium,Non-Veg,4.7,21,Mediterranean
+Medium,Non-Veg,6.3,65,Mediterranean
+Low,Non-Veg,5.7,53,Low Carb
+High,Veg,6.6,23,Balanced
+Medium,Veg,5.7,20,Balanced
+Low,Veg,5.6,35,Balanced
+High,Vegan,5.2,64,High Protein
+High,Veg,8.0,57,Balanced
+Low,Vegan,6.6,35,Balanced
+Low,Non-Veg,6.3,40,Low Carb
+Medium,Non-Veg,7.4,52,Mediterranean
+High,Veg,4.8,23,Balanced
+High,Non-Veg,7.5,43,Balanced
+Low,Veg,6.9,38,Balanced
+High,Vegan,6.9,41,High Protein
+Medium,Non-Veg,7.8,32,Mediterranean
+High,Veg,9.5,44,Balanced
+Low,Non-Veg,7.5,49,Low Carb
+Low,Non-Veg,6.7,29,Low Carb
+Medium,Veg,5.2,22,Balanced
+Medium,Non-Veg,4.0,24,Mediterranean
+High,Non-Veg,7.2,39,Balanced
+High,Non-Veg,5.1,44,Balanced
+Low,Non-Veg,4.0,32,Low Carb
+Medium,Vegan,6.5,56,Balanced
+Medium,Non-Veg,7.4,62,Mediterranean
+Medium,Non-Veg,8.1,52,Mediterranean
+High,Veg,8.6,43,Balanced
+Medium,Vegan,8.3,40,Balanced
+Low,Veg,8.4,30,Balanced
+Low,Veg,4.8,43,Balanced
+High,Veg,6.8,20,Balanced
+High,Vegan,7.9,46,High Protein
+Medium,Veg,7.1,19,Balanced
+High,Veg,6.8,45,Balanced
+Low,Veg,7.0,40,Balanced
+Medium,Non-Veg,7.4,53,Mediterranean
+Low,Veg,6.9,66,Balanced
+Medium,Vegan,5.7,23,Balanced
+High,Vegan,4.4,28,High Protein
+Medium,Non-Veg,6.7,55,Mediterranean
+Medium,Vegan,7.1,51,Balanced
+Low,Vegan,7.1,34,Balanced
+Low,Non-Veg,8.4,20,Low Carb
+Medium,Veg,8.7,61,Balanced
+High,Non-Veg,6.8,63,Balanced
+High,Veg,6.9,51,Balanced
+Low,Veg,7.9,39,Balanced
+High,Vegan,7.6,46,High Protein
+Low,Non-Veg,6.3,46,Low Carb
+High,Vegan,8.0,22,High Protein
+Medium,Vegan,6.8,27,Balanced
+Low,Veg,6.8,27,Balanced
+Low,Vegan,7.7,26,Balanced
+Medium,Non-Veg,6.5,38,Mediterranean
+Low,Vegan,7.1,30,Balanced
+High,Vegan,7.4,27,High Protein
+High,Veg,8.2,55,Balanced
+Low,Non-Veg,8.1,28,Low Carb
+High,Vegan,7.4,21,High Protein
+Low,Veg,4.0,63,Balanced
+Medium,Vegan,7.4,48,Balanced
+Low,Non-Veg,7.6,66,Low Carb
+Medium,Vegan,7.9,69,Balanced
+High,Vegan,5.6,51,High Protein
+Medium,Veg,4.0,59,Balanced
+High,Vegan,8.2,52,High Protein
+Low,Veg,5.2,56,Balanced
+High,Non-Veg,8.8,56,Balanced
+Low,Vegan,6.1,50,Balanced
+Low,Non-Veg,5.5,25,Low Carb
+Medium,Non-Veg,7.5,49,Mediterranean
+Medium,Vegan,7.9,50,Balanced
+Medium,Veg,7.8,25,Balanced
+Medium,Non-Veg,7.8,63,Mediterranean
+High,Non-Veg,5.9,31,Balanced
+High,Vegan,4.7,51,High Protein
+High,Vegan,6.4,25,High Protein
+Low,Vegan,5.3,68,Balanced
+High,Vegan,7.6,59,High Protein
+High,Vegan,8.3,24,High Protein
+High,Vegan,7.3,30,High Protein
+Medium,Veg,7.0,38,Balanced
+High,Non-Veg,6.5,64,Balanced
+Low,Veg,8.5,49,Balanced
+Medium,Veg,4.3,28,Balanced
+Low,Vegan,5.2,31,Balanced
+High,Non-Veg,9.7,28,Balanced
+Medium,Veg,5.1,19,Balanced
+Low,Vegan,7.8,51,Balanced
+High,Vegan,8.1,61,High Protein
+Low,Non-Veg,4.1,64,Low Carb
+Low,Veg,4.4,34,Balanced
+Low,Veg,8.9,31,Balanced
+High,Veg,5.5,42,Balanced
+High,Vegan,5.6,65,High Protein
+Low,Non-Veg,6.2,44,Low Carb
+Medium,Non-Veg,5.5,25,Mediterranean
+Medium,Veg,7.8,34,Balanced
+High,Vegan,5.2,22,High Protein
+High,Veg,4.1,29,Balanced
+High,Non-Veg,8.7,55,Balanced
+High,Vegan,5.3,35,High Protein
+High,Veg,5.9,43,Balanced
+Medium,Veg,8.2,48,Balanced
+High,Vegan,7.1,54,High Protein
+Low,Non-Veg,8.7,23,Low Carb
+Low,Vegan,8.3,58,Balanced
+Medium,Veg,6.3,32,Balanced
+Low,Veg,8.5,59,Balanced
+Medium,Veg,7.3,66,Balanced
+Medium,Veg,6.1,43,Balanced
+Low,Non-Veg,7.4,68,Low Carb
+High,Non-Veg,5.0,29,Balanced
+Low,Veg,8.3,58,Balanced
+Low,Non-Veg,8.1,64,Low Carb
+Medium,Non-Veg,7.2,31,Mediterranean
+Low,Non-Veg,4.1,18,Low Carb
+Medium,Veg,8.7,34,Balanced
+High,Vegan,7.7,50,High Protein
+High,Vegan,7.0,46,High Protein
+High,Vegan,6.7,62,High Protein
+Low,Veg,6.2,48,Balanced
+Medium,Non-Veg,6.5,25,Mediterranean
+High,Non-Veg,8.2,47,Balanced
+Medium,Veg,6.2,30,Balanced
+Medium,Veg,6.6,33,Balanced
+High,Vegan,6.8,19,High Protein
+High,Vegan,6.8,62,High Protein
+Medium,Veg,6.1,35,Balanced
+High,Vegan,6.7,52,High Protein
+Medium,Non-Veg,7.5,62,Mediterranean
+Medium,Veg,5.6,36,Balanced
+High,Veg,6.8,30,Balanced
+Low,Non-Veg,9.9,68,Low Carb
+High,Non-Veg,6.9,21,Balanced
+Low,Non-Veg,5.6,36,Low Carb
+Medium,Vegan,5.4,67,Balanced
+Medium,Veg,5.1,42,Balanced
+Low,Vegan,9.4,55,Balanced
+Medium,Non-Veg,8.5,68,Mediterranean
+Low,Vegan,5.1,48,Balanced
+Low,Non-Veg,7.3,53,Low Carb
+Medium,Vegan,8.8,21,Balanced
+Low,Vegan,6.9,56,Balanced
+High,Non-Veg,6.3,24,Balanced
+High,Vegan,10.0,33,High Protein
+Medium,Veg,4.1,65,Balanced
+Medium,Vegan,10.0,22,Balanced
+Low,Vegan,7.1,64,Balanced
+Low,Veg,8.9,40,Balanced
+Low,Non-Veg,5.2,53,Low Carb
+Low,Veg,5.9,49,Balanced
+High,Vegan,5.4,41,High Protein
+High,Non-Veg,6.8,42,Balanced
+Medium,Vegan,7.5,62,Balanced
+Low,Vegan,8.6,45,Balanced
+Low,Veg,4.4,36,Balanced
+Medium,Veg,7.2,24,Balanced
+Low,Non-Veg,8.3,61,Low Carb
+Low,Non-Veg,8.6,58,Low Carb
+Low,Non-Veg,6.3,34,Low Carb
+Low,Vegan,6.4,19,Balanced
+Low,Veg,6.9,33,Balanced
+Medium,Veg,7.3,56,Balanced
+Low,Veg,9.0,35,Balanced
+Medium,Non-Veg,5.2,56,Mediterranean
+Low,Veg,5.8,18,Balanced
+High,Veg,5.0,20,Balanced
+High,Veg,7.6,38,Balanced
+High,Non-Veg,8.7,47,Balanced
+High,Veg,4.9,28,Balanced
+Medium,Non-Veg,7.1,39,Mediterranean
+Medium,Veg,8.5,64,Balanced
+Low,Veg,8.2,42,Balanced
+High,Veg,8.2,20,Balanced
+Medium,Non-Veg,5.2,47,Mediterranean
+Low,Non-Veg,8.2,41,Low Carb
+Low,Veg,6.7,62,Balanced
+Medium,Vegan,8.6,53,Balanced
+High,Non-Veg,7.7,40,Balanced
+Low,Non-Veg,5.8,25,Low Carb
+High,Veg,7.4,21,Balanced
+High,Vegan,8.2,67,High Protein
+High,Veg,6.2,56,Balanced
+Low,Non-Veg,7.2,60,Low Carb
+High,Non-Veg,5.0,48,Balanced
+Low,Veg,7.8,46,Balanced
+High,Veg,6.9,53,Balanced
+Low,Vegan,8.4,30,Balanced
+High,Vegan,7.8,58,High Protein
+Medium,Non-Veg,6.4,26,Mediterranean
+High,Vegan,5.7,38,High Protein
+High,Vegan,5.4,68,High Protein
+Low,Non-Veg,6.2,20,Low Carb
+Low,Non-Veg,8.3,42,Low Carb
+High,Non-Veg,4.4,42,Balanced
+Medium,Non-Veg,5.4,29,Mediterranean
+Medium,Veg,8.3,46,Balanced
+Low,Non-Veg,9.0,28,Low Carb
+Medium,Non-Veg,5.5,69,Mediterranean
+High,Non-Veg,5.4,28,Balanced
+Low,Vegan,9.1,66,Balanced
+High,Non-Veg,6.8,43,Balanced
+Low,Veg,5.7,31,Balanced
+Low,Veg,8.6,33,Balanced
+Low,Non-Veg,7.8,27,Low Carb
+Low,Veg,8.1,48,Balanced
+Medium,Vegan,5.7,48,Balanced
+High,Non-Veg,7.6,53,Balanced
+High,Veg,8.9,27,Balanced
+High,Veg,8.0,43,Balanced
+Low,Non-Veg,8.4,37,Low Carb
+Medium,Veg,9.1,61,Balanced
+High,Non-Veg,7.6,26,Balanced
+Medium,Veg,6.2,32,Balanced
+Low,Vegan,8.3,26,Balanced
+High,Veg,5.3,24,Balanced
+Medium,Veg,6.7,43,Balanced
+Low,Non-Veg,7.9,41,Low Carb
+Medium,Veg,4.0,29,Balanced
+High,Non-Veg,7.4,37,Balanced
+High,Vegan,7.4,31,High Protein
+Low,Non-Veg,5.3,39,Low Carb
+Low,Non-Veg,7.5,33,Low Carb
+Low,Veg,7.3,46,Balanced
+Medium,Vegan,7.1,49,Balanced
+Medium,Non-Veg,8.8,36,Mediterranean
+Medium,Veg,8.3,52,Balanced
+Low,Veg,8.0,60,Balanced
+High,Non-Veg,5.5,49,Balanced
+High,Veg,7.0,37,Balanced
+Medium,Non-Veg,8.8,68,Mediterranean
+Medium,Non-Veg,6.7,57,Mediterranean
+High,Non-Veg,9.3,37,Balanced
+High,Vegan,8.0,25,High Protein
+Medium,Non-Veg,9.6,52,Mediterranean
+Medium,Veg,5.4,59,Balanced
+High,Vegan,6.8,30,High Protein
+Low,Veg,6.9,58,Balanced
+Medium,Vegan,7.9,23,Balanced
+High,Vegan,5.9,64,High Protein
+High,Vegan,4.6,33,High Protein
+High,Vegan,7.6,22,High Protein
+High,Veg,6.5,62,Balanced
+Low,Non-Veg,6.3,68,Low Carb
+High,Veg,6.0,51,Balanced
+Medium,Non-Veg,7.2,23,Mediterranean
+Low,Veg,5.4,50,Balanced
+High,Vegan,6.7,32,High Protein
+Low,Vegan,5.8,32,Balanced
+Medium,Non-Veg,6.1,31,Mediterranean
+High,Non-Veg,7.5,56,Balanced
+Medium,Veg,8.0,22,Balanced
+High,Non-Veg,6.5,69,Balanced
+High,Veg,8.5,43,Balanced
+High,Non-Veg,5.5,65,Balanced
+High,Non-Veg,4.7,34,Balanced
+High,Non-Veg,5.0,60,Balanced
+Low,Vegan,5.4,64,Balanced
+High,Vegan,5.0,69,High Protein
+High,Veg,10.0,33,Balanced
+Low,Non-Veg,4.7,52,Low Carb
+Low,Veg,8.4,55,Balanced
+Low,Non-Veg,7.0,40,Low Carb
+Low,Vegan,7.3,30,Balanced
+Low,Vegan,5.6,50,Balanced
+Low,Non-Veg,7.5,46,Low Carb
+High,Non-Veg,5.6,63,Balanced
+High,Vegan,8.4,51,High Protein
+Medium,Vegan,8.5,51,Balanced
+High,Veg,6.8,44,Balanced
+High,Vegan,6.9,32,High Protein
+Low,Non-Veg,7.6,67,Low Carb
+Low,Veg,7.6,26,Balanced
+High,Non-Veg,8.5,43,Balanced
+Medium,Veg,8.5,20,Balanced
+Low,Non-Veg,7.0,53,Low Carb
+High,Vegan,6.3,64,High Protein
+High,Non-Veg,8.2,22,Balanced
+Medium,Veg,6.8,37,Balanced
+Medium,Non-Veg,7.2,37,Mediterranean
+Low,Veg,7.8,22,Balanced
+Medium,Non-Veg,8.5,27,Mediterranean
+High,Vegan,7.4,33,High Protein
+High,Vegan,6.1,42,High Protein
+Medium,Non-Veg,9.7,61,Mediterranean
+Medium,Non-Veg,9.3,42,Mediterranean
+Medium,Non-Veg,5.5,47,Mediterranean
+Medium,Veg,5.6,31,Balanced
+Low,Non-Veg,5.8,39,Low Carb
+Medium,Non-Veg,8.3,60,Mediterranean
+Low,Veg,9.8,45,Balanced
+High,Vegan,6.2,47,High Protein
+Medium,Non-Veg,7.3,36,Mediterranean
+Low,Non-Veg,5.9,55,Low Carb
+Medium,Vegan,9.6,59,Balanced
+High,Vegan,8.2,37,High Protein
+High,Veg,5.8,52,Balanced
+High,Non-Veg,4.0,39,Balanced
+Medium,Non-Veg,8.6,32,Mediterranean
+Medium,Veg,6.1,28,Balanced
+Low,Vegan,8.3,51,Balanced
+High,Veg,7.4,41,Balanced
+Medium,Vegan,4.2,23,Balanced
+High,Veg,5.8,34,Balanced
+High,Vegan,6.5,45,High Protein
+Low,Veg,6.0,67,Balanced
+Low,Vegan,7.2,48,Balanced
+Low,Vegan,7.6,53,Balanced
+Low,Vegan,9.7,26,Balanced
+High,Vegan,7.7,27,High Protein
+Low,Vegan,9.2,38,Balanced
+Low,Non-Veg,6.3,51,Low Carb
+Low,Vegan,8.7,48,Balanced
+Low,Non-Veg,6.4,46,Low Carb
+High,Vegan,5.6,60,High Protein
+Low,Non-Veg,5.6,60,Low Carb
+High,Non-Veg,4.0,28,Balanced
+Medium,Veg,8.3,50,Balanced
+High,Vegan,5.1,63,High Protein
+High,Veg,9.1,18,Balanced
+Low,Veg,6.7,38,Balanced
+Medium,Vegan,4.7,40,Balanced
+Medium,Veg,5.3,26,Balanced
+Medium,Vegan,7.3,18,Balanced
+Medium,Veg,4.2,38,Balanced
+High,Vegan,7.9,39,High Protein
+Medium,Vegan,4.7,21,Balanced
+High,Vegan,5.9,18,High Protein
+High,Non-Veg,7.3,68,Balanced
+High,Veg,7.7,27,Balanced
+Medium,Non-Veg,8.2,32,Mediterranean
+Low,Veg,5.0,69,Balanced
+Low,Veg,6.5,53,Balanced
+Medium,Veg,8.6,46,Balanced
+Low,Non-Veg,6.5,69,Low Carb
+Low,Veg,7.4,63,Balanced
+High,Non-Veg,7.2,22,Balanced
+High,Vegan,9.0,46,High Protein
+Medium,Veg,6.3,64,Balanced
+Medium,Veg,4.9,64,Balanced
+Low,Vegan,5.5,44,Balanced
+High,Vegan,7.3,42,High Protein
+Medium,Veg,4.6,33,Balanced
+Medium,Vegan,6.2,33,Balanced
+Medium,Non-Veg,7.1,53,Mediterranean
+Medium,Non-Veg,5.9,42,Mediterranean
+Medium,Veg,7.5,58,Balanced
+Medium,Non-Veg,8.1,18,Mediterranean
+Low,Non-Veg,7.7,22,Low Carb
+High,Veg,4.7,58,Balanced
+High,Vegan,7.1,37,High Protein
+Medium,Veg,7.2,22,Balanced
+High,Non-Veg,6.4,53,Balanced
+High,Veg,7.5,46,Balanced
+High,Veg,7.4,65,Balanced
+Medium,Non-Veg,6.9,51,Mediterranean
+Medium,Non-Veg,5.5,65,Mediterranean
+High,Veg,7.0,35,Balanced
+High,Non-Veg,9.8,19,Balanced
+Medium,Non-Veg,6.4,33,Mediterranean
+Low,Non-Veg,8.6,46,Low Carb
+High,Non-Veg,7.1,50,Balanced
+Low,Non-Veg,5.8,33,Low Carb
+High,Non-Veg,6.6,52,Balanced
+Low,Vegan,7.0,64,Balanced
+Low,Veg,8.0,60,Balanced
+Low,Non-Veg,10.0,59,Low Carb
+Medium,Veg,7.1,34,Balanced
+Low,Vegan,5.2,21,Balanced
+Low,Non-Veg,4.5,66,Low Carb
+Low,Veg,6.4,21,Balanced
+High,Non-Veg,5.3,68,Balanced
+Low,Non-Veg,7.8,42,Low Carb
+High,Non-Veg,7.8,50,Balanced
+Low,Non-Veg,6.8,31,Low Carb
+Low,Non-Veg,8.0,41,Low Carb
+Medium,Non-Veg,7.1,28,Mediterranean
+High,Non-Veg,9.8,42,Balanced
+Low,Vegan,7.9,45,Balanced
+High,Vegan,8.3,24,High Protein
+High,Non-Veg,4.8,66,Balanced
+Medium,Non-Veg,5.2,53,Mediterranean
+Medium,Vegan,7.7,27,Balanced
+Medium,Vegan,4.7,66,Balanced
+Medium,Vegan,6.1,53,Balanced
+Medium,Non-Veg,8.8,48,Mediterranean
+Medium,Veg,6.0,36,Balanced
+Medium,Veg,5.2,35,Balanced
+Medium,Veg,8.0,66,Balanced
+Low,Veg,10.0,23,Balanced
+High,Non-Veg,5.8,45,Balanced
+Medium,Veg,8.8,24,Balanced
+Medium,Vegan,5.6,55,Balanced
+High,Vegan,6.8,29,High Protein
+Low,Veg,6.9,58,Balanced
+High,Vegan,5.8,67,High Protein
+High,Non-Veg,8.3,51,Balanced
+Medium,Veg,4.7,42,Balanced
+High,Veg,7.3,34,Balanced
+High,Non-Veg,8.6,50,Balanced
+Medium,Vegan,8.2,40,Balanced
+Medium,Non-Veg,7.7,26,Mediterranean
+Medium,Non-Veg,9.4,23,Mediterranean
+Medium,Vegan,6.7,19,Balanced
+High,Non-Veg,4.7,55,Balanced
+High,Vegan,7.2,26,High Protein
+Low,Vegan,6.8,20,Balanced
+Low,Non-Veg,4.0,33,Low Carb
+High,Vegan,5.3,42,High Protein
+Low,Non-Veg,5.1,41,Low Carb
+High,Vegan,5.8,64,High Protein
+Low,Veg,6.5,46,Balanced
+Medium,Vegan,6.5,61,Balanced
+Low,Vegan,5.8,57,Balanced
+Medium,Non-Veg,5.1,43,Mediterranean
+Medium,Vegan,7.6,55,Balanced
+Medium,Veg,7.2,52,Balanced
+Medium,Veg,7.2,40,Balanced
+Low,Vegan,9.7,21,Balanced
+High,Vegan,7.2,59,High Protein
+Medium,Veg,6.5,31,Balanced
+Low,Non-Veg,6.8,64,Low Carb
+Medium,Veg,7.1,56,Balanced
+Low,Veg,7.9,24,Balanced
+Low,Vegan,6.9,25,Balanced
+Low,Vegan,4.1,59,Balanced
+High,Veg,6.3,68,Balanced
+Low,Non-Veg,7.0,36,Low Carb
+Low,Veg,9.0,19,Balanced
+High,Veg,5.8,64,Balanced
+High,Non-Veg,4.5,18,Balanced
+Low,Veg,7.1,59,Balanced
+High,Veg,8.3,55,Balanced
+Medium,Vegan,6.4,30,Balanced
+Medium,Non-Veg,10.0,59,Mediterranean
+High,Vegan,10.0,61,High Protein
+High,Vegan,6.9,41,High Protein
+Low,Non-Veg,7.3,49,Low Carb
+High,Non-Veg,9.1,47,Balanced
+Low,Veg,6.9,23,Balanced
+Medium,Vegan,5.8,55,Balanced
+High,Non-Veg,8.3,50,Balanced
+Low,Vegan,7.7,61,Balanced
+Low,Vegan,5.8,40,Balanced
+Medium,Non-Veg,7.4,27,Mediterranean
+High,Veg,6.8,63,Balanced
+Medium,Vegan,6.4,32,Balanced
+Low,Non-Veg,5.8,40,Low Carb
+Low,Veg,7.2,53,Balanced
+High,Vegan,6.6,18,High Protein
+Low,Non-Veg,7.4,25,Low Carb
+High,Vegan,8.2,20,High Protein
+Medium,Non-Veg,7.3,31,Mediterranean
+High,Non-Veg,7.4,34,Balanced
+High,Vegan,6.2,51,High Protein
+Low,Vegan,8.8,64,Balanced
+Low,Non-Veg,5.7,23,Low Carb
+High,Veg,4.6,22,Balanced
+Low,Vegan,5.4,63,Balanced
+Low,Non-Veg,8.6,68,Low Carb
+Low,Non-Veg,7.7,58,Low Carb
+High,Veg,9.0,57,Balanced
+Low,Veg,5.0,46,Balanced
+High,Veg,10.0,52,Balanced
+Low,Vegan,6.6,35,Balanced
+Medium,Non-Veg,4.4,57,Mediterranean
+Low,Non-Veg,10.0,65,Low Carb
+Low,Non-Veg,5.0,47,Low Carb
+High,Veg,6.4,32,Balanced
+High,Non-Veg,6.7,32,Balanced
+Low,Vegan,7.7,33,Balanced
+Medium,Veg,5.8,50,Balanced
+Low,Veg,8.6,27,Balanced
+Low,Veg,8.1,36,Balanced
+Medium,Veg,7.0,54,Balanced
+High,Vegan,9.0,67,High Protein
+Low,Non-Veg,6.9,20,Low Carb
+High,Vegan,6.6,53,High Protein
+High,Non-Veg,10.0,21,Balanced
+Medium,Vegan,7.4,28,Balanced
+Medium,Veg,5.5,58,Balanced
+High,Veg,5.7,50,Balanced
+Low,Vegan,7.0,45,Balanced
+High,Vegan,4.0,49,High Protein
+Low,Non-Veg,6.1,33,Low Carb
+Low,Vegan,6.8,26,Balanced
+Medium,Vegan,6.7,28,Balanced
+Low,Non-Veg,5.1,23,Low Carb
+Low,Non-Veg,6.3,66,Low Carb
+High,Non-Veg,8.8,44,Balanced
+Medium,Vegan,8.5,29,Balanced
+Low,Non-Veg,7.1,39,Low Carb
+Low,Veg,6.9,57,Balanced
+Medium,Veg,6.8,65,Balanced
+High,Veg,7.4,54,Balanced
+Medium,Vegan,7.2,38,Balanced
+Medium,Veg,7.5,50,Balanced
+Low,Vegan,7.8,34,Balanced
+Low,Vegan,5.2,46,Balanced
+High,Veg,6.5,57,Balanced
+Low,Non-Veg,7.3,27,Low Carb
+Low,Vegan,5.6,35,Balanced
+Medium,Veg,6.0,64,Balanced
+Low,Vegan,6.7,69,Balanced
+High,Non-Veg,6.7,30,Balanced
+Medium,Non-Veg,7.3,44,Mediterranean
+High,Veg,5.7,27,Balanced
+Medium,Vegan,8.5,49,Balanced
+Low,Vegan,6.7,58,Balanced
+Medium,Vegan,7.2,62,Balanced
+Medium,Vegan,6.4,20,Balanced
+Low,Veg,7.4,39,Balanced
+Low,Non-Veg,9.5,44,Low Carb
+High,Veg,6.4,20,Balanced
+High,Vegan,6.2,50,High Protein
+Low,Vegan,5.8,19,Balanced
+Low,Non-Veg,6.9,28,Low Carb
+Low,Vegan,6.9,63,Balanced
+Medium,Veg,7.1,27,Balanced
+Medium,Veg,7.7,56,Balanced
+Medium,Non-Veg,7.5,50,Mediterranean
+Low,Veg,7.0,24,Balanced
+High,Veg,9.9,32,Balanced
+Low,Veg,8.0,43,Balanced
+Medium,Veg,5.4,28,Balanced
+Medium,Vegan,4.7,55,Balanced
+Low,Veg,6.0,44,Balanced
+Low,Non-Veg,7.2,56,Low Carb
+Medium,Non-Veg,5.8,24,Mediterranean
+Medium,Veg,6.1,18,Balanced
+Medium,Non-Veg,7.0,27,Mediterranean
+Low,Veg,6.5,38,Balanced
+Medium,Non-Veg,4.0,32,Mediterranean
+Medium,Non-Veg,8.6,47,Mediterranean
+High,Veg,8.3,47,Balanced
+Low,Veg,5.1,25,Balanced
+High,Vegan,7.1,41,High Protein
+High,Veg,5.3,36,Balanced
+Medium,Veg,6.1,20,Balanced
+Low,Vegan,7.7,32,Balanced
+Medium,Veg,8.2,53,Balanced
+Low,Veg,8.2,23,Balanced
+High,Vegan,7.4,59,High Protein
+Low,Veg,8.9,67,Balanced
+Medium,Veg,6.1,65,Balanced
+Medium,Vegan,6.4,35,Balanced
+Medium,Vegan,4.0,55,Balanced
+Low,Non-Veg,6.9,36,Low Carb
+High,Veg,7.9,66,Balanced
+High,Non-Veg,7.4,67,Balanced
+Low,Non-Veg,6.1,47,Low Carb
+Medium,Vegan,8.3,30,Balanced
+High,Veg,6.9,56,Balanced
+Medium,Veg,8.1,69,Balanced
+Low,Vegan,7.7,29,Balanced
+Medium,Non-Veg,9.1,51,Mediterranean
+High,Vegan,7.5,29,High Protein
+High,Veg,7.9,61,Balanced
+Medium,Vegan,6.9,41,Balanced
+Low,Veg,6.2,21,Balanced
+Medium,Non-Veg,7.7,53,Mediterranean
+Low,Veg,9.3,67,Balanced
+Medium,Non-Veg,6.1,65,Mediterranean
+High,Non-Veg,6.6,31,Balanced
+Low,Veg,7.0,34,Balanced
+Low,Veg,8.0,66,Balanced
+Low,Non-Veg,7.5,20,Low Carb
+High,Vegan,8.4,55,High Protein
+Medium,Veg,10.0,40,Balanced
+High,Non-Veg,6.0,30,Balanced
+Low,Non-Veg,7.9,26,Low Carb
+Medium,Vegan,7.5,38,Balanced
+High,Veg,7.0,58,Balanced
+Low,Non-Veg,7.9,25,Low Carb
+Low,Vegan,6.6,34,Balanced
+High,Non-Veg,7.5,33,Balanced
+High,Veg,5.0,33,Balanced
+High,Vegan,6.2,45,High Protein
+Low,Non-Veg,8.6,68,Low Carb
+High,Vegan,8.5,33,High Protein
+Low,Veg,7.4,63,Balanced
+High,Vegan,6.3,69,High Protein
+Low,Veg,8.2,63,Balanced
+Low,Non-Veg,8.9,31,Low Carb
+Medium,Veg,6.4,63,Balanced
+High,Non-Veg,4.8,61,Balanced
+High,Non-Veg,7.7,55,Balanced
+Low,Veg,8.4,37,Balanced
+Low,Non-Veg,7.9,62,Low Carb
+Low,Vegan,9.3,65,Balanced
+Medium,Non-Veg,9.4,58,Mediterranean
+Medium,Veg,6.5,51,Balanced
+Low,Vegan,7.3,46,Balanced
+High,Vegan,6.3,20,High Protein
+High,Non-Veg,5.5,27,Balanced
+Medium,Non-Veg,5.6,37,Mediterranean
+Medium,Veg,8.1,19,Balanced
+Low,Vegan,7.5,44,Balanced
+High,Veg,8.3,49,Balanced
+Low,Non-Veg,10.0,27,Low Carb
+Medium,Vegan,7.7,57,Balanced
+High,Veg,5.8,34,Balanced
+High,Veg,8.6,50,Balanced
+Medium,Veg,5.8,23,Balanced
+Low,Veg,9.6,56,Balanced
+Low,Veg,4.0,64,Balanced
+High,Vegan,6.2,35,High Protein
+Medium,Veg,7.9,26,Balanced
+High,Vegan,8.8,25,High Protein
+Medium,Veg,6.0,42,Balanced
+Low,Non-Veg,5.7,48,Low Carb
+Medium,Non-Veg,7.2,59,Mediterranean
+Low,Veg,9.9,21,Balanced
+Medium,Non-Veg,4.7,37,Mediterranean
+High,Vegan,6.5,45,High Protein
+Low,Veg,7.4,57,Balanced
+High,Vegan,5.8,18,High Protein
+High,Veg,5.8,57,Balanced
+Low,Non-Veg,6.6,61,Low Carb
+Low,Vegan,7.4,40,Balanced
+High,Non-Veg,6.7,64,Balanced
+High,Non-Veg,9.2,30,Balanced
+High,Veg,7.9,33,Balanced
+High,Vegan,7.6,43,High Protein
+Low,Non-Veg,8.5,48,Low Carb
+Low,Veg,7.6,67,Balanced
+High,Veg,6.3,18,Balanced
+Medium,Veg,6.6,34,Balanced
+Medium,Non-Veg,5.3,33,Mediterranean
+Low,Veg,10.0,54,Balanced
+High,Vegan,8.4,69,High Protein
+High,Vegan,4.0,27,High Protein
+Low,Non-Veg,9.0,55,Low Carb
+Medium,Vegan,4.8,61,Balanced
+Medium,Veg,7.8,48,Balanced
+Medium,Non-Veg,4.0,27,Mediterranean
+Low,Veg,6.4,66,Balanced
+Medium,Non-Veg,9.0,51,Mediterranean
+Low,Non-Veg,9.1,68,Low Carb
+Low,Veg,7.5,69,Balanced
+High,Vegan,8.2,23,High Protein
+Medium,Vegan,4.9,45,Balanced
+Low,Non-Veg,7.8,45,Low Carb
+Medium,Veg,8.3,30,Balanced
+Medium,Veg,10.0,58,Balanced
+High,Non-Veg,6.1,29,Balanced
+Medium,Vegan,7.0,67,Balanced
+High,Veg,7.1,57,Balanced
+Low,Vegan,8.0,67,Balanced
+Medium,Vegan,8.3,19,Balanced
+Low,Non-Veg,8.6,25,Low Carb
+Medium,Non-Veg,8.5,59,Mediterranean
+Low,Vegan,4.8,26,Balanced
+Medium,Veg,4.0,67,Balanced
+Medium,Veg,6.2,25,Balanced
+Medium,Non-Veg,6.9,68,Mediterranean
+Medium,Vegan,6.1,20,Balanced
+Medium,Veg,6.3,26,Balanced
+Medium,Veg,6.5,30,Balanced
+Medium,Non-Veg,7.9,26,Mediterranean
+Medium,Vegan,5.4,48,Balanced
+Medium,Veg,6.9,42,Balanced
+Low,Non-Veg,6.9,69,Low Carb
+High,Veg,7.8,61,Balanced
+Medium,Veg,8.7,62,Balanced
+High,Veg,9.5,25,Balanced
+Medium,Non-Veg,5.9,64,Mediterranean
+Medium,Vegan,4.0,48,Balanced
+Low,Non-Veg,6.6,62,Low Carb
+Low,Vegan,4.6,62,Balanced
+High,Veg,10.0,48,Balanced
+Low,Vegan,5.7,34,Balanced
+Low,Veg,7.8,64,Balanced
+High,Veg,8.4,36,Balanced
+Low,Non-Veg,7.5,20,Low Carb
+Medium,Veg,10.0,63,Balanced
+High,Non-Veg,6.7,47,Balanced
+High,Vegan,5.7,27,High Protein
+Medium,Vegan,5.7,66,Balanced
+Low,Veg,8.1,46,Balanced
+High,Non-Veg,6.7,57,Balanced
+High,Veg,5.7,35,Balanced
+Medium,Non-Veg,7.7,29,Mediterranean
+Medium,Non-Veg,8.1,66,Mediterranean
+Low,Non-Veg,7.4,40,Low Carb
+High,Vegan,8.3,28,High Protein
+Low,Non-Veg,7.1,26,Low Carb
+Low,Vegan,6.1,41,Balanced
+Medium,Non-Veg,8.2,42,Mediterranean
+High,Vegan,5.7,42,High Protein
+High,Vegan,5.3,64,High Protein
+High,Vegan,8.7,26,High Protein
+Medium,Veg,6.5,29,Balanced
+Medium,Non-Veg,9.5,28,Mediterranean
+Medium,Veg,8.3,66,Balanced
+Medium,Non-Veg,6.4,55,Mediterranean
+Medium,Non-Veg,7.7,45,Mediterranean
+High,Veg,10.0,25,Balanced
+Low,Vegan,8.1,27,Balanced
+High,Non-Veg,7.9,42,Balanced
+Low,Vegan,6.1,64,Balanced
+Medium,Veg,9.8,53,Balanced
+Low,Vegan,9.0,67,Balanced
+High,Non-Veg,6.1,60,Balanced
+High,Non-Veg,9.8,26,Balanced
+Low,Non-Veg,7.2,58,Low Carb
+Medium,Veg,5.7,25,Balanced
+Medium,Non-Veg,6.1,20,Mediterranean
+High,Veg,8.3,35,Balanced
+Low,Vegan,5.7,63,Balanced
+Medium,Non-Veg,5.3,52,Mediterranean
+Medium,Non-Veg,6.3,34,Mediterranean
+High,Non-Veg,6.6,53,Balanced
+Medium,Vegan,6.0,45,Balanced
+Low,Non-Veg,6.3,67,Low Carb
+High,Veg,8.4,32,Balanced
+High,Vegan,7.4,36,High Protein
+Low,Vegan,6.2,39,Balanced
+High,Vegan,6.4,23,High Protein
+Medium,Vegan,6.8,64,Balanced
+Medium,Vegan,6.9,24,Balanced
+Low,Veg,6.9,61,Balanced
+Medium,Vegan,8.3,65,Balanced
+Low,Non-Veg,7.3,26,Low Carb
+Low,Vegan,7.3,37,Balanced
+Medium,Vegan,9.1,54,Balanced
+Low,Vegan,9.8,28,Balanced
+Medium,Vegan,5.2,19,Balanced
+High,Vegan,4.6,39,High Protein
+High,Veg,6.5,65,Balanced
+Low,Veg,8.2,53,Balanced
+Medium,Vegan,7.6,22,Balanced
+Medium,Veg,8.6,24,Balanced
+High,Non-Veg,6.4,23,Balanced
+High,Vegan,4.1,39,High Protein
+Medium,Non-Veg,4.9,27,Mediterranean
+Low,Non-Veg,7.8,63,Low Carb
+High,Vegan,8.6,57,High Protein
+Low,Non-Veg,4.1,63,Low Carb
+Low,Non-Veg,9.1,63,Low Carb
+High,Non-Veg,7.7,37,Balanced
+Low,Vegan,6.9,45,Balanced
+Low,Vegan,6.1,40,Balanced
+Medium,Non-Veg,9.4,52,Mediterranean
+Low,Vegan,8.3,18,Balanced
+Medium,Vegan,7.7,46,Balanced
+High,Non-Veg,5.9,26,Balanced
+High,Vegan,9.4,26,High Protein
+Medium,Veg,7.0,39,Balanced
+High,Vegan,7.4,19,High Protein
+Low,Veg,7.1,33,Balanced
+Low,Non-Veg,5.9,57,Low Carb
+Low,Vegan,7.5,23,Balanced
+High,Non-Veg,8.0,30,Balanced
+Low,Non-Veg,6.3,50,Low Carb
+High,Non-Veg,7.4,36,Balanced
+Low,Non-Veg,7.1,32,Low Carb
+Medium,Non-Veg,8.4,50,Mediterranean
+High,Vegan,6.6,27,High Protein
+High,Veg,7.3,18,Balanced
+Low,Vegan,7.7,29,Balanced
+High,Vegan,6.5,60,High Protein
+High,Vegan,5.8,46,High Protein
+Medium,Vegan,6.0,34,Balanced
+Medium,Veg,7.6,21,Balanced
+Low,Vegan,6.6,46,Balanced
+Medium,Non-Veg,6.6,24,Mediterranean
+Low,Vegan,7.9,61,Balanced
+Low,Vegan,8.5,30,Balanced
+Low,Veg,8.8,22,Balanced
+High,Veg,6.1,23,Balanced
+Medium,Non-Veg,8.4,51,Mediterranean
+Low,Vegan,10.0,24,Balanced
+Medium,Vegan,7.2,63,Balanced
+Low,Vegan,6.9,45,Balanced
+Medium,Non-Veg,6.6,63,Mediterranean
+Medium,Veg,5.4,27,Balanced
+Low,Non-Veg,8.3,21,Low Carb
+High,Vegan,6.9,20,High Protein
+Medium,Veg,6.8,42,Balanced
+High,Veg,8.0,40,Balanced
+High,Non-Veg,8.2,44,Balanced
+Low,Veg,6.1,31,Balanced
+Low,Veg,6.1,55,Balanced
+Low,Vegan,6.1,49,Balanced
+Medium,Vegan,10.0,40,Balanced
+Low,Veg,9.2,64,Balanced
+Low,Veg,8.1,57,Balanced
+Medium,Non-Veg,6.4,54,Mediterranean
+Medium,Non-Veg,6.6,20,Mediterranean
+Low,Veg,7.5,52,Balanced
+Low,Vegan,10.0,30,Balanced
+Low,Veg,7.4,51,Balanced
+Low,Veg,7.8,41,Balanced
+High,Vegan,4.0,18,High Protein
+High,Vegan,7.4,29,High Protein
+Low,Non-Veg,4.9,25,Low Carb
+High,Non-Veg,6.3,36,Balanced
+Medium,Non-Veg,7.1,26,Mediterranean
+High,Non-Veg,6.5,45,Balanced
+High,Vegan,6.0,31,High Protein
+Low,Veg,6.1,44,Balanced
+High,Non-Veg,6.7,35,Balanced
+High,Non-Veg,6.6,59,Balanced
+High,Vegan,7.0,58,High Protein
+High,Vegan,6.9,23,High Protein
+Medium,Veg,8.9,50,Balanced
+Low,Veg,4.0,54,Balanced
+Low,Vegan,7.4,59,Balanced
+Medium,Non-Veg,7.1,42,Mediterranean
+High,Non-Veg,6.8,30,Balanced
+Medium,Non-Veg,5.9,40,Mediterranean
+High,Veg,6.8,53,Balanced
+Medium,Non-Veg,4.5,50,Mediterranean
+Low,Non-Veg,7.3,38,Low Carb
+Low,Vegan,7.6,51,Balanced
+Low,Non-Veg,5.9,53,Low Carb
+High,Vegan,9.9,34,High Protein
+High,Non-Veg,6.8,27,Balanced
+Medium,Veg,7.1,40,Balanced
+Medium,Non-Veg,9.0,61,Mediterranean
+Low,Non-Veg,10.0,19,Low Carb
+High,Vegan,5.3,52,High Protein
+Medium,Vegan,6.1,31,Balanced
+High,Vegan,6.8,64,High Protein
+High,Non-Veg,5.9,62,Balanced
+Low,Non-Veg,8.3,58,Low Carb
+Low,Veg,5.7,19,Balanced
+High,Non-Veg,8.9,36,Balanced
+High,Veg,7.9,33,Balanced
+High,Vegan,8.7,60,High Protein
+High,Vegan,5.7,61,High Protein
+Low,Vegan,6.4,42,Balanced
+Medium,Veg,8.3,18,Balanced
+Low,Non-Veg,8.1,19,Low Carb
+Medium,Vegan,6.6,65,Balanced
+High,Non-Veg,6.8,44,Balanced
+Medium,Non-Veg,6.3,19,Mediterranean
+Low,Vegan,6.7,47,Balanced
+Low,Veg,5.6,68,Balanced
+High,Non-Veg,5.3,27,Balanced
+Low,Vegan,8.5,36,Balanced
+High,Non-Veg,6.7,59,Balanced
+Low,Non-Veg,8.7,33,Low Carb
+Low,Non-Veg,7.9,30,Low Carb
+High,Non-Veg,7.5,65,Balanced
+Medium,Non-Veg,5.9,67,Mediterranean
+Low,Veg,5.2,25,Balanced
+Medium,Veg,6.3,67,Balanced
+Low,Vegan,9.3,48,Balanced
+Low,Veg,8.3,62,Balanced
+Low,Veg,6.2,42,Balanced
+Low,Veg,6.3,56,Balanced
+Medium,Non-Veg,5.6,38,Mediterranean
+Medium,Non-Veg,4.7,67,Mediterranean
+Low,Vegan,7.2,55,Balanced
+Low,Vegan,9.6,58,Balanced
+Medium,Vegan,9.6,46,Balanced
+High,Non-Veg,7.9,23,Balanced
+High,Veg,6.1,35,Balanced
+Medium,Veg,4.8,66,Balanced
+Low,Non-Veg,8.6,61,Low Carb
+Low,Vegan,7.7,52,Balanced
+High,Vegan,6.5,44,High Protein
+High,Vegan,6.3,22,High Protein
+Medium,Non-Veg,7.9,24,Mediterranean
+High,Vegan,5.8,27,High Protein
+Medium,Vegan,7.4,27,Balanced
+High,Non-Veg,5.2,68,Balanced
+High,Veg,10.0,45,Balanced
+High,Non-Veg,6.0,53,Balanced
+Low,Non-Veg,8.0,27,Low Carb
+Low,Non-Veg,5.2,67,Low Carb
+Low,Non-Veg,6.8,52,Low Carb
+High,Veg,8.3,52,Balanced
+Medium,Vegan,8.7,54,Balanced
+Medium,Non-Veg,8.1,65,Mediterranean
+Medium,Veg,6.8,37,Balanced
+Medium,Vegan,6.0,30,Balanced
+Low,Vegan,5.4,28,Balanced
+Low,Vegan,9.3,62,Balanced
+High,Non-Veg,7.2,36,Balanced
+High,Non-Veg,7.4,45,Balanced
+Medium,Vegan,8.7,55,Balanced
+Low,Vegan,7.9,62,Balanced
+Medium,Vegan,6.8,21,Balanced
+High,Vegan,8.1,54,High Protein
+High,Vegan,6.1,36,High Protein
+Medium,Vegan,4.7,54,Balanced
+High,Veg,9.1,31,Balanced
+Medium,Vegan,6.2,48,Balanced
+Low,Non-Veg,6.5,45,Low Carb
+Medium,Non-Veg,6.7,53,Mediterranean
+Low,Non-Veg,6.1,61,Low Carb
+Low,Vegan,8.7,55,Balanced
+High,Non-Veg,7.6,36,Balanced
+High,Veg,6.5,59,Balanced
+High,Vegan,5.1,18,High Protein
+Medium,Non-Veg,7.5,40,Mediterranean
+Medium,Veg,4.0,45,Balanced
+High,Veg,7.3,65,Balanced
+Medium,Non-Veg,9.0,21,Mediterranean
+High,Veg,7.1,58,Balanced
+Medium,Non-Veg,8.8,35,Mediterranean
+Low,Veg,5.2,66,Balanced
+Low,Vegan,10.0,64,Balanced
+High,Vegan,8.6,68,High Protein
+Medium,Vegan,7.7,56,Balanced
+Medium,Vegan,6.1,42,Balanced
+Low,Vegan,5.9,35,Balanced
+Low,Non-Veg,6.9,23,Low Carb
+High,Vegan,8.8,36,High Protein
+Low,Vegan,5.0,29,Balanced
+High,Vegan,7.0,42,High Protein
+Low,Vegan,8.1,52,Balanced
+Low,Veg,8.4,18,Balanced
+Medium,Vegan,8.1,22,Balanced
+Low,Vegan,4.9,18,Balanced
+Low,Non-Veg,8.7,25,Low Carb
+High,Veg,7.1,56,Balanced
+Low,Non-Veg,5.4,64,Low Carb
+High,Vegan,7.0,60,High Protein
+Low,Non-Veg,4.1,35,Low Carb
+Low,Non-Veg,7.9,63,Low Carb
+High,Vegan,6.8,26,High Protein
+Medium,Veg,5.1,22,Balanced
+High,Veg,6.6,21,Balanced
+High,Non-Veg,5.9,61,Balanced
+High,Vegan,6.0,46,High Protein
+Medium,Non-Veg,4.0,18,Mediterranean
+Low,Non-Veg,4.5,47,Low Carb
+High,Non-Veg,6.7,62,Balanced
+High,Vegan,6.4,18,High Protein
+Medium,Vegan,8.5,20,Balanced
+High,Veg,6.1,39,Balanced
+Low,Vegan,6.2,25,Balanced
+Medium,Non-Veg,6.3,35,Mediterranean
+Low,Non-Veg,6.7,42,Low Carb
+Low,Veg,7.1,65,Balanced
+Medium,Vegan,6.4,69,Balanced
+High,Non-Veg,7.9,37,Balanced
+Low,Veg,10.0,48,Balanced
+Low,Veg,5.8,47,Balanced
+Low,Non-Veg,7.6,33,Low Carb
+Low,Non-Veg,7.0,19,Low Carb
+Medium,Vegan,8.6,34,Balanced
+Medium,Veg,7.3,27,Balanced
+Low,Non-Veg,5.9,24,Low Carb
+High,Veg,5.3,59,Balanced
+Low,Vegan,7.9,68,Balanced
+High,Non-Veg,5.4,69,Balanced
+Low,Vegan,8.8,26,Balanced
+High,Veg,7.8,34,Balanced
+Low,Vegan,7.1,26,Balanced
+High,Vegan,5.0,26,High Protein
+Low,Veg,8.0,54,Balanced
+Low,Vegan,9.4,41,Balanced
+High,Veg,6.4,56,Balanced
+Medium,Non-Veg,5.9,28,Mediterranean
+High,Veg,6.9,25,Balanced
+Medium,Veg,7.7,42,Balanced
+Low,Non-Veg,6.2,63,Low Carb
+High,Veg,8.3,19,Balanced
+High,Non-Veg,9.9,27,Balanced
+High,Non-Veg,7.5,41,Balanced
+Medium,Veg,6.5,65,Balanced
+Medium,Vegan,7.7,33,Balanced
+Low,Vegan,8.8,36,Balanced
+Medium,Non-Veg,7.2,48,Mediterranean
+Medium,Vegan,7.7,28,Balanced
+Low,Vegan,8.1,23,Balanced
+High,Veg,5.7,23,Balanced
+High,Non-Veg,7.7,49,Balanced
+Low,Non-Veg,5.0,56,Low Carb
+High,Veg,6.0,65,Balanced
+Medium,Vegan,8.7,30,Balanced
+Low,Non-Veg,8.3,20,Low Carb
+Low,Vegan,6.6,58,Balanced
+Low,Non-Veg,9.6,52,Low Carb
+High,Non-Veg,5.0,55,Balanced
+Low,Non-Veg,6.7,34,Low Carb
+Low,Non-Veg,7.4,20,Low Carb
+Low,Vegan,4.0,51,Balanced
+High,Vegan,6.8,29,High Protein
+Medium,Vegan,5.3,41,Balanced
+Low,Vegan,5.3,23,Balanced
+Medium,Veg,6.6,59,Balanced
+High,Non-Veg,4.3,28,Balanced
+High,Non-Veg,5.8,65,Balanced
+High,Non-Veg,4.3,44,Balanced
+High,Veg,7.2,65,Balanced
+Medium,Vegan,7.2,41,Balanced
+Low,Non-Veg,6.5,35,Low Carb
+High,Vegan,8.5,44,High Protein
+High,Vegan,6.6,58,High Protein
+Medium,Veg,7.0,38,Balanced
+Medium,Veg,5.6,68,Balanced
+High,Vegan,4.0,51,High Protein
+Low,Non-Veg,6.8,50,Low Carb
+Low,Non-Veg,6.6,65,Low Carb
+High,Veg,9.6,35,Balanced
+Medium,Veg,8.0,20,Balanced
+High,Veg,6.4,41,Balanced
+High,Veg,7.2,18,Balanced
+Medium,Veg,8.4,23,Balanced
+High,Veg,7.8,36,Balanced
+High,Veg,9.5,39,Balanced
+High,Non-Veg,5.8,68,Balanced
+Medium,Veg,8.5,60,Balanced
+Low,Veg,6.4,25,Balanced
+Low,Non-Veg,7.3,22,Low Carb
+Medium,Non-Veg,6.2,69,Mediterranean
+Low,Vegan,6.8,26,Balanced
+High,Veg,7.3,64,Balanced
+Low,Veg,7.9,38,Balanced
+High,Veg,7.1,45,Balanced
+Low,Veg,4.0,63,Balanced
+Medium,Vegan,6.9,21,Balanced
+Low,Non-Veg,9.2,41,Low Carb
+Low,Non-Veg,6.9,25,Low Carb
+Low,Veg,9.2,69,Balanced
+Medium,Veg,6.8,34,Balanced
+Low,Veg,4.6,51,Balanced
+Medium,Vegan,6.4,37,Balanced
+High,Vegan,6.2,33,High Protein
+Low,Non-Veg,6.7,27,Low Carb
+Medium,Veg,5.2,51,Balanced
+Medium,Veg,7.0,60,Balanced
+Low,Veg,6.5,27,Balanced
+High,Veg,8.9,47,Balanced
+Medium,Vegan,5.2,47,Balanced
+Low,Non-Veg,7.4,68,Low Carb
+High,Non-Veg,7.6,42,Balanced
+Medium,Vegan,8.2,63,Balanced
+Medium,Veg,6.5,60,Balanced
+High,Non-Veg,7.3,58,Balanced
+High,Non-Veg,7.5,24,Balanced
+Low,Vegan,4.5,64,Balanced
+Low,Veg,6.5,37,Balanced
+Medium,Non-Veg,7.0,34,Mediterranean
+High,Veg,7.1,20,Balanced
+High,Non-Veg,7.1,64,Balanced
+High,Vegan,7.7,63,High Protein
+Medium,Veg,9.9,57,Balanced
+High,Vegan,6.1,53,High Protein
+High,Non-Veg,7.6,43,Balanced
+Medium,Vegan,9.0,27,Balanced
+Low,Vegan,4.3,51,Balanced
+Low,Vegan,7.4,31,Balanced
+Medium,Non-Veg,4.5,25,Mediterranean
+High,Veg,10.0,44,Balanced
+Medium,Vegan,7.8,27,Balanced
+Low,Veg,7.6,67,Balanced
+Low,Non-Veg,4.2,32,Low Carb
+Medium,Veg,6.2,54,Balanced
+Medium,Vegan,6.3,39,Balanced
+Low,Vegan,9.6,62,Balanced
+Medium,Vegan,8.1,67,Balanced
+Low,Vegan,4.5,48,Balanced
+Medium,Vegan,7.7,19,Balanced
+Medium,Vegan,4.7,62,Balanced
+Medium,Non-Veg,4.6,48,Mediterranean
+Low,Non-Veg,7.7,31,Low Carb
+Medium,Non-Veg,8.1,27,Mediterranean
+Low,Veg,7.7,47,Balanced
+Low,Veg,9.8,53,Balanced
+Medium,Non-Veg,7.6,64,Mediterranean
+Medium,Veg,7.3,57,Balanced
+Low,Veg,5.2,32,Balanced
+Low,Vegan,8.3,31,Balanced
+High,Vegan,4.5,48,High Protein
+Low,Veg,10.0,46,Balanced
+High,Veg,8.3,44,Balanced
+High,Non-Veg,10.0,38,Balanced
+High,Veg,7.6,26,Balanced
+Medium,Vegan,8.4,37,Balanced
+Medium,Veg,6.6,52,Balanced
+Low,Non-Veg,6.9,32,Low Carb
+High,Vegan,5.4,41,High Protein
+Medium,Vegan,4.8,66,Balanced
+Medium,Vegan,7.3,33,Balanced
+Medium,Vegan,6.9,53,Balanced
+Medium,Veg,5.4,28,Balanced
+Medium,Non-Veg,5.7,25,Mediterranean
+High,Veg,7.0,20,Balanced
+High,Veg,5.4,36,Balanced
+High,Vegan,7.5,63,High Protein
+High,Non-Veg,5.4,58,Balanced
+Low,Vegan,7.4,20,Balanced
+High,Veg,5.3,53,Balanced
+Medium,Veg,5.3,42,Balanced
+High,Vegan,4.0,53,High Protein
+Low,Veg,6.8,28,Balanced
+Medium,Veg,9.2,68,Balanced
+High,Vegan,9.1,33,High Protein
+High,Veg,7.5,34,Balanced
+High,Non-Veg,4.0,59,Balanced
+Medium,Vegan,8.3,41,Balanced
+Medium,Non-Veg,7.3,34,Mediterranean
+Low,Veg,6.4,65,Balanced
+Medium,Veg,8.8,37,Balanced
+Medium,Vegan,7.9,39,Balanced
+High,Veg,9.9,23,Balanced
+Medium,Vegan,4.9,24,Balanced
+High,Vegan,5.0,31,High Protein
+High,Vegan,5.3,28,High Protein
+Medium,Vegan,6.6,29,Balanced
+Low,Vegan,9.4,63,Balanced
+Low,Non-Veg,6.1,22,Low Carb
+Medium,Vegan,6.1,22,Balanced
+Low,Non-Veg,7.6,37,Low Carb
+High,Veg,8.3,32,Balanced
+High,Vegan,4.0,43,High Protein
+Medium,Veg,8.6,50,Balanced
+Low,Vegan,6.0,47,Balanced
+Low,Non-Veg,6.8,41,Low Carb
+High,Non-Veg,9.1,40,Balanced
+Medium,Non-Veg,6.7,26,Mediterranean
+Low,Veg,4.7,20,Balanced
+Medium,Vegan,4.8,53,Balanced
+Low,Veg,7.0,65,Balanced
+High,Non-Veg,6.5,24,Balanced
+High,Veg,7.1,39,Balanced
+Medium,Non-Veg,6.4,31,Mediterranean
+High,Non-Veg,8.9,65,Balanced
+Low,Non-Veg,7.0,46,Low Carb
+High,Vegan,4.4,67,High Protein
+Medium,Vegan,8.2,33,Balanced
+Medium,Non-Veg,9.9,65,Mediterranean
+Medium,Veg,7.2,51,Balanced
+Low,Veg,7.3,27,Balanced
+Low,Vegan,5.8,24,Balanced
+Low,Non-Veg,6.6,42,Low Carb
+Low,Veg,7.8,44,Balanced
+Low,Non-Veg,8.7,32,Low Carb
+High,Veg,7.7,49,Balanced
+Low,Vegan,9.7,45,Balanced
+Low,Non-Veg,7.1,26,Low Carb
+High,Non-Veg,5.3,24,Balanced
+Low,Veg,5.4,33,Balanced
+Medium,Veg,8.9,43,Balanced
+Low,Veg,8.5,52,Balanced
+Low,Non-Veg,4.5,34,Low Carb
+Medium,Vegan,6.7,40,Balanced
+Medium,Vegan,6.7,25,Balanced
+Medium,Veg,5.9,19,Balanced
+Medium,Vegan,4.9,48,Balanced
+Low,Veg,5.8,69,Balanced
+Medium,Vegan,5.6,49,Balanced
+Medium,Non-Veg,4.9,46,Mediterranean
+High,Veg,8.2,20,Balanced
+Medium,Vegan,7.4,25,Balanced
+Medium,Non-Veg,6.3,19,Mediterranean
+High,Vegan,4.0,48,High Protein
+High,Non-Veg,6.6,68,Balanced
+Low,Non-Veg,7.8,66,Low Carb
+High,Vegan,5.9,54,High Protein
+Low,Vegan,5.3,37,Balanced
+High,Non-Veg,6.8,46,Balanced
+High,Non-Veg,7.5,34,Balanced
+Low,Non-Veg,4.0,27,Low Carb
+High,Veg,9.0,58,Balanced
+Low,Non-Veg,5.1,39,Low Carb
+High,Veg,6.4,23,Balanced
+Medium,Non-Veg,8.8,60,Mediterranean
+High,Veg,7.2,51,Balanced
+Low,Non-Veg,8.6,48,Low Carb
+High,Non-Veg,9.3,29,Balanced
+Low,Non-Veg,4.8,29,Low Carb
+Low,Vegan,8.4,33,Balanced
+Medium,Vegan,9.0,42,Balanced
+Medium,Non-Veg,6.4,39,Mediterranean
+Low,Veg,6.6,44,Balanced
+High,Veg,4.1,41,Balanced
+Low,Non-Veg,8.2,29,Low Carb
+Low,Vegan,4.0,35,Balanced
+High,Veg,8.5,62,Balanced
+High,Vegan,4.9,64,High Protein
+High,Veg,9.1,33,Balanced
+High,Non-Veg,7.6,21,Balanced
+Low,Vegan,8.5,29,Balanced
+Low,Veg,5.8,66,Balanced
+Medium,Non-Veg,5.0,50,Mediterranean
+Low,Non-Veg,4.4,39,Low Carb
+High,Non-Veg,8.6,35,Balanced
+Medium,Vegan,8.0,65,Balanced
+High,Vegan,8.0,50,High Protein
+Low,Non-Veg,7.4,44,Low Carb
+Medium,Vegan,7.8,59,Balanced
+High,Veg,6.6,36,Balanced
+Medium,Non-Veg,7.6,65,Mediterranean
+Medium,Non-Veg,5.7,31,Mediterranean
+Low,Vegan,6.5,42,Balanced
+High,Non-Veg,10.0,51,Balanced
+Medium,Veg,7.1,41,Balanced
+Medium,Vegan,4.0,55,Balanced
+High,Vegan,6.4,40,High Protein
+Medium,Non-Veg,5.4,22,Mediterranean
+Medium,Non-Veg,7.2,61,Mediterranean
+Medium,Non-Veg,5.7,53,Mediterranean
+High,Vegan,6.7,41,High Protein
+High,Non-Veg,5.9,53,Balanced
+High,Veg,7.3,22,Balanced
+High,Non-Veg,6.1,56,Balanced
+Low,Non-Veg,7.5,23,Low Carb
+Medium,Vegan,9.9,62,Balanced
+High,Non-Veg,5.3,53,Balanced
+Medium,Vegan,8.1,62,Balanced
+Medium,Non-Veg,4.0,21,Mediterranean
+Low,Veg,6.7,27,Balanced
+High,Veg,7.3,69,Balanced
+High,Vegan,5.9,18,High Protein
+Medium,Vegan,4.3,38,Balanced
+High,Non-Veg,6.9,57,Balanced
+Medium,Non-Veg,9.3,56,Mediterranean
+Medium,Veg,6.8,54,Balanced
+Low,Non-Veg,7.8,20,Low Carb
+Low,Veg,8.7,64,Balanced
+Low,Vegan,10.0,48,Balanced
+Medium,Non-Veg,5.4,44,Mediterranean
+High,Vegan,5.6,34,High Protein
+Low,Non-Veg,6.6,40,Low Carb
+High,Veg,7.9,30,Balanced
+Low,Vegan,4.0,64,Balanced
+Low,Vegan,8.0,44,Balanced
+Medium,Non-Veg,7.2,68,Mediterranean
+Low,Vegan,6.2,37,Balanced
+Low,Veg,7.6,63,Balanced
+Medium,Vegan,8.3,30,Balanced
+High,Vegan,8.5,61,High Protein
+Low,Non-Veg,7.0,41,Low Carb
+Medium,Vegan,7.5,58,Balanced
+Low,Non-Veg,7.4,20,Low Carb
+Medium,Non-Veg,8.8,60,Mediterranean
+High,Vegan,7.6,27,High Protein
+High,Veg,8.0,18,Balanced
+Medium,Non-Veg,8.3,66,Mediterranean
+Medium,Vegan,9.9,30,Balanced
+Medium,Non-Veg,6.1,31,Mediterranean
+High,Veg,9.4,50,Balanced
+Low,Veg,10.0,19,Balanced
+High,Non-Veg,6.2,19,Balanced
+Medium,Veg,6.7,56,Balanced
+Medium,Vegan,6.4,58,Balanced
+High,Vegan,8.0,48,High Protein
+Medium,Non-Veg,4.2,21,Mediterranean
+High,Veg,6.3,51,Balanced
+Medium,Vegan,6.6,36,Balanced
+Low,Vegan,6.5,54,Balanced
+Low,Vegan,6.4,26,Balanced
+Medium,Non-Veg,6.3,41,Mediterranean
+High,Non-Veg,8.2,30,Balanced
+Low,Vegan,7.8,61,Balanced
+High,Vegan,9.6,47,High Protein
+Medium,Veg,8.2,36,Balanced
+High,Veg,5.4,58,Balanced
+Low,Veg,6.7,27,Balanced
+High,Non-Veg,6.6,68,Balanced
+High,Vegan,7.4,59,High Protein
+Medium,Non-Veg,8.6,61,Mediterranean
+Medium,Vegan,7.3,31,Balanced
+Medium,Veg,7.3,57,Balanced
+Low,Veg,7.0,65,Balanced
+Low,Veg,8.2,66,Balanced
+Medium,Veg,6.1,37,Balanced
+Medium,Vegan,4.8,21,Balanced
+Low,Veg,8.0,55,Balanced
+Low,Vegan,7.6,61,Balanced
+Low,Vegan,9.0,67,Balanced
+Low,Non-Veg,4.0,56,Low Carb
+Medium,Veg,6.8,22,Balanced
+Low,Veg,7.2,59,Balanced
+Medium,Non-Veg,4.7,49,Mediterranean
+High,Vegan,6.9,23,High Protein
+High,Veg,8.8,31,Balanced
+Low,Vegan,10.0,23,Balanced
+High,Non-Veg,8.5,31,Balanced
+High,Vegan,6.5,29,High Protein
+High,Veg,8.9,44,Balanced
+Low,Vegan,8.4,43,Balanced
+Low,Vegan,6.3,29,Balanced
+High,Veg,6.1,25,Balanced
+Medium,Veg,6.7,27,Balanced
+High,Vegan,5.4,33,High Protein
+Low,Vegan,6.5,69,Balanced
+Low,Non-Veg,7.7,43,Low Carb
+Low,Veg,8.6,25,Balanced
+High,Vegan,6.4,58,High Protein
+Medium,Veg,9.1,62,Balanced
+Low,Non-Veg,8.0,46,Low Carb
+Low,Vegan,8.0,37,Balanced
+High,Vegan,5.6,34,High Protein
+Medium,Vegan,9.7,36,Balanced
+High,Veg,7.8,34,Balanced
+Low,Non-Veg,6.5,56,Low Carb
+Medium,Veg,6.2,18,Balanced
+Medium,Vegan,6.5,69,Balanced
+Low,Non-Veg,5.5,46,Low Carb
+Medium,Vegan,8.5,31,Balanced
+Medium,Vegan,5.6,34,Balanced
+High,Veg,7.4,30,Balanced
+Low,Vegan,6.3,46,Balanced
+Low,Non-Veg,8.0,51,Low Carb
+Low,Vegan,8.2,44,Balanced
+Low,Vegan,6.0,63,Balanced
+Low,Veg,6.9,50,Balanced
+Medium,Non-Veg,4.8,46,Mediterranean
+High,Veg,9.6,54,Balanced
+Low,Vegan,8.6,56,Balanced
+High,Veg,4.9,36,Balanced
+High,Veg,5.7,63,Balanced
+Medium,Veg,6.8,41,Balanced
+Low,Veg,7.1,31,Balanced
+Medium,Vegan,6.0,64,Balanced
+Low,Vegan,5.3,54,Balanced
+Medium,Non-Veg,7.6,22,Mediterranean
+High,Veg,9.6,41,Balanced
+Low,Veg,7.1,51,Balanced
+High,Non-Veg,6.6,67,Balanced
+High,Veg,6.4,48,Balanced
+Medium,Non-Veg,5.4,47,Mediterranean
+Low,Vegan,6.0,26,Balanced
+High,Non-Veg,8.7,44,Balanced
+Medium,Veg,4.0,45,Balanced
+Low,Non-Veg,7.1,59,Low Carb
+Low,Vegan,7.0,43,Balanced
+High,Veg,7.2,35,Balanced
+Low,Vegan,8.1,53,Balanced
+High,Vegan,7.1,25,High Protein
+Low,Non-Veg,6.3,35,Low Carb
+Medium,Vegan,6.0,37,Balanced
+High,Veg,8.9,49,Balanced
+High,Vegan,8.6,46,High Protein
+Low,Vegan,10.0,66,Balanced
+Low,Non-Veg,6.6,65,Low Carb
+High,Vegan,6.0,35,High Protein
+Low,Non-Veg,7.7,24,Low Carb
+Medium,Non-Veg,7.6,18,Mediterranean
+Low,Veg,8.0,45,Balanced
+Medium,Veg,8.3,50,Balanced
+Medium,Veg,7.9,67,Balanced
+Medium,Veg,8.6,21,Balanced
+Medium,Non-Veg,8.8,37,Mediterranean
+Medium,Vegan,8.8,69,Balanced
+Low,Veg,4.0,53,Balanced
+Medium,Veg,7.3,48,Balanced
+Low,Veg,5.6,55,Balanced
+Medium,Vegan,8.6,45,Balanced
+High,Veg,4.0,20,Balanced
+Medium,Vegan,9.2,23,Balanced
+High,Non-Veg,5.7,62,Balanced
+Medium,Non-Veg,5.4,40,Mediterranean
+Medium,Non-Veg,7.5,24,Mediterranean
+Medium,Vegan,6.4,53,Balanced
+High,Veg,9.7,18,Balanced
+High,Veg,9.0,23,Balanced
+Medium,Veg,6.2,41,Balanced
+Low,Veg,8.6,54,Balanced
+Medium,Veg,6.2,62,Balanced
+High,Vegan,6.2,68,High Protein
+Medium,Non-Veg,8.1,53,Mediterranean
+High,Veg,9.2,41,Balanced
+High,Non-Veg,6.3,55,Balanced
+High,Vegan,6.5,62,High Protein
+Medium,Vegan,7.5,46,Balanced
+High,Veg,5.7,54,Balanced
+High,Vegan,9.3,62,High Protein
+Medium,Non-Veg,5.6,49,Mediterranean
+High,Veg,6.1,42,Balanced
+Medium,Veg,9.7,27,Balanced
+High,Non-Veg,7.3,52,Balanced
+Low,Veg,9.9,42,Balanced
+Low,Veg,6.7,44,Balanced
+High,Non-Veg,10.0,62,Balanced
+Low,Veg,7.9,49,Balanced
+Medium,Veg,5.9,29,Balanced
+Low,Non-Veg,5.8,21,Low Carb
+High,Vegan,4.8,59,High Protein
+High,Non-Veg,5.0,43,Balanced
+Medium,Veg,6.0,20,Balanced
+High,Non-Veg,5.5,34,Balanced
+Medium,Veg,4.0,26,Balanced
+Low,Veg,8.3,46,Balanced
+Low,Non-Veg,8.2,18,Low Carb
+Medium,Veg,7.5,35,Balanced
+Medium,Vegan,5.3,58,Balanced
+High,Veg,9.5,37,Balanced
+Low,Non-Veg,6.7,58,Low Carb
+Medium,Vegan,5.8,51,Balanced
+Low,Vegan,7.3,68,Balanced
+Medium,Veg,7.3,45,Balanced
+Low,Non-Veg,4.0,65,Low Carb
+High,Veg,7.0,52,Balanced
+Low,Veg,7.2,33,Balanced
+Low,Non-Veg,6.4,38,Low Carb
+Low,Non-Veg,5.0,30,Low Carb
+Low,Veg,5.1,52,Balanced
+Low,Vegan,7.8,59,Balanced
+High,Veg,8.1,49,Balanced
+Medium,Vegan,6.3,67,Balanced
+Low,Veg,7.6,55,Balanced
+High,Non-Veg,6.3,23,Balanced
+Low,Vegan,5.7,67,Balanced
+Low,Non-Veg,7.3,55,Low Carb
+Medium,Non-Veg,5.3,55,Mediterranean
+Low,Non-Veg,9.8,30,Low Carb
+High,Non-Veg,4.8,63,Balanced
+High,Non-Veg,7.4,56,Balanced
+Medium,Veg,7.2,30,Balanced
+Low,Vegan,7.1,64,Balanced
+High,Veg,9.2,29,Balanced
+Low,Veg,4.0,50,Balanced
+Low,Veg,7.6,45,Balanced
+Low,Non-Veg,6.6,20,Low Carb
+Medium,Veg,7.9,35,Balanced
+Low,Vegan,7.1,43,Balanced
+High,Veg,6.9,57,Balanced
+Low,Non-Veg,5.2,19,Low Carb
+High,Vegan,6.0,21,High Protein
+Low,Vegan,10.0,67,Balanced
+High,Vegan,7.9,45,High Protein
+High,Vegan,8.6,45,High Protein
+Low,Veg,6.5,42,Balanced
+Low,Non-Veg,5.7,43,Low Carb
+High,Vegan,8.2,62,High Protein
+Medium,Vegan,4.1,64,Balanced
+Low,Non-Veg,6.0,19,Low Carb
+Medium,Veg,6.5,59,Balanced
+Low,Vegan,8.4,51,Balanced
+Low,Veg,7.6,47,Balanced
+Low,Veg,6.3,38,Balanced
+Low,Veg,7.6,61,Balanced
+Medium,Veg,6.5,54,Balanced
+Low,Vegan,8.6,61,Balanced
+High,Vegan,7.4,40,High Protein
+High,Veg,9.6,50,Balanced
+Medium,Veg,6.6,19,Balanced
+Low,Non-Veg,8.8,44,Low Carb
+High,Non-Veg,7.1,65,Balanced
+Medium,Non-Veg,6.0,39,Mediterranean
+Low,Vegan,10.0,51,Balanced
+High,Non-Veg,9.0,33,Balanced
+High,Vegan,7.4,37,High Protein
+Medium,Vegan,8.1,43,Balanced
+Low,Vegan,5.4,33,Balanced
+Low,Vegan,5.4,23,Balanced
+High,Non-Veg,8.7,62,Balanced
+High,Veg,7.0,61,Balanced
+High,Veg,6.8,40,Balanced
+Low,Veg,6.6,59,Balanced
+Medium,Non-Veg,7.2,54,Mediterranean
+Medium,Veg,6.6,25,Balanced
+Low,Non-Veg,4.0,23,Low Carb
+Medium,Non-Veg,9.1,54,Mediterranean
+High,Non-Veg,6.8,69,Balanced
+Medium,Veg,9.7,39,Balanced
+Medium,Veg,4.4,23,Balanced
+Medium,Veg,4.4,49,Balanced
+High,Vegan,6.6,34,High Protein
+Low,Non-Veg,8.5,55,Low Carb
+High,Vegan,5.2,34,High Protein
+Low,Non-Veg,5.1,54,Low Carb
+Low,Veg,7.6,40,Balanced
+Low,Non-Veg,6.5,66,Low Carb
+Medium,Non-Veg,7.8,66,Mediterranean
+Medium,Vegan,6.6,30,Balanced
+Low,Non-Veg,7.6,49,Low Carb
+Low,Veg,9.0,39,Balanced
+Medium,Non-Veg,5.2,24,Mediterranean
+High,Non-Veg,8.8,39,Balanced
+Low,Non-Veg,4.4,38,Low Carb
+High,Vegan,7.9,23,High Protein
+Medium,Non-Veg,9.1,31,Mediterranean
+Low,Non-Veg,6.2,33,Low Carb
+High,Vegan,8.0,20,High Protein
+High,Vegan,6.3,26,High Protein
+High,Vegan,7.9,64,High Protein
+Medium,Vegan,4.0,38,Balanced
+Medium,Veg,7.2,67,Balanced
+High,Veg,7.6,47,Balanced
+High,Non-Veg,9.0,47,Balanced
+Medium,Veg,8.4,59,Balanced
+High,Non-Veg,6.8,59,Balanced
+High,Veg,7.4,49,Balanced
+Medium,Vegan,4.8,40,Balanced
+High,Vegan,9.5,20,High Protein
+High,Veg,8.0,18,Balanced
+High,Veg,4.2,20,Balanced
+Medium,Non-Veg,7.4,54,Mediterranean
+High,Non-Veg,7.5,24,Balanced
+Medium,Non-Veg,5.8,20,Mediterranean
+Medium,Vegan,7.1,53,Balanced
+Low,Vegan,5.7,66,Balanced
+Low,Vegan,4.9,20,Balanced
+High,Vegan,6.1,21,High Protein
+Medium,Non-Veg,7.3,48,Mediterranean
+Low,Vegan,8.4,19,Balanced
+High,Vegan,7.1,31,High Protein
+Low,Vegan,8.4,54,Balanced
+Low,Vegan,8.0,48,Balanced
+Medium,Veg,5.4,19,Balanced
+Medium,Non-Veg,8.0,48,Mediterranean
+Low,Non-Veg,8.0,64,Low Carb
+Low,Vegan,9.6,60,Balanced
+Medium,Veg,7.6,39,Balanced
+High,Non-Veg,5.1,27,Balanced
+Medium,Non-Veg,6.2,69,Mediterranean
+Low,Vegan,4.2,47,Balanced
